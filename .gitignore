@@ -1,2 +1,6 @@
 # .gitignore
 
+# Ignore Altium History folders
+/Altium/Solens/History/
+/Altium/Integrated_Library/History/
+
