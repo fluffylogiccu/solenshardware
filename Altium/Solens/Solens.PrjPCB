@@ -703,13 +703,13 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=BOM Review.XLT|BatchMode=5|FormWidth=1398|FormHeight=850|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Templates\BOM_All.xlt|BatchMode=6|FormWidth=1398|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name4=GroupOrder
-Configuration4_Item4=Comment=True|Footprint=True
+Configuration4_Item4=
 Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration4_Item5=Designator=Up
 Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=128|Description=94|Designator=94|Footprint=94|LibRef=94|Quantity=96|PackageName=94|PartNumber=94
+Configuration4_Item6=Designator=99|Value=75|Footprint=100|LibRef=71|Quantity=71|PackageName=81|PartNumber=63|Component Kind=89|PartType=77|Pins=37|ScrewSize=39|Comment=100|Model:Footprint=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
