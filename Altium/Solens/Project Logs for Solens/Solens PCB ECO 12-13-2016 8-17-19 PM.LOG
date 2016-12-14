@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=SJ601 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ602 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ603 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ604 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ606 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ608 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ609 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Footprint: Designator=SJ610 Old Footprint=SJ_0805 New Footprint=SJ_0603
+Change Component Comment : Designator=SJ601 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ602 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ603 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ604 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ606 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ608 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ609 Old Comment=0805 New Comment=0603
+Change Component Comment : Designator=SJ610 Old Comment=0805 New Comment=0603
+Added Room: Name=Solens
