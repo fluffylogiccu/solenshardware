@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~238|ReportField=ReportTime~10:36:24 PM|ReportField=ReportDate~12/9/2016|ReportField=ReportDateTime~12/9/2016 10:36:24 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/9/2016|ReportField=CurrentTime~10:33:52 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~238|ReportField=ReportTime~9:39:30 PM|ReportField=ReportDate~12/13/2016|ReportField=ReportDateTime~12/13/2016 9:39:30 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/13/2016|ReportField=CurrentTime~9:17:34 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -168,16 +168,16 @@
 167|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
 168|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
 169|SJ600||SJ_0805|SJ|1|||Standard|0805|2||0805|
-170|SJ601||SJ_0805|SJ|1|||Standard|0805|2||0805|
-171|SJ602||SJ_0805|SJ|1|||Standard|0805|2||0805|
-172|SJ603||SJ_0805|SJ|1|||Standard|0805|2||0805|
-173|SJ604||SJ_0805|SJ|1|||Standard|0805|2||0805|
+170|SJ601||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+171|SJ602||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+172|SJ603||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+173|SJ604||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
 174|SJ605||SJ_0805|SJ|1|||Standard|0805|2||0805|
-175|SJ606||SJ_0805|SJ|1|||Standard|0805|2||0805|
+175|SJ606||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
 176|SJ607||SJ_0805|SJ|1|||Standard|0805|2||0805|
-177|SJ608||SJ_0805|SJ|1|||Standard|0805|2||0805|
-178|SJ609||SJ_0805|SJ|1|||Standard|0805|2||0805|
-179|SJ610||SJ_0805|SJ|1|||Standard|0805|2||0805|
+177|SJ608||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+178|SJ609||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+179|SJ610||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
 180|SJ700||SJ_0805|SJ|1|||Standard|0805|2||0805|
 181|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
 182|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
