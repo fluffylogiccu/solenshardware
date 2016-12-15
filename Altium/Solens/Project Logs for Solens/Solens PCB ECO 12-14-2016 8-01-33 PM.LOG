@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SD_A4 Pin=RR502-1
+Removed Pin From Net: NetName=SD_A5 Pin=RR502-2
+Removed Pin From Net: NetName=SD_A5_T Pin=RR502-7
+Removed Pin From Net: NetName=SD_A4_T Pin=RR502-8
+Removed Pin From Net: NetName=SD_NWE Pin=RR507-2
+Removed Pin From Net: NetName=SD_NRAS Pin=RR507-3
+Removed Pin From Net: NetName=SD_NRAS_T Pin=RR507-6
+Removed Pin From Net: NetName=SD_NWE_T Pin=RR507-7
+Added Component: Designator=R502(RES_0805)
+Added Pin To Net: NetName=SD_NRAS Pin=R502-1
+Added Pin To Net: NetName=SD_NRAS_T Pin=R502-2
+Added Pin To Net: NetName=SD_A4_T Pin=RR507-1
+Added Pin To Net: NetName=SD_A5_T Pin=RR507-2
+Added Pin To Net: NetName=SD_NWE_T Pin=RR507-3
+Added Pin To Net: NetName=SD_NWE Pin=RR507-6
+Added Pin To Net: NetName=SD_A5 Pin=RR507-7
+Added Pin To Net: NetName=SD_A4 Pin=RR507-8
+Added Member To Class: ClassName=Z3 Member=Component R502 0805

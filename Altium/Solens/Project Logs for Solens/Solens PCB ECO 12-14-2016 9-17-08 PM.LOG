@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SD_A6 Pin=RR502-3
+Removed Pin From Net: NetName=SD_A7 Pin=RR502-4
+Removed Pin From Net: NetName=SD_A7_T Pin=RR502-5
+Removed Pin From Net: NetName=SD_A6_T Pin=RR502-6
+Removed Pin From Net: NetName=SD_BA0_T Pin=RR508-3
+Removed Pin From Net: NetName=SD_BA1_T Pin=RR508-4
+Removed Pin From Net: NetName=SD_BA1 Pin=RR508-5
+Removed Pin From Net: NetName=SD_BA0 Pin=RR508-6
+Removed Member From Class: ClassName=Z3 Member=RR508
+Added Pin To Net: NetName=SD_BA0_T Pin=RR502-1
+Added Pin To Net: NetName=SD_BA1_T Pin=RR502-2
+Added Pin To Net: NetName=SD_A6_T Pin=RR502-3
+Added Pin To Net: NetName=SD_A7_T Pin=RR502-4
+Added Pin To Net: NetName=SD_A7 Pin=RR502-5
+Added Pin To Net: NetName=SD_A6 Pin=RR502-6
+Added Pin To Net: NetName=SD_BA1 Pin=RR502-7
+Added Pin To Net: NetName=SD_BA0 Pin=RR502-8

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SD_NE1 Pin=RR507-1
+Removed Pin From Net: NetName=SD_NCAS Pin=RR507-4
+Removed Pin From Net: NetName=SD_NCAS_T Pin=RR507-5
+Removed Pin From Net: NetName=SD_NE1_T Pin=RR507-8
+Removed Pin From Net: NetName=SD_NBL1_T Pin=RR508-1
+Removed Pin From Net: NetName=SD_NBL0_T Pin=RR508-2
+Removed Pin From Net: NetName=SD_NBL0 Pin=RR508-7
+Removed Pin From Net: NetName=SD_NBL1 Pin=RR508-8
+Added Component: Designator=RR509(CAC-80P319X150-8M)
+Added Pin To Net: NetName=SD_NCAS_T Pin=RR509-1
+Added Pin To Net: NetName=SD_NE1_T Pin=RR509-2
+Added Pin To Net: NetName=SD_NBL0_T Pin=RR509-3
+Added Pin To Net: NetName=SD_NBL1_T Pin=RR509-4
+Added Pin To Net: NetName=SD_NBL1 Pin=RR509-5
+Added Pin To Net: NetName=SD_NBL0 Pin=RR509-6
+Added Pin To Net: NetName=SD_NE1 Pin=RR509-7
+Added Pin To Net: NetName=SD_NCAS Pin=RR509-8
+Added Member To Class: ClassName=Z3 Member=Component RR509 RES_ARR_4
+Added Room: Name=Solens
+Added Room: Name=Z3
+Added Room: Name=Z4

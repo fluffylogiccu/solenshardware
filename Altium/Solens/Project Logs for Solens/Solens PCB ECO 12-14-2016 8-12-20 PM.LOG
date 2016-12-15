@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PH14-OSC32_IN Pin=SJ107-1
+Removed Pin From Net: NetName=PH15-OSC32_OUT Pin=SJ108-1
+Added Pin To Net: NetName=PH15-OSC32_OUT Pin=SJ107-1
+Added Pin To Net: NetName=PH14-OSC32_IN Pin=SJ108-1
