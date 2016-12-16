@@ -1,0 +1,14 @@
+Added Component: Designator=U700(ESP8266 ESP-12-E)
+Added Pin To Net: NetName=RST_L Pin=U700-1
+Added Pin To Net: NetName=NetR701_1 Pin=U700-3
+Added Pin To Net: NetName=HSPICLK Pin=U700-5
+Added Pin To Net: NetName=HSPIMISO Pin=U700-6
+Added Pin To Net: NetName=HSPIMOSI Pin=U700-7
+Added Pin To Net: NetName=VCC_ESP Pin=U700-8
+Added Pin To Net: NetName=GND Pin=U700-15
+Added Pin To Net: NetName=HSPICS Pin=U700-16
+Added Pin To Net: NetName=GPIO2 Pin=U700-17
+Added Pin To Net: NetName=GPIO0 Pin=U700-18
+Added Pin To Net: NetName=NetR705_1 Pin=U700-21
+Added Pin To Net: NetName=NetR704_1 Pin=U700-22
+Added Member To Class: ClassName=Z7 Member=Component U700 
