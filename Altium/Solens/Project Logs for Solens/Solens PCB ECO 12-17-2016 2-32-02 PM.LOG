@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SD_D4 Pin=RR503-1
+Removed Pin From Net: NetName=SD_D5 Pin=RR503-2
+Removed Pin From Net: NetName=SD_D6 Pin=RR503-3
+Removed Pin From Net: NetName=SD_D7 Pin=RR503-4
+Removed Pin From Net: NetName=SD_D7_T Pin=RR503-5
+Removed Pin From Net: NetName=SD_D6_T Pin=RR503-6
+Removed Pin From Net: NetName=SD_D5_T Pin=RR503-7
+Removed Pin From Net: NetName=SD_D4_T Pin=RR503-8
+Added Pin To Net: NetName=SD_D4_T Pin=RR503-1
+Added Pin To Net: NetName=SD_D5_T Pin=RR503-2
+Added Pin To Net: NetName=SD_D6_T Pin=RR503-3
+Added Pin To Net: NetName=SD_D7_T Pin=RR503-4
+Added Pin To Net: NetName=SD_D7 Pin=RR503-5
+Added Pin To Net: NetName=SD_D6 Pin=RR503-6
+Added Pin To Net: NetName=SD_D5 Pin=RR503-7
+Added Pin To Net: NetName=SD_D4 Pin=RR503-8
