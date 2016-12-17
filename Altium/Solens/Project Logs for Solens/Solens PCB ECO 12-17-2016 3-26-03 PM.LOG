@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SD_CLK_T Pin=TP500-1
+Change Component Footprint: Designator=TP500 Old Footprint=TP_SMALL New Footprint=TP_TINY
+Change Component Comment : Designator=TP500 Old Comment= New Comment=TP_TINY
+Added Component: Designator=TP501(TP_TINY)
+Added Pin To Net: NetName=GND Pin=TP500-1
+Added Pin To Net: NetName=SD_CLK_T Pin=TP501-1
+Added Member To Class: ClassName=Z3 Member=Component TP501 TP_TINY
