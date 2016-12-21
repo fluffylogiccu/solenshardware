@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=TP202 Old Footprint=TP_SMALL New Footprint=TP_TINY
+Change Component Comment : Designator=TP202 Old Comment= New Comment=TP_TINY
