@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~240|ReportField=ReportTime~8:22:42 PM|ReportField=ReportDate~12/20/2016|ReportField=ReportDateTime~12/20/2016 8:22:42 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/20/2016|ReportField=CurrentTime~8:22:39 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~240|ReportField=ReportTime~2:26:24 PM|ReportField=ReportDate~12/24/2016|ReportField=ReportDateTime~12/24/2016 2:26:24 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/24/2016|ReportField=CurrentTime~2:26:13 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -143,43 +143,43 @@
 142|R708|100|RES_0805|Res1|1|||Standard|0805|2||0805|
 143|R709|100|RES_0805|Res1|1|||Standard|0805|2||0805|
 144|R710|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-145|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-146|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-147|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-148|RR503|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-149|RR504|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-150|RR505|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-151|RR506|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-152|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-153|RR509|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-154|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
-155|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
-156|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
-157|SJ103||SJ_0805|SJ|1|||Standard|0805|2||0805|
-158|SJ104||SJ_0805|SJ|1|||Standard|0805|2||0805|
-159|SJ105||SJ_0805|SJ|1|||Standard|0805|2||0805|
-160|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
-161|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
-162|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
-163|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
-164|SJ110||SJ_0805|SJ|1|||Standard|0805|2||0805|
-165|SJ111||SJ_0805|SJ|1|||Standard|0805|2||0805|
-166|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
-167|SJ200||SJ_0805|SJ|1|||Standard|0805|2||0805|
-168|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
-169|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
-170|SJ600||SJ_0805|SJ|1|||Standard|0805|2||0805|
-171|SJ601||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-172|SJ602||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-173|SJ603||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-174|SJ604||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-175|SJ605||SJ_0805|SJ|1|||Standard|0805|2||0805|
-176|SJ606||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-177|SJ607||SJ_0805|SJ|1|||Standard|0805|2||0805|
-178|SJ608||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-179|SJ609||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-180|SJ610||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-181|SJ700||SJ_0805|SJ|1|||Standard|0805|2||0805|
+145|R711|0|RES_1206|Res1|1|||Standard|1206|2||1206|
+146|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+147|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+148|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+149|RR503|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+150|RR504|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+151|RR505|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+152|RR506|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+153|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+154|RR509|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+155|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
+156|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
+157|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
+158|SJ103||SJ_0805|SJ|1|||Standard|0805|2||0805|
+159|SJ104||SJ_0805|SJ|1|||Standard|0805|2||0805|
+160|SJ105||SJ_0805|SJ|1|||Standard|0805|2||0805|
+161|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
+162|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
+163|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
+164|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
+165|SJ110||SJ_0805|SJ|1|||Standard|0805|2||0805|
+166|SJ111||SJ_0805|SJ|1|||Standard|0805|2||0805|
+167|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
+168|SJ200||SJ_0805|SJ|1|||Standard|0805|2||0805|
+169|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
+170|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
+171|SJ600||SJ_0805|SJ|1|||Standard|0805|2||0805|
+172|SJ601||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+173|SJ602||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+174|SJ603||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+175|SJ604||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+176|SJ605||SJ_0805|SJ|1|||Standard|0805|2||0805|
+177|SJ606||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+178|SJ607||SJ_0805|SJ|1|||Standard|0805|2||0805|
+179|SJ608||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+180|SJ609||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+181|SJ610||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
 182|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
 183|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
 184|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
