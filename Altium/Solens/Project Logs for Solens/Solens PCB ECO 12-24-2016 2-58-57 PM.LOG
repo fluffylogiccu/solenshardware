@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=TP602-1
+Removed Pin From Net: NetName=CAM_XCLK_T Pin=TP603-1
+Removed Pin From Net: NetName=CAM_PCLK Pin=TP604-1
+Removed Member From Class: ClassName=Z6 Member=TP602
+Removed Member From Class: ClassName=Z6 Member=TP603
+Removed Member From Class: ClassName=Z6 Member=TP604

@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~240|ReportField=ReportTime~2:26:24 PM|ReportField=ReportDate~12/24/2016|ReportField=ReportDateTime~12/24/2016 2:26:24 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/24/2016|ReportField=CurrentTime~2:26:13 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~237|ReportField=ReportTime~3:44:27 PM|ReportField=ReportDate~12/24/2016|ReportField=ReportDateTime~12/24/2016 3:44:27 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/24/2016|ReportField=CurrentTime~3:01:17 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -219,23 +219,20 @@
 218|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
 219|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
 220|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-221|TP602||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-222|TP603||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-223|TP604||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-224|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-225|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-226|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-227|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
-228|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
-229|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-230|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-231|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
-232|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-233|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-234|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
-235|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
-236|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
-237|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
-238|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
-239|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
-240|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+221|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+222|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+223|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+224|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
+225|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
+226|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+227|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+228|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
+229|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+230|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+231|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
+232|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
+233|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
+234|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
+235|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
+236|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+237|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
