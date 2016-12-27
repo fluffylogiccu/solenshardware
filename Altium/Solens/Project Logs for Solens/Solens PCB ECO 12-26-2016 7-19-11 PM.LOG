@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWR_CHRG_L Pin=U100-21
+Removed Pin From Net: NetName=PWR_FAULT_L Pin=U100-22
+Removed Pin From Net: NetName=3V3_PG Pin=U100-27
+Removed Pin From Net: NetName=PV_SHDN_L Pin=U100-28
+Added Pin To Net: NetName=3V3_PG Pin=U100-110
+Added Pin To Net: NetName=PWR_CHRG_L Pin=U100-128
+Added Pin To Net: NetName=PWR_FAULT_L Pin=U100-129
+Added Pin To Net: NetName=PV_SHDN_L Pin=U100-134
