@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~237|ReportField=ReportTime~3:44:27 PM|ReportField=ReportDate~12/24/2016|ReportField=ReportDateTime~12/24/2016 3:44:27 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/24/2016|ReportField=CurrentTime~3:01:17 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/7/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~Y:\Fluffy Logic\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~99|Field=Value~String~Value~75|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~71|Field=Quantity~Integer~Quantity~71|Field=PackageName~String~PackageName~81|Field=PartNumber~String~PartNumber~63|Field=Component Kind~String~Component Kind~89|Field=PartType~String~PartType~77|Field=Pins~Integer~Pins~37|Field=ScrewSize~String~ScrewSize~39|Field=Comment~String~Comment~100|Field=Model:Footprint~String~Model:Footprint~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\akyo9778\Desktop\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~235|ReportField=ReportTime~6:40:06 PM|ReportField=ReportDate~12/26/2016|ReportField=ReportDateTime~12/26/2016 6:40:06 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/26/2016|ReportField=CurrentTime~6:40:05 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\akyo9778\Desktop\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/26/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\akyo9778\Desktop\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -188,51 +188,49 @@
 187|TP102||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
 188|TP103||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
 189|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-190|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-191|TP106||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-192|TP107||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-193|TP108||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-194|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-195|TP201||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-196|TP202||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-197|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-198|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-199|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-200|TP206||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-201|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-202|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-203|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-204|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-205|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-206|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-207|TP303||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-208|TP304||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-209|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-210|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-211|TP307||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-212|TP308||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-213|TP309||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-214|TP310||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-215|TP400||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-216|TP401||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-217|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-218|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-219|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-220|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-221|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-222|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-223|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-224|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
-225|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
-226|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-227|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-228|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
-229|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-230|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-231|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
-232|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
-233|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
-234|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
-235|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
-236|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
-237|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+190|TP106||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+191|TP107||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+192|TP108||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+193|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+194|TP201||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+195|TP202||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+196|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+197|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+198|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+199|TP206||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+200|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+201|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+202|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+203|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+204|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+205|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+206|TP304||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+207|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+208|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+209|TP307||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+210|TP308||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+211|TP309||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+212|TP310||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+213|TP400||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+214|TP401||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+215|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+216|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+217|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+218|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+219|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+220|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+221|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+222|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
+223|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
+224|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+225|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+226|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
+227|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+228|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+229|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
+230|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
+231|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
+232|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
+233|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
+234|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+235|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
