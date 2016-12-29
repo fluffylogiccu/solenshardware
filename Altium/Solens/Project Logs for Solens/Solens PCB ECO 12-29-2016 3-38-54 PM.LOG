@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=WIFI_TX Pin=U100-36
+Removed Pin From Net: NetName=WIFI_RX Pin=U100-37
+Removed Pin From Net: NetName=EXTRA_TX Pin=U100-101
+Removed Pin From Net: NetName=EXTRA_RX Pin=U100-137
+Added Pin To Net: NetName=EXTRA_TX Pin=U100-36
+Added Pin To Net: NetName=EXTRA_RX Pin=U100-37
+Added Pin To Net: NetName=WIFI_TX Pin=U100-101
+Added Pin To Net: NetName=WIFI_RX Pin=U100-137
