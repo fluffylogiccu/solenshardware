@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J600 Old Footprint=HDR_100TH_2X10 New Footprint=OV5642_HDR_2x10
+Added Member To Class: ClassName=Z3 Member=Component RR500 RES_ARR_4
+Added Member To Class: ClassName=Z4 Member=Component TP106 TP_LARGE
