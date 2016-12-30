@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Solens1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -311,7 +311,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Solens1\Design Rule Check - Solens.html
+DocumentPath=Project Outputs for Solens\Design Rule Check - Solens.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -378,7 +378,7 @@ PageDef.mmMarginTop=6350
 PageDef.mmMarginBottom=6350
 
 [Generic_EDE]
-OutputDir=Project Outputs for Solens1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
