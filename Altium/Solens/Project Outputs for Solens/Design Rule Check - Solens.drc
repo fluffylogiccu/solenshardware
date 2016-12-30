@@ -1,13 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
 Date     : 12/30/2016
-Time     : 10:36:54 AM
+Time     : 10:54:57 AM
 
 WARNING: Unplated multi-layer pad(s) detected
+   Pad MTGH4-1(6496.063mil,196.85mil) on Multi-Layer on Net GND
    Pad MTGH3-1(6496.063mil,3543.307mil) on Multi-Layer on Net GND
    Pad MTGH2-1(196.85mil,3543.307mil) on Multi-Layer on Net GND
    Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer on Net GND
-   Pad MTGH4-1(6496.063mil,196.85mil) on Multi-Layer on Net GND
 
 Processing Rule : Width Constraint (Min=8mil) (Max=120mil) (Preferred=8mil) (InComponent('MTGH*'))
 Rule Violations :0
@@ -28,14 +28,7 @@ Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ601" (4862.205mil,1151.575mil) on Top Overlay And Text "SJ600" (4862.205mil,1092.52mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ603" (4862.205mil,1210.63mil) on Top Overlay And Text "SJ601" (4862.205mil,1151.575mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ604" (4862.205mil,1269.685mil) on Top Overlay And Text "SJ603" (4862.205mil,1210.63mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ606" (4862.205mil,1328.74mil) on Top Overlay And Text "SJ604" (4862.205mil,1269.685mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ608" (4862.205mil,1387.795mil) on Top Overlay And Text "SJ606" (4862.205mil,1328.74mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ609" (4862.205mil,1446.85mil) on Top Overlay And Text "SJ608" (4862.205mil,1387.795mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5mil) Between Text "SJ610" (4862.205mil,1505.906mil) on Top Overlay And Text "SJ609" (4862.205mil,1446.85mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :7
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
 Rule Violations :0
@@ -93,5 +86,5 @@ Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertic
 Rule Violations :0
 
 
-Violations Detected : 11
-Time Elapsed        : 00:00:05
+Violations Detected : 4
+Time Elapsed        : 00:00:04
