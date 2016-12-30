@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=TP102-1
+Removed Member From Class: ClassName=Z3 Member=RR509
+Removed Member From Class: ClassName=Z4 Member=TP108
+Change Component Designator: OldDesignator=D300 NewDesignator=D301
+Change Component Designator: OldDesignator=D301 NewDesignator=D302
+Change Component Designator: OldDesignator=D302 NewDesignator=D303
+Change Component Designator: OldDesignator=D303 NewDesignator=D304
+Change Component Designator: OldDesignator=D304 NewDesignator=D300
+Change Component Designator: OldDesignator=R100 NewDesignator=R101
+Change Component Designator: OldDesignator=R101 NewDesignator=R100
+Change Component Designator: OldDesignator=R106 NewDesignator=R105
+Change Component Designator: OldDesignator=R112 NewDesignator=R106
+Change Component Designator: OldDesignator=R114 NewDesignator=R107
+Change Component Designator: OldDesignator=R115 NewDesignator=R108
+Change Component Designator: OldDesignator=R116 NewDesignator=R109
+Change Component Designator: OldDesignator=R303 NewDesignator=R304
+Change Component Designator: OldDesignator=R304 NewDesignator=R305
+Change Component Designator: OldDesignator=R305 NewDesignator=R306
+Change Component Designator: OldDesignator=R306 NewDesignator=R307
+Change Component Designator: OldDesignator=R307 NewDesignator=R303
+Change Component Designator: OldDesignator=R402 NewDesignator=R403
+Change Component Designator: OldDesignator=R403 NewDesignator=R402
+Change Component Designator: OldDesignator=R500 NewDesignator=R501
+Change Component Designator: OldDesignator=R501 NewDesignator=R502
+Change Component Designator: OldDesignator=R502 NewDesignator=R500
+Change Component Designator: OldDesignator=R603 NewDesignator=R602
+Change Component Designator: OldDesignator=R707 NewDesignator=R708
+Change Component Designator: OldDesignator=R708 NewDesignator=R709
+Change Component Designator: OldDesignator=R709 NewDesignator=R710
+Change Component Designator: OldDesignator=R710 NewDesignator=R711
+Change Component Designator: OldDesignator=R711 NewDesignator=R707
+Change Component Designator: OldDesignator=RR500 NewDesignator=RR507
+Change Component Designator: OldDesignator=RR501 NewDesignator=RR505
+Change Component Designator: OldDesignator=RR502 NewDesignator=RR508
+Change Component Designator: OldDesignator=RR503 NewDesignator=RR504
+Change Component Designator: OldDesignator=RR504 NewDesignator=RR502
+Change Component Designator: OldDesignator=RR505 NewDesignator=RR503
+Change Component Designator: OldDesignator=RR507 NewDesignator=RR501
+Change Component Designator: OldDesignator=RR509 NewDesignator=RR500
+Change Component Designator: OldDesignator=SJ100 NewDesignator=SJ102
+Change Component Designator: OldDesignator=SJ101 NewDesignator=SJ103
+Change Component Designator: OldDesignator=SJ102 NewDesignator=SJ104
+Change Component Designator: OldDesignator=SJ103 NewDesignator=SJ105
+Change Component Designator: OldDesignator=SJ104 NewDesignator=SJ106
+Change Component Designator: OldDesignator=SJ105 NewDesignator=SJ107
+Change Component Designator: OldDesignator=SJ106 NewDesignator=SJ112
+Change Component Designator: OldDesignator=SJ107 NewDesignator=SJ100
+Change Component Designator: OldDesignator=SJ108 NewDesignator=SJ101
+Change Component Designator: OldDesignator=SJ109 NewDesignator=SJ108
+Change Component Designator: OldDesignator=SJ110 NewDesignator=SJ109
+Change Component Designator: OldDesignator=SJ111 NewDesignator=SJ110
+Change Component Designator: OldDesignator=SJ112 NewDesignator=SJ111
+Change Component Designator: OldDesignator=SJ600 NewDesignator=SJ602
+Change Component Designator: OldDesignator=SJ601 NewDesignator=SJ600
+Change Component Designator: OldDesignator=SJ602 NewDesignator=SJ601
+Change Component Designator: OldDesignator=TP103 NewDesignator=TP102
+Change Component Designator: OldDesignator=TP104 NewDesignator=TP103
+Change Component Designator: OldDesignator=TP106 NewDesignator=TP104
+Change Component Designator: OldDesignator=TP107 NewDesignator=TP105
+Change Component Designator: OldDesignator=TP108 NewDesignator=TP106
+Change Component Designator: OldDesignator=TP304 NewDesignator=TP303
+Change Component Designator: OldDesignator=TP305 NewDesignator=TP306
+Change Component Designator: OldDesignator=TP306 NewDesignator=TP307
+Change Component Designator: OldDesignator=TP307 NewDesignator=TP308
+Change Component Designator: OldDesignator=TP308 NewDesignator=TP309
+Change Component Designator: OldDesignator=TP309 NewDesignator=TP305
+Change Component Designator: OldDesignator=TP310 NewDesignator=TP304
+Change Component Designator: OldDesignator=TP400 NewDesignator=TP401
+Change Component Designator: OldDesignator=TP401 NewDesignator=TP400
+Change Net Name : Old Net Name=NetD300_1 New Net Name=NetD301_1
+Change Net Name : Old Net Name=NetD301_1 New Net Name=NetD302_1
+Change Net Name : Old Net Name=NetD302_1 New Net Name=NetD303_1
+Change Net Name : Old Net Name=NetD303_1 New Net Name=NetD304_1
+Added Member To Class: ClassName=Z3 Member=Component RR508 RES_ARR_4
