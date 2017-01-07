@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=PWR Member=NetC201_1
+Change Net Name : Old Net Name=NetC201_1 New Net Name=VIN
+Added Member To Class: ClassName=Z2 Member=Component J201 PV_IN
+Added Member To Class: ClassName=PWR Member=Wire VIN

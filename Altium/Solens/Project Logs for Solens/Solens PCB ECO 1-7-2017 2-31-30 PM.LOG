@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetC201_1 Pin=P202-1
+Removed Pin From Net: NetName=NetP202_2 Pin=P202-2
+Removed Pin From Net: NetName=PV_SHDN_L Pin=P202-3
+Removed Pin From Net: NetName=3V3 Pin=R208-1
+Removed Pin From Net: NetName=3V3 Pin=R209-1
+Removed Pin From Net: NetName=WIFI_RX Pin=R704-2
+Removed Pin From Net: NetName=WIFI_TX Pin=R705-2
+Removed Pin From Net: NetName=MCO2 Pin=SJ102-1
+Removed Pin From Net: NetName=MCO2_T Pin=SJ102-2
+Removed Member From Class: ClassName=Z1 Member=P200
+Removed Member From Class: ClassName=Z1 Member=P202
+Removed Member From Class: ClassName=Z4 Member=SJ102
+Change Component Comment : Designator=SJ200 Old Comment=0805 New Comment=SJ
+Change Component Designator: OldDesignator=J201 NewDesignator=J203
+Change Component Designator: OldDesignator=P200 NewDesignator=J201
+Change Component Designator: OldDesignator=P201 NewDesignator=J202
+Change Component Designator: OldDesignator=P203 NewDesignator=J204
+Added Component: Designator=D203(LED_0603)
+Added Component: Designator=D204(LED_0603)
+Added Component: Designator=D400(LED_0603)
+Added Component: Designator=J400(HDR1X4)
+Added Component: Designator=JP200(HDR_100TH_1x3)
+Added Component: Designator=JP700(HDR_100TH_1x2)
+Added Component: Designator=JP701(HDR_100TH_1x2)
+Added Component: Designator=R110(RES_0805)
+Added Component: Designator=R211(RES_0805)
+Added Component: Designator=R212(RES_0805)
+Added Component: Designator=R406(RES_0805)
+Added Pin To Net: NetName=PWR_CHRG_L Pin=D203-2
+Added Pin To Net: NetName=PWR_FAULT_L Pin=D204-2
+Added Pin To Net: NetName=GND Pin=D400-2
+Added Pin To Net: NetName=GND Pin=J400-1
+Added Pin To Net: NetName=3V3 Pin=J400-2
+Added Pin To Net: NetName=3V3 Pin=J400-3
+Added Pin To Net: NetName=GND Pin=J400-4
+Added Pin To Net: NetName=NetC201_1 Pin=JP200-1
+Added Pin To Net: NetName=NetP202_2 Pin=JP200-2
+Added Pin To Net: NetName=PV_SHDN_L Pin=JP200-3
+Added Pin To Net: NetName=WIFI_RX Pin=JP700-2
+Added Pin To Net: NetName=WIFI_TX Pin=JP701-2
+Added Pin To Net: NetName=MCO2 Pin=R110-1
+Added Pin To Net: NetName=MCO2_T Pin=R110-2
+Added Pin To Net: NetName=NetC201_1 Pin=R208-1
+Added Pin To Net: NetName=NetC201_1 Pin=R209-1
+Added Pin To Net: NetName=NetC201_1 Pin=R211-2
+Added Pin To Net: NetName=NetC201_1 Pin=R212-2
+Added Pin To Net: NetName=3V3 Pin=R406-2
+Change Net Name : Old Net Name=NetP202_2 New Net Name=NetJP200_2
+Added Pin To Net: NetName=NetD203_1 Pin=D203-1
+Added Pin To Net: NetName=NetD203_1 Pin=R211-1
+Added Net: Name=NetD203_1
+Added Pin To Net: NetName=NetD204_1 Pin=D204-1
+Added Pin To Net: NetName=NetD204_1 Pin=R212-1
+Added Net: Name=NetD204_1
+Added Pin To Net: NetName=NetD400_1 Pin=D400-1
+Added Pin To Net: NetName=NetD400_1 Pin=R406-1
+Added Net: Name=NetD400_1
+Added Pin To Net: NetName=NetJP700_1 Pin=JP700-1
+Added Pin To Net: NetName=NetJP700_1 Pin=R704-2
+Added Net: Name=NetJP700_1
+Added Pin To Net: NetName=NetJP701_1 Pin=JP701-1
+Added Pin To Net: NetName=NetJP701_1 Pin=R705-2
+Added Net: Name=NetJP701_1
+Change Class Name : Old Net Name=Z1 New Net Name=Z2
+Change Class Name : Old Net Name=Z2 New Net Name=Z4
+Change Class Name : Old Net Name=Z3 New Net Name=Z5
+Change Class Name : Old Net Name=Z4 New Net Name=Z1
+Change Class Name : Old Net Name=Z5 New Net Name=Z3
+Added Member To Class: ClassName=Z2 Member=Component D203 CHRG
+Added Member To Class: ClassName=Z2 Member=Component D204 FAULT
+Added Member To Class: ClassName=Z4 Member=Component D400 3V3
+Added Member To Class: ClassName=Z2 Member=Component J203 691322110003
+Added Member To Class: ClassName=Z4 Member=Component J400 EXT 3V3
+Added Member To Class: ClassName=Z2 Member=Component JP200 SHDN_EN
+Added Member To Class: ClassName=Z7 Member=Component JP700 JP-2
+Added Member To Class: ClassName=Z7 Member=Component JP701 JP-2
+Added Member To Class: ClassName=Z1 Member=Component R110 0805
+Added Member To Class: ClassName=Z2 Member=Component R211 0805
+Added Member To Class: ClassName=Z2 Member=Component R212 0805
+Added Member To Class: ClassName=Z4 Member=Component R406 0805
