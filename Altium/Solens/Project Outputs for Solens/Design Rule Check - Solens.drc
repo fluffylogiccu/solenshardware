@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
-Date     : 12/30/2016
-Time     : 11:29:40 AM
+Date     : 1/7/2017
+Time     : 4:44:09 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer on Net GND
@@ -9,16 +9,19 @@ WARNING: Unplated multi-layer pad(s) detected
    Pad MTGH3-1(6496.063mil,3543.307mil) on Multi-Layer on Net GND
    Pad MTGH4-1(6496.063mil,196.85mil) on Multi-Layer on Net GND
 
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('JP700')),(InComponent('JP701')) 
+Rule Violations :0
+
+Processing Rule : Room Z1 (Bounding Region = (2350mil, 6975.984mil, 5224.016mil, 8688.583mil) (Disabled)(InComponentClass('Z1'))
+Rule Violations :0
+
 Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('J600')),(InComponent('SJ6*') Or InComponent('R602') Or InComponent('C6*')) 
 Rule Violations :0
 
-Processing Rule : Room Z6 (Bounding Region = (6798.819mil, 5853.937mil, 9003.543mil, 7113.779mil) (InComponentClass('Z6'))
+Processing Rule : Room Z6 (Bounding Region = (6798.819mil, 5853.937mil, 9003.543mil, 7113.779mil) (Disabled)(InComponentClass('Z6'))
 Rule Violations :0
 
-Processing Rule : Room Z7 (Bounding Region = (6779.134mil, 7172.835mil, 9042.913mil, 8688.583mil) (InComponentClass('Z7'))
-Rule Violations :0
-
-Processing Rule : Room Z1 (Bounding Region = (2350mil, 6975.984mil, 5224.016mil, 8688.583mil) (InComponentClass('Z1'))
+Processing Rule : Room Z7 (Bounding Region = (6779.134mil, 7172.835mil, 9042.913mil, 8688.583mil) (Disabled)(InComponentClass('Z7'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('HVY'))
@@ -27,7 +30,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('PWR'))
 Rule Violations :0
 
-Processing Rule : Room Z2 (Bounding Region = (5302.756mil, 7468.11mil, 6680.709mil, 8688.583mil) (InComponentClass('Z2'))
+Processing Rule : Room Z2 (Bounding Region = (5302.756mil, 7468.11mil, 6680.709mil, 8688.583mil) (Disabled)(InComponentClass('Z2'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -62,13 +65,10 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (1.576mil < 2mil) Between Text "TP206" (1771.653mil,2460.63mil) on Top Overlay And Pad TP206-1(1673.228mil,2480.315mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1.576mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (1.261mil < 2mil) Between Text "D300" (5984.252mil,433.071mil) on Top Overlay And Pad J102-14(5929.921mil,367.48mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1.261mil]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (4.896mil < 5mil) Between Text "C600" (5039.37mil,1938.976mil) on Top Overlay And Track (5039.37mil,1990.157mil)(5228.346mil,1990.157mil) on Top Overlay Silk Text to Silk Clearance [4.896mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -89,5 +89,5 @@ Processing Rule : Width Constraint (Min=8mil) (Max=120mil) (Preferred=8mil) (InC
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 4
 Time Elapsed        : 00:00:05
