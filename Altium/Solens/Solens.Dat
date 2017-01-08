@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~80|Field=Value~String~Value~52|Field=Footprint~String~Footprint~183|Field=LibRef~String~LibRef~132|Field=Quantity~Integer~Quantity~67|Field=PackageName~String~PackageName~94|Field=PartNumber~String~PartNumber~110|Field=Component Kind~String~Component Kind~110|Field=PartType~String~PartType~116|Field=Pins~Integer~Pins~44|Field=ScrewSize~String~ScrewSize~73|Field=Comment~String~Comment~116|Field=Model:Footprint~String~Model:Footprint~508|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~234|ReportField=ReportTime~2:27:54 PM|ReportField=ReportDate~12/30/2016|ReportField=ReportDateTime~12/30/2016 2:27:54 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/30/2016|ReportField=CurrentTime~2:23:12 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/29/2016|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~80|Field=Value~String~Value~52|Field=Footprint~String~Footprint~183|Field=LibRef~String~LibRef~132|Field=Quantity~Integer~Quantity~67|Field=PackageName~String~PackageName~94|Field=PartNumber~String~PartNumber~110|Field=Component Kind~String~Component Kind~110|Field=PartType~String~PartType~116|Field=Pins~Integer~Pins~44|Field=ScrewSize~String~ScrewSize~73|Field=Comment~String~Comment~116|Field=Model:Footprint~String~Model:Footprint~508|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~243|ReportField=ReportTime~5:05:52 PM|ReportField=ReportDate~1/7/2017|ReportField=ReportDateTime~1/7/2017 5:05:52 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~1/7/2017|ReportField=CurrentTime~4:57:55 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~1/7/2017|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -62,174 +62,183 @@
 61|D200||SODFL519X262-2N (CMSH3-40MA)|D Schottky|1|DO-214AC (SMA)|CMSH3-40MA|Standard||2|||SODFL, 2-Leads, Body 2.60x5.19mm,
 62|D201||SODFL519X262-2N (CMSH3-40MA)|D Schottky|1|DO-214AC (SMA)|CMSH3-40MA|Standard||2|||SODFL, 2-Leads, Body 2.60x5.19mm,
 63|D202||SOT95P240X100-3N (CMPSH1-4 TR)|D Schottky|1|SOT-23F|CMPSH1-4|Standard||2|||SOT23, 3-Leads, Body 2.90x2.40mm,
-64|D300||LED_0603|LED0|1|||Standard|0603|2||0603|
-65|D301||LED_0603|LED0|1|||Standard|0603|2||0603|
-66|D302||LED_0603|LED0|1|||Standard|0603|2||0603|
-67|D303||LED_0603|LED0|1|||Standard|0603|2||0603|
-68|D304||LED_0603|LED0|1|||Standard|0603|2||0603|
-69|D305||LED_0603|LED0|1|||Standard|0603|2||0603|
-70|J100||HDR_100TH_1x6|HDR_FTDI|1|||Standard|HDR_FTDI|6||HDR_FTDI|100TH pin header 1x6 vertical
-71|J101||HDR_100TH_1x6|HDR_FTDI|1|||Standard|HDR_FTDI|6||HDR_FTDI|100TH pin header 1x6 vertical
-72|J102||HDR_100TH_2X8_SMT|Header 8X2|1|||Standard|GPIO|16||GPIO|100TH pin header, 2x8, SMT
-73|J103||HDR_100TH_2X6_SMT|HDR_SWD_2x6|1|||Standard|HDR_SWD_2x6|12||HDR_SWD_2x6|100TH pin header, 2x6, SMT
-74|J200||691322110002|691322110002|1||691322110002|Standard|691322110002|2||691322110002|3,50mm - PCB Horizontal - 02p
-75|J201||691322110003|691322110003|1||691322110003|Standard|691322110003|3||691322110003|3,50mm - PCB Horizontal - 03p
-76|J600||OV5642_HDR_2x10|CAMERA_2x10|1|||Standard|CAMERA_2x10|20||CAMERA_2x10|OV5642 camera 100TH pin header 2x10 vertical
-77|J700||HDR1X8|HDR_FTDI_EXTENDED|1|||Standard|HDR_FTDI_EXTENDED|8||HDR_FTDI_EXTENDED|Connector; Header; 8 Position
-78|J701||HDR_100TH_2X6_SMT|Header 6X2|1|||Standard|ESP_GPIO|12||ESP_GPIO|100TH pin header, 2x6, SMT
-79|L200|15u|srr1208|Inductor|1||SRR1208-150ML|Standard||2|||
-80|L400|3.3u|SRR1260|Inductor|1||SRR1260-3R3|Standard||2|||
-81|MTGH1||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
-82|MTGH2||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
-83|MTGH3||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
-84|MTGH4||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
-85|P200||HDR1X2|Header 2|1|||Standard|PV_IN|2||PV_IN|Connector; Header; 2 Position
-86|P201||HDR1X2|Header 2|1|||Standard|NTC|2||NTC|Connector; Header; 2 Position
-87|P202||HDR1X3|Header 3|1|||Standard|SHDN_EN|3||SHDN_EN|Connector; Header; 3 Position
-88|P203||HDR1X2|Header 2|1|||Standard|VBAT|2||VBAT|Connector; Header; 2 Position
-89|Q300||SOT90P240X110-3N|2N3904|1|SOT-23|MMBT3904|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904
-90|Q700||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
-91|Q701||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
-92|R100|0|RES_0805|Res1|1|||Standard|0805|2||0805|
-93|R101|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-94|R102|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-95|R103|220|RES_0805|Res1|1|||Standard|0805|2||0805|
-96|R104|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-97|R105|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-98|R106|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-99|R107|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-100|R108|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-101|R109|510|RES_0805|Res1|1|||Standard|0805|2||0805|
-102|R200|80m|RES_1206|Res1|1|||Standard|1206|2||1206|
-103|R201|340k|RES_0805|Res1|1|||Standard|0805|2||0805|
-104|R202|1k|RES_0805|Res1|1|||Standard|0805|2||0805|
-105|R203|105k|RES_0805|Res1|1|||Standard|0805|2||0805|
-106|R204|2.4k|RES_0805|Res1|1|||Standard|0805|2||0805|
-107|R205|215k|RES_0805|Res1|1|||Standard|0805|2||0805|
-108|R206|24.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-109|R207|54.9k|RES_0805|Res1|1|||Standard|0805|2||0805|
-110|R208|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-111|R209|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-112|R210|25m|RES_1206|Res1|1|||Standard|1206|2||1206|
-113|R300|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-114|R301|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-115|R302|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-116|R303|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
-117|R304|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-118|R305|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-119|R306|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-120|R307|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-121|R308|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
-122|R400|0|RES_1206|Res1|1|||Standard|1206|2||1206|
-123|R401|1M|RES_0805|Res1|1|||Standard|0805|2||0805|
-124|R402|100k|RES_0805|Res1|1|||Standard|0805|2||0805|
-125|R403|0|RES_1206|Res1|1|||Standard|1206|2||1206|
-126|R404|309k|RES_0805|Res1|1|||Standard|0805|2||0805|
-127|R405|33.2k|RES_0805|Res1|1|||Standard|0805|2||0805|
-128|R500|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-129|R501|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-130|R502|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-131|R600|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-132|R601|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-133|R602|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-134|R700|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-135|R701|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-136|R702|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-137|R703|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-138|R704|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-139|R705|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-140|R706|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-141|R707|0|RES_1206|Res1|1|||Standard|1206|2||1206|
-142|R708|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-143|R709|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-144|R710|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-145|R711|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-146|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-147|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-148|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-149|RR503|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-150|RR504|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-151|RR505|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-152|RR506|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-153|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-154|RR508|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-155|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
-156|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
-157|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
-158|SJ103||SJ_0805|SJ|1|||Standard|0805|2||0805|
-159|SJ104||SJ_0805|SJ|1|||Standard|0805|2||0805|
-160|SJ105||SJ_0805|SJ|1|||Standard|0805|2||0805|
-161|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
-162|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
-163|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
-164|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
-165|SJ110||SJ_0805|SJ|1|||Standard|0805|2||0805|
-166|SJ111||SJ_0805|SJ|1|||Standard|0805|2||0805|
-167|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
-168|SJ200||SJ_0805|SJ|1|||Standard|0805|2||0805|
-169|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
-170|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
-171|SJ600||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-172|SJ601||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-173|SJ602||SJ_0805|SJ|1|||Standard|0805|2||0805|
-174|SJ603||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-175|SJ604||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-176|SJ605||SJ_0805|SJ|1|||Standard|0805|2||0805|
-177|SJ606||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-178|SJ607||SJ_0805|SJ|1|||Standard|0805|2||0805|
-179|SJ608||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-180|SJ609||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-181|SJ610||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
-182|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-183|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-184|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-185|TP100||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-186|TP101||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-187|TP102||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-188|TP103||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-189|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-190|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-191|TP106||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-192|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-193|TP201||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-194|TP202||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-195|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-196|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-197|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-198|TP206||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-199|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-200|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-201|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-202|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-203|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-204|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-205|TP303||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-206|TP304||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-207|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-208|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-209|TP307||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-210|TP308||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-211|TP309||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-212|TP400||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-213|TP401||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-214|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-215|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-216|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-217|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-218|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-219|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-220|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-221|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
-222|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
-223|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-224|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-225|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
-226|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-227|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-228|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
-229|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
-230|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
-231|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
-232|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
-233|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
-234|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+64|D203||LED_0603|LED0|1|||Standard|CHRG|2||CHRG|
+65|D204||LED_0603|LED0|1|||Standard|FAULT|2||FAULT|
+66|D300||LED_0603|LED0|1|||Standard|0603|2||0603|
+67|D301||LED_0603|LED0|1|||Standard|0603|2||0603|
+68|D302||LED_0603|LED0|1|||Standard|0603|2||0603|
+69|D303||LED_0603|LED0|1|||Standard|0603|2||0603|
+70|D304||LED_0603|LED0|1|||Standard|0603|2||0603|
+71|D305||LED_0603|LED0|1|||Standard|0603|2||0603|
+72|D400||LED_0603|LED0|1|||Standard|3V3|2||3V3|
+73|J100||HDR_100TH_1x6|HDR_FTDI|1|||Standard|HDR_FTDI|6||HDR_FTDI|100TH pin header 1x6 vertical
+74|J101||HDR_100TH_1x6|HDR_FTDI|1|||Standard|HDR_FTDI|6||HDR_FTDI|100TH pin header 1x6 vertical
+75|J102||HDR_100TH_2X8_SMT|Header 8X2|1|||Standard|GPIO|16||GPIO|100TH pin header, 2x8, SMT
+76|J103||HDR_100TH_2X6_SMT|HDR_SWD_2x6|1|||Standard|HDR_SWD_2x6|12||HDR_SWD_2x6|100TH pin header, 2x6, SMT
+77|J200||691322110002|691322110002|1||691322110002|Standard|691322110002|2||691322110002|3,50mm - PCB Horizontal - 02p
+78|J201||HDR1X2|Header 2|1|||Standard|PV_IN|2||PV_IN|Connector; Header; 2 Position
+79|J202||HDR1X2|Header 2|1|||Standard|NTC|2||NTC|Connector; Header; 2 Position
+80|J203||691322110003|691322110003|1||691322110003|Standard|691322110003|3||691322110003|3,50mm - PCB Horizontal - 03p
+81|J204||HDR1X2|Header 2|1|||Standard|VBAT|2||VBAT|Connector; Header; 2 Position
+82|J400||HDR1X4|Header 4|1|||Standard|EXT 3V3|4||EXT 3V3|Connector; Header; 4 Position
+83|J600||OV5642_HDR_2x10|CAMERA_2x10|1|||Standard|CAMERA_2x10|20||CAMERA_2x10|OV5642 camera 100TH pin header 2x10 vertical
+84|J700||HDR1X8|HDR_FTDI_EXTENDED|1|||Standard|HDR_FTDI_EXTENDED|8||HDR_FTDI_EXTENDED|Connector; Header; 8 Position
+85|J701||HDR_100TH_2X6_SMT|Header 6X2|1|||Standard|ESP_GPIO|12||ESP_GPIO|100TH pin header, 2x6, SMT
+86|JP200||HDR_100TH_1x3|JP-3|1|||Standard|SHDN_EN|3||SHDN_EN|100TH pin header 1x3 vertical
+87|JP700||HDR_100TH_1x2|JP-2|1|||Standard|JP-2|2||JP-2|100TH pin header 1x2 vertical
+88|JP701||HDR_100TH_1x2|JP-2|1|||Standard|JP-2|2||JP-2|100TH pin header 1x2 vertical
+89|L200|15u|srr1208|Inductor|1||SRR1208-150ML|Standard||2|||
+90|L400|3.3u|SRR1260|Inductor|1||SRR1260-3R3|Standard||2|||
+91|MTGH1||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
+92|MTGH2||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
+93|MTGH3||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
+94|MTGH4||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
+95|Q300||SOT90P240X110-3N|2N3904|1|SOT-23|MMBT3904|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904
+96|Q700||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
+97|Q701||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
+98|R100|0|RES_0805|Res1|1|||Standard|0805|2||0805|
+99|R101|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+100|R102|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+101|R103|220|RES_0805|Res1|1|||Standard|0805|2||0805|
+102|R104|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+103|R105|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+104|R106|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
+105|R107|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
+106|R108|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
+107|R109|510|RES_0805|Res1|1|||Standard|0805|2||0805|
+108|R110|75|RES_0805|Res1|1|||Standard|0805|2||0805|
+109|R200|80m|RES_1206|Res1|1|||Standard|1206|2||1206|
+110|R201|340k|RES_0805|Res1|1|||Standard|0805|2||0805|
+111|R202|1k|RES_0805|Res1|1|||Standard|0805|2||0805|
+112|R203|105k|RES_0805|Res1|1|||Standard|0805|2||0805|
+113|R204|2.4k|RES_0805|Res1|1|||Standard|0805|2||0805|
+114|R205|215k|RES_0805|Res1|1|||Standard|0805|2||0805|
+115|R206|24.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+116|R207|54.9k|RES_0805|Res1|1|||Standard|0805|2||0805|
+117|R208|100k|RES_0805|Res1|1|||Standard|0805|2||0805|
+118|R209|100k|RES_0805|Res1|1|||Standard|0805|2||0805|
+119|R210|25m|RES_1206|Res1|1|||Standard|1206|2||1206|
+120|R211|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+121|R212|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+122|R300|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+123|R301|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+124|R302|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+125|R303|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
+126|R304|330|RES_0805|Res1|1|||Standard|0805|2||0805|
+127|R305|330|RES_0805|Res1|1|||Standard|0805|2||0805|
+128|R306|330|RES_0805|Res1|1|||Standard|0805|2||0805|
+129|R307|330|RES_0805|Res1|1|||Standard|0805|2||0805|
+130|R308|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
+131|R400|0|RES_1206|Res1|1|||Standard|1206|2||1206|
+132|R401|1M|RES_0805|Res1|1|||Standard|0805|2||0805|
+133|R402|100k|RES_0805|Res1|1|||Standard|0805|2||0805|
+134|R403|0|RES_1206|Res1|1|||Standard|1206|2||1206|
+135|R404|309k|RES_0805|Res1|1|||Standard|0805|2||0805|
+136|R405|33.2k|RES_0805|Res1|1|||Standard|0805|2||0805|
+137|R406|330|RES_0805|Res1|1|||Standard|0805|2||0805|
+138|R500|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
+139|R501|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
+140|R502|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
+141|R600|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+142|R601|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
+143|R602|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
+144|R700|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+145|R701|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+146|R702|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+147|R703|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+148|R704|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+149|R705|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+150|R706|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+151|R707|0|RES_1206|Res1|1|||Standard|1206|2||1206|
+152|R708|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+153|R709|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+154|R710|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+155|R711|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+156|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+157|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+158|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+159|RR503|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+160|RR504|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+161|RR505|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+162|RR506|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+163|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+164|RR508|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+165|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
+166|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
+167|SJ103||SJ_0805|SJ|1|||Standard|0805|2||0805|
+168|SJ104||SJ_0805|SJ|1|||Standard|0805|2||0805|
+169|SJ105||SJ_0805|SJ|1|||Standard|0805|2||0805|
+170|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
+171|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
+172|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
+173|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
+174|SJ110||SJ_0805|SJ|1|||Standard|0805|2||0805|
+175|SJ111||SJ_0805|SJ|1|||Standard|0805|2||0805|
+176|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
+177|SJ200||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
+178|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
+179|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
+180|SJ600||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+181|SJ601||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+182|SJ602||SJ_0805|SJ|1|||Standard|0805|2||0805|
+183|SJ603||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+184|SJ604||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+185|SJ605||SJ_0805|SJ|1|||Standard|0805|2||0805|
+186|SJ606||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+187|SJ607||SJ_0805|SJ|1|||Standard|0805|2||0805|
+188|SJ608||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+189|SJ609||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+190|SJ610||SJ_0603|SJ|1|||Standard|0603|2||0603|0603 net tie
+191|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+192|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+193|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+194|TP100||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+195|TP101||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+196|TP102||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+197|TP103||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+198|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+199|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+200|TP106||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+201|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+202|TP201||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+203|TP202||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+204|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+205|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+206|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+207|TP206||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+208|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+209|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+210|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+211|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+212|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+213|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+214|TP303||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+215|TP304||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+216|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+217|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+218|TP307||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+219|TP308||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+220|TP309||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+221|TP400||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+222|TP401||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+223|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+224|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+225|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+226|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+227|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+228|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+229|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+230|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
+231|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
+232|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+233|U202||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard||3|||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+234|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
+235|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+236|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+237|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
+238|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
+239|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
+240|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
+241|Y100||HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
+242|Y101||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+243|Y300||XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
