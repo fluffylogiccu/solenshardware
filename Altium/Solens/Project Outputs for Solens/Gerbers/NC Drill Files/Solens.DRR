@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Solens.PcbDoc   12/30/2016  3:03:52 PM
+NCDrill File Report For: Solens.PcbDoc   1/9/2017  11:16:33 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,14 @@ ASCII RoundHoles File : Solens.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.203mm)                                            Round             10        PTH        3.03inch (76.95mm)
-T2      10mil (0.254mm)                                           Round             412       PTH        74.67inch (1896.71mm)
-T3      24mil (0.6mm)                                             Round             16        PTH        22.52inch (572.03mm)
-T4      35mil (0.9mm)                                             Round             17        PTH        13.80inch (350.41mm)
-T5      40mil (1.016mm)                                           Round             32        PTH        9.64inch (244.76mm)
+T2      10mil (0.254mm)                                           Round             420       PTH        74.48inch (1891.69mm)
+T3      24mil (0.6mm)                                             Round             16        PTH        22.39inch (568.74mm)
+T4      35mil (0.9mm)                                             Round             18        PTH        11.12inch (282.38mm)
+T5      40mil (1.016mm)                                           Round             39        PTH        14.64inch (371.81mm)
 T6      55mil (1.4mm)                                             Round             5         PTH        2.46inch (62.50mm)
 T7      118mil (3mm)                                              Round             2         PTH        1.08inch (27.34mm)
 T8      138mil (3.5mm)                                            Round             4         NPTH       19.73inch (501.18mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              498
+Totals                                                                              514
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
