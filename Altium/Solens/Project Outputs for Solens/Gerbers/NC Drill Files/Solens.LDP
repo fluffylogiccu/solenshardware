@@ -1,2 +1,3 @@
 Layer Pairs Export File for PCB: C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=solens.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=solens-plated.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=solens-nonplated.txt|DrillLayers=gtl,g2,g3,gbl

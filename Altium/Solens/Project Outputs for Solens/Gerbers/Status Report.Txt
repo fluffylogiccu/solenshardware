@@ -1,12 +1,14 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : PCB Document [Solens.PcbDoc]
-   Generated File[Solens.TXT]
+   Generated File[Solens-Plated.TXT]
+   Generated File[Solens-NonPlated.TXT]
+   Generated File[Solens.DRL]
    Generated File[Solens.LDP]
    Generated File[Solens.DRR]
 
 
-Files Generated   : 3
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 11:16:34 PM On 1/9/2017
+Finished Output Generation At 11:34:24 PM On 1/9/2017

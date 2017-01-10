@@ -1,9 +1,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Solens.PcbDoc   1/9/2017  11:16:33 PM
+NCDrill File Report For: Solens.PcbDoc   1/9/2017  11:34:24 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : Solens.TXT
+ASCII Plated RoundHoles File : Solens-Plated.TXT
+ASCII Non-Plated RoundHoles File : Solens-NonPlated.TXT
+EIA File   : Solens.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -18,4 +20,4 @@ T8      138mil (3.5mm)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              514
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
