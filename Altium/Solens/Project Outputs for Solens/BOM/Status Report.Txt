@@ -1,0 +1,10 @@
+Output: Bill of Materials (CSV)
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Solens.PrjPCB]
+   Generated File[Bill of Materials (CSV)-Solens.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:53:07 PM On 1/12/2017

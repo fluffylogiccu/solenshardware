@@ -327,72 +327,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=OutJobs\Solens_BOM.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Solens\Design Rule Check - Solens.html
+DocumentPath=Project Outputs for Solens\BOM\Bill of Materials (CSV)-Solens.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Solens\Gerbers\NC Drill Files\Solens.DRR
+DocumentPath=Project Outputs for Solens\BOM\Bill of Materials (XLSX)-Solens.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.EXTREP
+DocumentPath=Project Outputs for Solens\Design Rule Check - Solens.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.G1
+DocumentPath=Project Outputs for Solens\Gerbers\NC Drill Files\Solens.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.G2
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBL
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBO
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBP
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBS
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTL
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTO
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTP
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTS
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Solens\Gerbers\NC Drill Files\Solens.LDP
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.REP
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.RUL
+DocumentPath=Project Outputs for Solens\Gerbers\NC Drill Files\Solens.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Solens\Gerbers\NC Drill Files\Solens.TXT
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Solens\Gerbers\Gerber Files\Solens.RUL
 DItemRevisionGUID=
 
 [Configuration1]
