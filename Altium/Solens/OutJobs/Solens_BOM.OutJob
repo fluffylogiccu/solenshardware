@@ -46,11 +46,11 @@ Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration1_Name3=General
 Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Templates\BOM_All_ByValue.xlt|BatchMode=5|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=Value=True|Comment=True
+Configuration1_Item4=Designator=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Value=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Value=100|Comment=100|Footprint=100|Description=100|Designator=100|Quantity=100|LibRef=100
+Configuration1_Item6=Designator=100|Value=100|Comment=100|Footprint=100|Description=100|Quantity=100|LibRef=100|DigikeyPN=100|Library Reference=100|LoadCapacitance=100|Model:Footprint=100|PartNumber=100|Pins=100|ScrewSize=100|VisibleNetName=100
 OutputType2=BOM_PartType
 OutputName2=Bill of Materials (CSV)
 OutputCategory2=Report
@@ -68,11 +68,33 @@ Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration2_Name3=General
 Configuration2_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Templates\BOM_All_ByValue.xlt|BatchMode=0|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration2_Name4=GroupOrder
-Configuration2_Item4=Value=True|Comment=True
+Configuration2_Item4=Designator=True
 Configuration2_Name5=SortOrder
 Configuration2_Item5=Value=Up
 Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Value=100|Comment=100|Footprint=100|Description=100|Designator=100|Quantity=100|LibRef=100
+Configuration2_Item6=Designator=100|Value=100|Comment=100|Footprint=100|Description=100|Quantity=100|LibRef=100|DigikeyPN=100|Library Reference=100|LoadCapacitance=100|Model:Footprint=100|PartNumber=100|Pins=100|ScrewSize=100|VisibleNetName=100
+OutputType3=BOM_PartType
+OutputName3=Bill of Materials (CSV for Digikey)
+OutputCategory3=Report
+OutputDocumentPath3=
+OutputVariantName3=
+OutputEnabled3=1
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=3
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=Filter
+Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration3_Name3=General
+Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Templates\BOM_All_ByValue.xlt|BatchMode=0|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration3_Name4=GroupOrder
+Configuration3_Item4=DigikeyPN=True
+Configuration3_Name5=SortOrder
+Configuration3_Item5=Value=Up
+Configuration3_Name6=VisibleOrder
+Configuration3_Item6=DigikeyPN=100|Quantity=100|Designator=100|Value=100|PartNumber=100|Comment=100|Footprint=100|Description=100|LibRef=100|Library Reference=100|LoadCapacitance=100|Model:Footprint=100|Pins=100|ScrewSize=100|VisibleNetName=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\qux\projects\solenshardware\Altium\Solens\Project Outputs for Solens\BOM\

@@ -1,10 +1,10 @@
-Output: Bill of Materials (CSV)
+Output: Bill of Materials (CSV for Digikey)
 Type  : BOM
 From  : Variant [[No Variations]] of Project [Solens.PrjPCB]
-   Generated File[Bill of Materials (CSV)-Solens.csv]
+   Generated File[Bill of Materials (CSV for Digikey)-Solens.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:53:07 PM On 1/12/2017
+Finished Output Generation At 8:11:51 PM On 1/13/2017
