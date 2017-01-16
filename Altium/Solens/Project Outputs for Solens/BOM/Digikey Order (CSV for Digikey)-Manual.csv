@@ -1,74 +1,74 @@
 DigikeyPN,Quantity,Designator,Value,PartNumber,Comment,Footprint,Description,LibRef,Library Reference,LoadCapacitance,Model:Footprint,Pins,ScrewSize,VisibleNetName
-
-"732-7046-1-ND","3","SW100, SW101, SW700","","434121043816","BTN0, RESET, RESET","4341x10438x6","WS-TASV 6.0x3.5 mm SMD","WS-TASV, 434121043816","WS-TASV, 434121043816","","6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R","2","",""
-"638-1120-1-ND","1","U301","","EMC1412-1-ACZL-TR","","TSOP65P490X110-8N","Dual channel I2C temperature sensor","EMC1412","EMC1412","","TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)","8","",""
-"706-1132-ND","1","U500","","IS42S16400J","","TSOP80P1170X120-54N","1Mb x 16 x 4 bank (64 Mbit) SDRAM","IS42S16400J","IS42S16400J","","TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)","54","",""
-"LT8608IMSE#PBF-ND","1","U400","","LT8608","","TSSOP50P490X110_HS-11N","42V 1.5A step-down, low Iq","LT8608","LT8608","","TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density","11","",""
-"568-5818-1-ND","2","Q700, Q701","","2N7002","","SOT95P240X100-3N (CMPSH1-4 TR)","N-Channel MOSFET","MOSFET-N","MOSFET-N","","SOT23, 3-Leads, Body 2.90x2.40mm,","3","",""
-"MMBT3904LT1GOSCT-ND","1","Q300","","MMBT3904","","SOT90P240X110-3N","NPN General Purpose Amplifier","2N3904","2N3904","","SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904","3","",""
-"LT3652HVIMSE#PBF-ND","1","U200","","LT3652","","TSOP65P490X110_HS-13N (LT3652)","MPPC and battery charger","LT3652","LT3652","","TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,","13","",""
-"36-9923-ND","4","MTGH1, MTGH2, MTGH3, MTGH4","","","MTGH","MTGH-M3x0.5","Mounting hole","MTGH","MTGH","","M3 x 0.5 pan head mounting hole","1","M3x0.5",""
-"732-5316-ND","1","JP200","","","SHDN_EN","HDR_100TH_1x3","3-pos Jumper","JP-3","JP-3","","100TH pin header 1x3 vertical","3","",""
-"609-3264-ND","1","J700","","","HDR_FTDI_EXTENDED","HDR1X8","","HDR_FTDI_EXTENDED","HDR_FTDI_EXTENDED","","Connector; Header; 8 Position","8","",""
-"609-3221-ND","1","J600","","","CAMERA_2x10","OV5642_HDR_2x10","20-pin parallel camera connector for OV5642","CAMERA_2x10","CAMERA_2x10","","OV5642 camera 100TH pin header 2x10 vertical","20","",""
-"732-5317-ND","1","J400","","","EXT 3V3","HDR1X4","Header, 4-Pin","Header 4","Header 4","","Connector; Header; 4 Position","4","",""
-"732-2770-ND","1","J203","","691322110003","691322110003","691322110003","WR-TBL Terminal block - serie 3221 - 3.50 mm","691322110003","691322110003","","3,50mm - PCB Horizontal - 03p","3","",""
-"535-9166-1-ND","2","Y101, Y300","","ABS25-32.768KHZ-T","","XTAL-SOJ-4","","XTAL-SOJ-4","XTAL-SOJ-4","12.5p","","4","",""
-"LTC2943IDD#PBF-ND","1","U203","","LTC2943","","DFN8-3x3","Multi-cell I2C fuel gauge","LTC2943A","LTC2943A","","LTC2943","9","",""
-"952-1770-ND","5","J201, J202, J204, JP700, JP701","","","PV_IN, NTC, VBAT, JP-2, JP-2","HDR1X2, HDR1X2, HDR1X2, HDR_100TH_1x2, HDR_100TH_1x2","Header, 2-Pin, Header, 2-Pin, Header, 2-Pin, 2-pos Jumper, 2-pos Jumper","Header 2, Header 2, Header 2, JP-2, JP-2","Header 2, Header 2, Header 2, JP-2, JP-2","","Connector; Header; 2 Position, Connector; Header; 2 Position, Connector; Header; 2 Position, 100TH pin header 1x2 vertical, 100TH pin header 1x2 vertical","2","",""
-"732-2769-ND","1","J200","","691322110002","691322110002","691322110002","WR-TBL Terminal block - serie 3221 - 3.50 mm","691322110002","691322110002","","3,50mm - PCB Horizontal - 02p","2","",""
-"497-14053-ND","1","U100","","STM32F429","STM32F429","TSQFP50P2200X2200X160-144M","Cortex-M4 microcontroller","STM32F429","STM32F429","","TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429","144","",""
-"887-1263-1-ND","1","Y100","","9C-8.000MEEJ-T","","HC-49S","Crystal Oscillator","XTAL","XTAL","18p","Crystal","2","",""
-"WM17452-ND","2","J103, J701","","","HDR_SWD_2x6, ESP_GPIO","HDR_100TH_2X6_SMT","6 pin SWD connector with +6 GND pins, Header, 6-Pin, Dual row","HDR_SWD_2x6, Header 6X2","HDR_SWD_2x6, Header 6X2","","100TH pin header, 2x6, SMT","12","",""
-"WM17454-ND","1","J102","","","GPIO","HDR_100TH_2X8_SMT","Header, 8-Pin, Dual row","Header 8X2","Header 8X2","","100TH pin header, 2x8, SMT","16","",""
-"LTC2055HMS8#PBF-ND","1","U302","","LTC2055","","TSOP65P490X110-8N","Dual zero-drift op amp","LTC2054/LTC2055","LTC2054/LTC2055","","TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)","8","",""
-"MCP79412-I/MS-ND","1","U300","","MCP79412","","TSOP65P490X110-8N","I2C RTC w/ SRAM and EEPROM","MCP7941x","MCP7941x","","TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)","8","",""
-"609-3263-ND","2","J100, J101","","","HDR_FTDI","HDR_100TH_1x6","Sparkfun FTDI pinout connector","HDR_FTDI","HDR_FTDI","","100TH pin header 1x6 vertical","6","",""
-"732-4978-1-ND","6","D301, D302, D303, D304, D305, D400","","","0603, 0603, 0603, 0603, 0603, 3V3","LED_0603","Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, [NoValue]","LED0","LED0","","","2","",""
-"732-4971-1-ND","3","D203, D204, D300","","","CHRG, FAULT, 0603","LED_0603","[NoValue], [NoValue], Typical INFRARED GaAs LED","LED0","LED0","","","2","",""
-"CMPSH1-4 CT-ND","1","D202","","CMPSH1-4","","SOT95P240X100-3N (CMPSH1-4 TR)","Schottky Diode","D Schottky","D Schottky","","SOT23, 3-Leads, Body 2.90x2.40mm,","2","",""
-"CMSH3-40MA TR13CT-ND","2","D200, D201","","CMSH3-40MA","","SODFL519X262-2N (CMSH3-40MA)","Schottky Diode","D Schottky","D Schottky","","SODFL, 2-Leads, Body 2.60x5.19mm,","2","",""
-"36-5016CT-ND","7","TP105, TP106, TP200, TP206, TP303, TP401, TP702","","","TP_LARGE","TP_LARGE","","TP_LARGE","TP_LARGE","","5016","1","","GND"
-"497-1549-1-ND","2","U201, U202","","LM234SM","","SOIC127P600X175-8N (LM234)","Adjustable current source","LM234","LM234","","SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,","3","",""
-"36-5015CT-ND","26","TP100, TP101, TP102, TP103, TP104, TP201, TP203, TP204, TP205, TP207, TP208, TP209, TP300, TP301, TP302, TP304, TP305, TP306, TP307, TP308, TP309, TP400, TP600, TP601, TP700, TP701","","","","TP_SMALL","","TP_SMALL","TP_SMALL","","5015","1","","TX, RX, TX, RX, 3V3, VIN, VBAT_INT, VINFB, VFB, VBAT, CHRG, FAULT, SDA, SCL, ALERT, SPECT0, SPECT1, LED0, LED1, LED2, LED3, 3V3, SDA, SCL, TX, RX"
-"317060015-ND","1","U700","","ESP8266-12E","","ESP8266 ESP-12-E","ESP8266 ESP-12-E","ESP8266 ESP-12-E","ESP8266 ESP-12-E","","ESP8266 ESP-12-E","22","",""
-"36-5106CT-ND","3","R400, R403, R707","0","","1206","RES_1206","Resistor","Res1","Res1","","","2","",""
-"311-0.0ARCT-ND","2","R100, R103","0, 220","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-1.00MCRCT-ND","1","R401","1M","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-1.00MLRCT-ND","2","R303, R308","1M","","0402","RES_0402","Resistor","Res1","Res1","","","2","",""
-"311-1.00KCRCT-ND","1","R202","1k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"1276-1020-1-ND","1","C700","1n","","0805","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"1276-6470-1-ND","1","C200","1u","","0805,50V","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"1276-6458-1-ND","4","C113, C114, C115, C407","2.2u","","0805","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"311-2.40KCRCT-ND","1","R204","2.4k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-3.30KCRCT-ND","5","R300, R301, R302, R600, R601","3.3k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"SRR1260-3R3YCT-ND","1","L400","3.3u","SRR1260-3R3","","SRR1260","Inductor","Inductor","Inductor","","","2","",""
-"1276-3343-1-ND","3","C201, C202, C203","4.7u","","1210,50V","CAP_1210","Capacitor","Cap","Cap","","","2","",""
-"311-10.0KCRCT-ND","9","R211, R212, R700, R701, R702, R703, R706, R708, R711","10k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"1276-1015-1-ND","1","C408","10n","","0805","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"1276-1109-1-ND","1","C403","10p","","0805","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"1276-1312-1-ND","5","C205, C206, C401, C601, C702","10u","","1206,16V, 1206,16V, 1206,16V, 1206,16V, 1206","CAP_1206","Capacitor","Cap","Cap","","","2","",""
-"1276-6455-1-ND","2","C404, C406","10u","","0805","CAP_0805","Capacitor","Cap","Cap","","","2","",""
-"SRR1208-150MLCT-ND","1","L200","15u","SRR1208-150ML","","srr1208","Inductor","Inductor","Inductor","","","2","",""
-"490-6203-1-ND","4","C102, C103, C300, C301","18p","","0402","CAP_0402","Capacitor","Cap","Cap","","","2","",""
-"311-24.3KCRCT-ND","1","R206","24.3k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"CSR1206FK25L0CT-ND","1","R210","25m","","1206","RES_1206","Resistor","Res1","Res1","","","2","",""
-"1276-1153-1-ND","2","C100, C101","27p","","0402","CAP_0402","Capacitor","Cap","Cap","","","2","",""
-"311-33.2KCRCT-ND","1","R405","33.2k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"1276-3063-1-ND","3","C405, C600, C701","47u","","1206,10V","CAP_1206","Capacitor","Cap","Cap","","","2","",""
-"CRA6S868CT-ND","4","RR503, RR504, RR505, RR506","49.9","","RES_ARR_4","CAC-80P319X150-8M","4 element resistor array","RES_ARR_4","RES_ARR_4","","Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S","8","",""
-"CRA6S849.9ACT-ND","5","RR500, RR501, RR502, RR507, RR508","49.9","","RES_ARR_4","CAC-80P319X150-8M","4 element resistor array","RES_ARR_4","RES_ARR_4","","Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S","8","",""
-"311-49.9CRCT-ND","5","R110, R500, R501, R502, R602","49.9","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-54.9KCRCT-ND","1","R207","54.9k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"WSLC-.08CT-ND","1","R200","80m","","1206","RES_1206","Resistor","Res1","Res1","","","2","",""
-"311-100CRCT-ND","8","R101, R102, R104, R105, R704, R705, R709, R710","100","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-100KCRCT-ND","3","R208, R209, R402","100k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"587-3498-1-ND","31","C104, C105, C106, C107, C108, C109, C110, C111, C112, C116, C117, C118, C119, C120, C121, C122, C123, C124, C204, C302, C303, C400, C402, C500, C501, C502, C503, C504, C505, C506, C507","100n","","0402","CAP_0402","Capacitor","Cap","Cap","","","2","",""
-"311-105KCRCT-ND","1","R203","105k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-215KCRCT-ND","1","R205","215k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"490-1293-1-ND","2","C304, C305","220p","","0402","CAP_0402","Capacitor","Cap","Cap","","","2","",""
-"311-309KCRCT-ND","1","R404","309k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-330CRCT-ND","5","R304, R305, R306, R307, R406","330","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-340KCRCT-ND","1","R201","340k","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"311-510CRCT-ND","1","R109","510","","0805","RES_0805","Resistor","Res1","Res1","","","2","",""
-"","32","R106, R107, R108, SJ100, SJ101, SJ103, SJ104, SJ105, SJ106, SJ107, SJ108, SJ109, SJ110, SJ111, SJ112, SJ200, SJ300, SJ301, SJ600, SJ601, SJ602, SJ603, SJ604, SJ605, SJ606, SJ607, SJ608, SJ609, SJ610, TP202, TP500, TP501","DNP","","0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, SJ, 0805, 0805, 0603, 0603, 0805, 0603, 0603, 0805, 0603, 0805, 0603, 0603, 0603, TP_TINY, TP_TINY, TP_TINY","RES_0805, RES_0805, RES_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0603, SJ_0603, SJ_0805, SJ_0603, SJ_0603, SJ_0805, SJ_0603, SJ_0805, SJ_0603, SJ_0603, SJ_0603, TP_TINY, TP_TINY, TP_TINY","Resistor, Resistor, Resistor, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, [NoValue], [NoValue], [NoValue]","Res1, Res1, Res1, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, TP_TINY, TP_TINY, TP_TINY","Res1, Res1, Res1, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, TP_TINY, TP_TINY, TP_TINY","","[NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], 0603 net tie, 0603 net tie, [NoValue], 0603 net tie, 0603 net tie, [NoValue], 0603 net tie, [NoValue], 0603 net tie, 0603 net tie, 0603 net tie, 1mm round tiny testpoint, 1mm round tiny testpoint, 1mm round tiny testpoint","","","[NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], SENSE, GND, CLK"
+,,,,,,,,,,,,,,
+732-7046-1-ND,3,"SW100, SW101, SW700",,434121043816,"BTN0, RESET, RESET",4341x10438x6,WS-TASV 6.0x3.5 mm SMD,"WS-TASV, 434121043816","WS-TASV, 434121043816",,"6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R",2,,
+638-1120-1-ND,1,U301,,EMC1412-1-ACZL-TR,,TSOP65P490X110-8N,Dual channel I2C temperature sensor,EMC1412,EMC1412,,"TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)",8,,
+706-1132-ND,1,U500,,IS42S16400J,,TSOP80P1170X120-54N,1Mb x 16 x 4 bank (64 Mbit) SDRAM,IS42S16400J,IS42S16400J,,"TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)",54,,
+LT8608IMSE#PBF-ND,1,U400,,LT8608,,TSSOP50P490X110_HS-11N,"42V 1.5A step-down, low Iq",LT8608,LT8608,,"TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density",11,,
+568-5818-1-ND,2,"Q700, Q701",,2N7002,,SOT95P240X100-3N (CMPSH1-4 TR),N-Channel MOSFET,MOSFET-N,MOSFET-N,,"SOT23, 3-Leads, Body 2.90x2.40mm,",3,,
+MMBT3904LT1GOSCT-ND,1,Q300,,MMBT3904,,SOT90P240X110-3N,NPN General Purpose Amplifier,2N3904,2N3904,,"SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904",3,,
+LT3652HVIMSE#PBF-ND,1,U200,,LT3652,,TSOP65P490X110_HS-13N (LT3652),MPPC and battery charger,LT3652,LT3652,,"TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,",13,,
+36-9923-ND,4,"MTGH1, MTGH2, MTGH3, MTGH4",,,MTGH,MTGH-M3x0.5,Mounting hole,MTGH,MTGH,,M3 x 0.5 pan head mounting hole,1,M3x0.5,
+732-5316-ND,1,JP200,,,SHDN_EN,HDR_100TH_1x3,3-pos Jumper,JP-3,JP-3,,100TH pin header 1x3 vertical,3,,
+609-3264-ND,1,J700,,,HDR_FTDI_EXTENDED,HDR1X8,,HDR_FTDI_EXTENDED,HDR_FTDI_EXTENDED,,Connector; Header; 8 Position,8,,
+609-3221-ND,1,J600,,,CAMERA_2x10,OV5642_HDR_2x10,20-pin parallel camera connector for OV5642,CAMERA_2x10,CAMERA_2x10,,OV5642 camera 100TH pin header 2x10 vertical,20,,
+732-5317-ND,1,J400,,,EXT 3V3,HDR1X4,"Header, 4-Pin",Header 4,Header 4,,Connector; Header; 4 Position,4,,
+732-2770-ND,1,J203,,691322110003,691322110003,691322110003,WR-TBL Terminal block - serie 3221 - 3.50 mm,691322110003,691322110003,,"3,50mm - PCB Horizontal - 03p",3,,
+535-9166-1-ND,2,"Y101, Y300",,ABS25-32.768KHZ-T,,XTAL-SOJ-4,,XTAL-SOJ-4,XTAL-SOJ-4,12.5p,,4,,
+LTC2943IDD#PBF-ND,1,U203,,LTC2943,,DFN8-3x3,Multi-cell I2C fuel gauge,LTC2943A,LTC2943A,,LTC2943,9,,
+952-1770-ND,5,"J201, J202, J204, JP700, JP701",,,"PV_IN, NTC, VBAT, JP-2, JP-2","HDR1X2, HDR1X2, HDR1X2, HDR_100TH_1x2, HDR_100TH_1x2","Header, 2-Pin, Header, 2-Pin, Header, 2-Pin, 2-pos Jumper, 2-pos Jumper","Header 2, Header 2, Header 2, JP-2, JP-2","Header 2, Header 2, Header 2, JP-2, JP-2",,"Connector; Header; 2 Position, Connector; Header; 2 Position, Connector; Header; 2 Position, 100TH pin header 1x2 vertical, 100TH pin header 1x2 vertical",2,,
+732-2769-ND,1,J200,,691322110002,691322110002,691322110002,WR-TBL Terminal block - serie 3221 - 3.50 mm,691322110002,691322110002,,"3,50mm - PCB Horizontal - 02p",2,,
+497-14053-ND,1,U100,,STM32F429,STM32F429,TSQFP50P2200X2200X160-144M,Cortex-M4 microcontroller,STM32F429,STM32F429,,"TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429",144,,
+887-1263-1-ND,1,Y100,,9C-8.000MEEJ-T,,HC-49S,Crystal Oscillator,XTAL,XTAL,18p,Crystal,2,,
+WM17452-ND,2,"J103, J701",,,"HDR_SWD_2x6, ESP_GPIO",HDR_100TH_2X6_SMT,"6 pin SWD connector with +6 GND pins, Header, 6-Pin, Dual row","HDR_SWD_2x6, Header 6X2","HDR_SWD_2x6, Header 6X2",,"100TH pin header, 2x6, SMT",12,,
+WM17454-ND,1,J102,,,GPIO,HDR_100TH_2X8_SMT,"Header, 8-Pin, Dual row",Header 8X2,Header 8X2,,"100TH pin header, 2x8, SMT",16,,
+LTC2055HMS8#PBF-ND,1,U302,,LTC2055,,TSOP65P490X110-8N,Dual zero-drift op amp,LTC2054/LTC2055,LTC2054/LTC2055,,"TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)",8,,
+MCP79412-I/MS-ND,1,U300,,MCP79412,,TSOP65P490X110-8N,I2C RTC w/ SRAM and EEPROM,MCP7941x,MCP7941x,,"TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)",8,,
+609-3263-ND,2,"J100, J101",,,HDR_FTDI,HDR_100TH_1x6,Sparkfun FTDI pinout connector,HDR_FTDI,HDR_FTDI,,100TH pin header 1x6 vertical,6,,
+732-4978-1-ND,6,"D301, D302, D303, D304, D305, D400",,,"0603, 0603, 0603, 0603, 0603, 3V3",LED_0603,"Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, Typical INFRARED GaAs LED, [NoValue]",LED0,LED0,,,2,,
+732-4971-1-ND,3,"D203, D204, D300",,,"CHRG, FAULT, 0603",LED_0603,"[NoValue], [NoValue], Typical INFRARED GaAs LED",LED0,LED0,,,2,,
+CMPSH1-4 CT-ND,1,D202,,CMPSH1-4,,SOT95P240X100-3N (CMPSH1-4 TR),Schottky Diode,D Schottky,D Schottky,,"SOT23, 3-Leads, Body 2.90x2.40mm,",2,,
+CMSH3-40MA TR13CT-ND,2,"D200, D201",,CMSH3-40MA,,SODFL519X262-2N (CMSH3-40MA),Schottky Diode,D Schottky,D Schottky,,"SODFL, 2-Leads, Body 2.60x5.19mm,",2,,
+36-5016CT-ND,7,"TP105, TP106, TP200, TP206, TP303, TP401, TP702",,,TP_LARGE,TP_LARGE,,TP_LARGE,TP_LARGE,,5016,1,,GND
+497-1549-1-ND,2,"U201, U202",,LM234SM,,SOIC127P600X175-8N (LM234),Adjustable current source,LM234,LM234,,"SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,",3,,
+36-5015CT-ND,26,"TP100, TP101, TP102, TP103, TP104, TP201, TP203, TP204, TP205, TP207, TP208, TP209, TP300, TP301, TP302, TP304, TP305, TP306, TP307, TP308, TP309, TP400, TP600, TP601, TP700, TP701",,,,TP_SMALL,,TP_SMALL,TP_SMALL,,5015,1,,"TX, RX, TX, RX, 3V3, VIN, VBAT_INT, VINFB, VFB, VBAT, CHRG, FAULT, SDA, SCL, ALERT, SPECT0, SPECT1, LED0, LED1, LED2, LED3, 3V3, SDA, SCL, TX, RX"
+317060015-ND,1,U700,,ESP8266-12E,,ESP8266 ESP-12-E,ESP8266 ESP-12-E,ESP8266 ESP-12-E,ESP8266 ESP-12-E,,ESP8266 ESP-12-E,22,,
+36-5106CT-ND,3,"R400, R403, R707",0,,1206,RES_1206,Resistor,Res1,Res1,,,2,,
+311-0.0ARCT-ND,2,"R100, R103","0, 220",,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-1.00MCRCT-ND,1,R401,1M,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-1.00MLRCT-ND,2,"R303, R308",1M,,402,RES_0402,Resistor,Res1,Res1,,,2,,
+311-1.00KCRCT-ND,1,R202,1k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+1276-1020-1-ND,1,C700,1n,,805,CAP_0805,Capacitor,Cap,Cap,,,2,,
+1276-6470-1-ND,1,C200,1u,,"0805,50V",CAP_0805,Capacitor,Cap,Cap,,,2,,
+1276-6458-1-ND,4,"C113, C114, C115, C407",2.2u,,805,CAP_0805,Capacitor,Cap,Cap,,,2,,
+311-2.40KCRCT-ND,1,R204,2.4k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-3.30KCRCT-ND,5,"R300, R301, R302, R600, R601",3.3k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+SRR1260-3R3YCT-ND,1,L400,3.3u,SRR1260-3R3,,SRR1260,Inductor,Inductor,Inductor,,,2,,
+1276-3343-1-ND,3,"C201, C202, C203",4.7u,,"1210,50V",CAP_1210,Capacitor,Cap,Cap,,,2,,
+311-10.0KCRCT-ND,9,"R211, R212, R700, R701, R702, R703, R706, R708, R711",10k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+1276-1015-1-ND,1,C408,10n,,805,CAP_0805,Capacitor,Cap,Cap,,,2,,
+1276-1109-1-ND,1,C403,10p,,805,CAP_0805,Capacitor,Cap,Cap,,,2,,
+1276-1312-1-ND,5,"C205, C206, C401, C601, C702",10u,,"1206,16V, 1206,16V, 1206,16V, 1206,16V, 1206",CAP_1206,Capacitor,Cap,Cap,,,2,,
+1276-6455-1-ND,2,"C404, C406",10u,,805,CAP_0805,Capacitor,Cap,Cap,,,2,,
+SRR1208-150MLCT-ND,1,L200,15u,SRR1208-150ML,,srr1208,Inductor,Inductor,Inductor,,,2,,
+490-6203-1-ND,4,"C102, C103, C300, C301",18p,,402,CAP_0402,Capacitor,Cap,Cap,,,2,,
+311-24.3KCRCT-ND,1,R206,24.3k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+CSR1206FK25L0CT-ND,1,R210,25m,,1206,RES_1206,Resistor,Res1,Res1,,,2,,
+1276-1153-1-ND,2,"C100, C101",27p,,402,CAP_0402,Capacitor,Cap,Cap,,,2,,
+311-33.2KCRCT-ND,1,R405,33.2k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+1276-3063-1-ND,3,"C405, C600, C701",47u,,"1206,10V",CAP_1206,Capacitor,Cap,Cap,,,2,,
+CRA6S868CT-ND,4,"RR503, RR504, RR505, RR506",49.9,,RES_ARR_4,CAC-80P319X150-8M,4 element resistor array,RES_ARR_4,RES_ARR_4,,"Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S",8,,
+CRA6S849.9ACT-ND,5,"RR500, RR501, RR502, RR507, RR508",49.9,,RES_ARR_4,CAC-80P319X150-8M,4 element resistor array,RES_ARR_4,RES_ARR_4,,"Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S",8,,
+311-49.9CRCT-ND,5,"R110, R500, R501, R502, R602",49.9,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-54.9KCRCT-ND,1,R207,54.9k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+WSLC-.08CT-ND,1,R200,80m,,1206,RES_1206,Resistor,Res1,Res1,,,2,,
+311-100CRCT-ND,8,"R101, R102, R104, R105, R704, R705, R709, R710",100,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-100KCRCT-ND,3,"R208, R209, R402",100k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+587-3498-1-ND,31,"C104, C105, C106, C107, C108, C109, C110, C111, C112, C116, C117, C118, C119, C120, C121, C122, C123, C124, C204, C302, C303, C400, C402, C500, C501, C502, C503, C504, C505, C506, C507",100n,,402,CAP_0402,Capacitor,Cap,Cap,,,2,,
+311-105KCRCT-ND,1,R203,105k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-215KCRCT-ND,1,R205,215k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+490-1293-1-ND,2,"C304, C305",220p,,402,CAP_0402,Capacitor,Cap,Cap,,,2,,
+311-309KCRCT-ND,1,R404,309k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-330CRCT-ND,5,"R304, R305, R306, R307, R406",330,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-340KCRCT-ND,1,R201,340k,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+311-510CRCT-ND,1,R109,510,,805,RES_0805,Resistor,Res1,Res1,,,2,,
+,32,"R106, R107, R108, SJ100, SJ101, SJ103, SJ104, SJ105, SJ106, SJ107, SJ108, SJ109, SJ110, SJ111, SJ112, SJ200, SJ300, SJ301, SJ600, SJ601, SJ602, SJ603, SJ604, SJ605, SJ606, SJ607, SJ608, SJ609, SJ610, TP202, TP500, TP501",DNP,,"0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, 0805, SJ, 0805, 0805, 0603, 0603, 0805, 0603, 0603, 0805, 0603, 0805, 0603, 0603, 0603, TP_TINY, TP_TINY, TP_TINY","RES_0805, RES_0805, RES_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0805, SJ_0603, SJ_0603, SJ_0805, SJ_0603, SJ_0603, SJ_0805, SJ_0603, SJ_0805, SJ_0603, SJ_0603, SJ_0603, TP_TINY, TP_TINY, TP_TINY","Resistor, Resistor, Resistor, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, Solder jumper, [NoValue], [NoValue], [NoValue]","Res1, Res1, Res1, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, TP_TINY, TP_TINY, TP_TINY","Res1, Res1, Res1, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, SJ, TP_TINY, TP_TINY, TP_TINY",,"[NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], [NoValue], 0603 net tie, 0603 net tie, [NoValue], 0603 net tie, 0603 net tie, [NoValue], 0603 net tie, [NoValue], 0603 net tie, 0603 net tie, 0603 net tie, 1mm round tiny testpoint, 1mm round tiny testpoint, 1mm round tiny testpoint",,,"[NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], [NoParam], SENSE, GND, CLK"
