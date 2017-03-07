@@ -4,14 +4,17 @@
 
 #### Rev. A PCB/schematic issues
 
-* Power LED on wrong side of R400/R403, power LED should illuminate when 3V3 buck is on, regardless of rest of board. (fixed)
-* TP\_TINY footprint is missing soldermask and got pasted
-    * TP202 missing mask
-    * TP500 missing mask
-    * TP501 missing mask
-* 0402 footprints need a slight change of shape, pads should be slightly closer together and enlarged slightly
+
+* Power LED on wrong side of R400/R403, power LED should illuminate when 3V3 buck is on, regardless of rest of board. (done)
+* TP\_TINY footprint has paste mask and shouldn't (fixed, but footprint wouldn't update)
+    * TP202 got paste
+    * TP500 got paste
+    * TP501 got paste
+* 0402 footprints need a slight change of shape, pads should be slightly closer together and enlarged slightly (fixed, but footprint wouldn't update)
     * This should fix the few tombstoned capacitors
-* Fuel gauge footprint (DFN) needs larger pads (more paste volume) for better reflow
+    * Pad size was: 0.8 mm (X) x 0.6 mil (Y)
+* Fuel gauge footprint (DFN) needs larger pads (more paste volume) for better reflow (fixed, but footprint wouldn't update)
+    * Pad size was: 0.25 mm (X) x 0.7 mm (Y)
 * Fuel gauge is mis-wired, only senses current _into_ battery. (fixed)
 * SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims (done)
 * Slight undershoot issue on camera parallel interface (need scope captures to document)
@@ -45,6 +48,7 @@
     * See Sparkfun Sunny Buddy for more flexible circuit
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz)
 * Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2
+* Move SJ200 (LT3652 TIMER solder jumper) to bottom
 
 ## SOLENS rev. A -> B changelog
 
@@ -53,3 +57,8 @@
 * Cleaned up SDRAM schematic page
 * Updated SDRAM data termination arrays to 33R
 * Added termination resistor arrays to camera data and control lines (still not sure on value)
+* Removed paste mask from TP_TINY
+* Changed 0402 pad dimensions to 0.9 mm (X) x 0.6m mil (Y), no pad spacing changes
+* Changed DFN8-3X3 pad dimensions to 0.25 mm (X) x 0.9 mm (Y), moving pads away from center to preserve ePad to pad spacing
+* Removed R208, R209 (CHRG and FAULT 100k pullups)
+* Removed input tracking circuitry from LT3652, preparing for updated tracking circuit
