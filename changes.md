@@ -4,7 +4,7 @@
 
 #### Rev. A PCB/schematic issues
 
-* Power LED on wrong side of R400/R403, power LED should illuminate when 3V3 buck is on, regardless of rest of board.
+* Power LED on wrong side of R400/R403, power LED should illuminate when 3V3 buck is on, regardless of rest of board. (fixed)
 * TP\_TINY footprint is missing soldermask and got pasted
     * TP202 missing mask
     * TP500 missing mask
@@ -12,11 +12,12 @@
 * 0402 footprints need a slight change of shape, pads should be slightly closer together and enlarged slightly
     * This should fix the few tombstoned capacitors
 * Fuel gauge footprint (DFN) needs larger pads (more paste volume) for better reflow
-* Fuel gauge is mis-wired, only senses current _into_ battery.
-* SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims
+* Fuel gauge is mis-wired, only senses current _into_ battery. (fixed)
+* SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims (done)
 * Slight undershoot issue on camera parallel interface (need scope captures to document)
     * Add termination arrays on all camera interface lines, value unknown (need to rework SJ* on bus before value decision)
 * LT3652 charging circuit had regulation issues (bad/damaged chip?)
+* XCLK termination (R602) is on the wrong end of the line (needs to be MCU)
 
 #### Rev. A assembly issues
 
@@ -37,12 +38,18 @@
 * Replace WiFi UART jumpers to 2x2 header
 * Reduce wasted board space
 * Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO
-* Clean up SDRAM schematic sheet
+* Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
     * Change output voltage circuit to tracking-optional
     * Change input voltage to non-temperature compensated, adjustable MPP voltage
     * See Sparkfun Sunny Buddy for more flexible circuit
+* Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz)
+* Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2
 
 ## SOLENS rev. A -> B changelog
 
-No changes committed yet.
+* Moved D400 (3V3 power LED) to regulator side of 3V3 jumpers.
+* Fixed fuel gauge wiring, renaming VBAT to VBAT_INT where appropriate.
+* Cleaned up SDRAM schematic page
+* Updated SDRAM data termination arrays to 33R
+* Added termination resistor arrays to camera data and control lines (still not sure on value)
