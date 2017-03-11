@@ -37,14 +37,14 @@
 * Use stainless steel stencil instead of polyimide
 * Shrink inductor sizes
 * Move components to back, particularly current sources
-* Switch 2- and 3-pos Pheonix to single 5-pos Pheonix
+* Switch 2- and 3-pos Pheonix to single 5-pos Pheonix (done)
 * Replace WiFi UART jumpers to 2x2 header
 * Reduce wasted board space
 * Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO
 * Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
     * Change output voltage circuit to tracking-optional
-    * Change input voltage to non-temperature compensated, adjustable MPP voltage
+    * Change input voltage to non-temperature compensated, adjustable MPP voltage (done)
     * See Sparkfun Sunny Buddy for more flexible circuit
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz)
 * Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2
@@ -62,3 +62,7 @@
 * Changed DFN8-3X3 pad dimensions to 0.25 mm (X) x 0.9 mm (Y), moving pads away from center to preserve ePad to pad spacing
 * Removed R208, R209 (CHRG and FAULT 100k pullups)
 * Removed input tracking circuitry from LT3652, preparing for updated tracking circuit
+* Updated input tracking circuitry (now with trimpot!)
+* Simplified output voltage set circuitry
+* Combined PV input and battery connector into a single 5-pin Euroblock
+* Updated LT3652 inductor selection to Taiyo Yuden NRS8040T150MJGJ
