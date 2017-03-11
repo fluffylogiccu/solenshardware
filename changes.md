@@ -19,6 +19,7 @@
 * SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims (done)
 * Slight undershoot issue on camera parallel interface (need scope captures to document)
     * Add termination arrays on all camera interface lines, value unknown (need to rework SJ* on bus before value decision)
+    * SJ replaced by termination, 33R determined as suitable termination value (done)
 * LT3652 charging circuit had regulation issues (bad/damaged chip?)
 * XCLK termination (R602) is on the wrong end of the line (needs to be MCU)
 
@@ -35,7 +36,7 @@
 #### Rev. A wishlist
 
 * Use stainless steel stencil instead of polyimide
-* Shrink inductor sizes
+* Shrink inductor sizes (done)
 * Move components to back, particularly current sources
 * Switch 2- and 3-pos Pheonix to single 5-pos Pheonix (done)
 * Replace WiFi UART jumpers to 2x2 header
@@ -66,3 +67,4 @@
 * Simplified output voltage set circuitry
 * Combined PV input and battery connector into a single 5-pin Euroblock
 * Updated LT3652 inductor selection to Taiyo Yuden NRS8040T150MJGJ
+* Updated LT8608 inductor selection to Taiyo Yuden NR6028T2R2N
