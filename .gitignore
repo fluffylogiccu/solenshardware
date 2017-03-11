@@ -4,3 +4,5 @@
 /Altium/Solens/History/
 /Altium/Integrated_Library/History/
 
+# Ignore Altium Previews
+/Altium/Solens/__Previews/
