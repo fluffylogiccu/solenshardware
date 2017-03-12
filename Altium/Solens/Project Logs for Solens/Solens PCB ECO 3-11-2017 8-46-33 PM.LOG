@@ -1,0 +1,197 @@
+Removed Pin From Net: NetName=VBAT Pin=C401-1
+Removed Pin From Net: NetName=VBAT Pin=C402-1
+Removed Pin From Net: NetName=NetD201_1 Pin=J201-1
+Removed Pin From Net: NetName=GND Pin=J201-2
+Removed Pin From Net: NetName=NTC Pin=J202-1
+Removed Pin From Net: NetName=GND Pin=J202-2
+Removed Pin From Net: NetName=VBAT Pin=J203-1
+Removed Pin From Net: NetName=NTC Pin=J203-2
+Removed Pin From Net: NetName=GND Pin=J203-3
+Removed Pin From Net: NetName=VBAT Pin=J204-1
+Removed Pin From Net: NetName=GND Pin=J204-2
+Removed Pin From Net: NetName=NetJP701_1 Pin=JP701-1
+Removed Pin From Net: NetName=WIFI_TX Pin=JP701-2
+Removed Pin From Net: NetName=PH0-OSC_IN Pin=R100-1
+Removed Pin From Net: NetName=NetC100_1 Pin=R100-2
+Removed Pin From Net: NetName=VINFB Pin=R201-2
+Removed Pin From Net: NetName=NetR202_1 Pin=R202-1
+Removed Pin From Net: NetName=VINFB Pin=R202-2
+Removed Pin From Net: NetName=NetR204_1 Pin=R204-1
+Removed Pin From Net: NetName=NetR203_2 Pin=R204-2
+Removed Pin From Net: NetName=NetR203_2 Pin=R205-1
+Removed Pin From Net: NetName=VFB Pin=R205-2
+Removed Pin From Net: NetName=VINFB Pin=R206-1
+Removed Pin From Net: NetName=GND Pin=R206-2
+Removed Pin From Net: NetName=VIN Pin=R208-1
+Removed Pin From Net: NetName=PWR_CHRG_L Pin=R208-2
+Removed Pin From Net: NetName=VIN Pin=R209-1
+Removed Pin From Net: NetName=PWR_FAULT_L Pin=R209-2
+Removed Pin From Net: NetName=NetD203_1 Pin=R211-1
+Removed Pin From Net: NetName=VIN Pin=R211-2
+Removed Pin From Net: NetName=NetD204_1 Pin=R212-1
+Removed Pin From Net: NetName=VIN Pin=R212-2
+Removed Pin From Net: NetName=3V3 Pin=R403-1
+Removed Pin From Net: NetName=NetC403_2 Pin=R403-2
+Removed Pin From Net: NetName=3V3 Pin=R406-2
+Removed Pin From Net: NetName=NetR704_1 Pin=R704-1
+Removed Pin From Net: NetName=NetR705_1 Pin=R705-1
+Removed Pin From Net: NetName=3V3 Pin=R707-1
+Removed Pin From Net: NetName=VCC_ESP Pin=R707-2
+Removed Pin From Net: NetName=NetJ700_2 Pin=R709-1
+Removed Pin From Net: NetName=NetR704_1 Pin=R709-2
+Removed Pin From Net: NetName=NetJ700_3 Pin=R710-1
+Removed Pin From Net: NetName=NetR705_1 Pin=R710-2
+Removed Pin From Net: NetName=CAM_D0 Pin=SJ600-1
+Removed Pin From Net: NetName=NetJ600_16 Pin=SJ600-2
+Removed Pin From Net: NetName=CAM_D1 Pin=SJ601-1
+Removed Pin From Net: NetName=NetJ600_15 Pin=SJ601-2
+Removed Pin From Net: NetName=CAM_PCLK_U Pin=SJ602-1
+Removed Pin From Net: NetName=CAM_PCLK Pin=SJ602-2
+Removed Pin From Net: NetName=CAM_D2 Pin=SJ603-1
+Removed Pin From Net: NetName=NetJ600_14 Pin=SJ603-2
+Removed Pin From Net: NetName=CAM_D3 Pin=SJ604-1
+Removed Pin From Net: NetName=NetJ600_13 Pin=SJ604-2
+Removed Pin From Net: NetName=CAM_HREF_U Pin=SJ605-1
+Removed Pin From Net: NetName=CAM_HREF Pin=SJ605-2
+Removed Pin From Net: NetName=CAM_D4 Pin=SJ606-1
+Removed Pin From Net: NetName=NetJ600_12 Pin=SJ606-2
+Removed Pin From Net: NetName=CAM_VSYNC_U Pin=SJ607-1
+Removed Pin From Net: NetName=CAM_VSYNC Pin=SJ607-2
+Removed Pin From Net: NetName=CAM_D5 Pin=SJ608-1
+Removed Pin From Net: NetName=NetJ600_11 Pin=SJ608-2
+Removed Pin From Net: NetName=CAM_D6 Pin=SJ609-1
+Removed Pin From Net: NetName=NetJ600_10 Pin=SJ609-2
+Removed Pin From Net: NetName=CAM_D7 Pin=SJ610-1
+Removed Pin From Net: NetName=NetJ600_9 Pin=SJ610-2
+Removed Pin From Net: NetName=SENSE Pin=TP202-1
+Removed Pin From Net: NetName=VFB Pin=TP205-1
+Removed Pin From Net: NetName=GND Pin=TP206-1
+Removed Pin From Net: NetName=NetR704_1 Pin=TP700-1
+Removed Pin From Net: NetName=NetR705_1 Pin=TP701-1
+Removed Pin From Net: NetName=VINFB Pin=U201-1
+Removed Pin From Net: NetName=NetR202_1 Pin=U201-2
+Removed Pin From Net: NetName=VIN Pin=U201-3
+Removed Pin From Net: NetName=NetR203_2 Pin=U202-1
+Removed Pin From Net: NetName=NetR204_1 Pin=U202-2
+Removed Pin From Net: NetName=VBAT_INT Pin=U202-3
+Removed Pin From Net: NetName=VBAT Pin=U400-9
+Removed Pin From Net: NetName=VBAT Pin=U400-10
+Removed Member From Class: ClassName=Z2 Member=J201
+Removed Member From Class: ClassName=Z2 Member=J202
+Removed Member From Class: ClassName=Z2 Member=J203
+Removed Member From Class: ClassName=Z2 Member=J204
+Removed Member From Class: ClassName=Z7 Member=JP701
+Removed Member From Class: ClassName=Z1 Member=R100
+Removed Member From Class: ClassName=Z2 Member=R206
+Removed Member From Class: ClassName=Z2 Member=R208
+Removed Member From Class: ClassName=Z2 Member=R209
+Removed Member From Class: ClassName=Z2 Member=R211
+Removed Member From Class: ClassName=Z2 Member=R212
+Removed Member From Class: ClassName=Z4 Member=R403
+Removed Member From Class: ClassName=Z7 Member=R710
+Removed Member From Class: ClassName=Z6 Member=SJ600
+Removed Member From Class: ClassName=Z6 Member=SJ601
+Removed Member From Class: ClassName=Z6 Member=SJ602
+Removed Member From Class: ClassName=Z6 Member=SJ603
+Removed Member From Class: ClassName=Z6 Member=SJ604
+Removed Member From Class: ClassName=Z6 Member=SJ605
+Removed Member From Class: ClassName=Z6 Member=SJ606
+Removed Member From Class: ClassName=Z6 Member=SJ607
+Removed Member From Class: ClassName=Z6 Member=SJ608
+Removed Member From Class: ClassName=Z6 Member=SJ609
+Removed Member From Class: ClassName=Z6 Member=SJ610
+Removed Member From Class: ClassName=Z2 Member=TP202
+Removed Member From Class: ClassName=Z2 Member=TP206
+Removed Member From Class: ClassName=Z2 Member=U202
+Change Component DesignItemId : Designator=J200 Old DesignItemId=691322110002 New DesignItemId=691322110005
+Change Component DesignItemId : Designator=JP700 Old DesignItemId=JP-2 New DesignItemId=Header 2X2
+Change Component Footprint: Designator=J200 Old Footprint=691322110002 New Footprint=691322110005
+Change Component Footprint: Designator=JP700 Old Footprint=HDR_100TH_1x2 New Footprint=HDR2X2
+Change Component Footprint: Designator=R707 Old Footprint=RES_1206 New Footprint=RES_0805
+Change Component Footprint: Designator=L200 Old Footprint=SRR1208 New Footprint=IND_TAIYO_NRS804
+Change Component Footprint: Designator=L400 Old Footprint=SRR1260 New Footprint=IND_TAIYO_NR6028
+Change Component Comment : Designator=U201 Old Comment= New Comment=LM234SM
+Change Component Comment : Designator=R707 Old Comment=1206 New Comment=0805
+Change Component Comment : Designator=J200 Old Comment=691322110002 New Comment=691322110005
+Change Component Comment : Designator=JP700 Old Comment=JP-2 New Comment=2x2 100 mil
+Added Component: Designator=RR600(CAC-80P319X150-8M)
+Added Component: Designator=RR601(CAC-80P319X150-8M)
+Added Component: Designator=RR602(CAC-80P319X150-8M)
+Added Component: Designator=SJ102(SJ_0805)
+Added Component: Designator=SJ201(SJ_0805)
+Added Component: Designator=SJ700(SJ_0805)
+Added Component: Designator=VR200(RES_3361P)
+Added Pin To Net: NetName=VBAT_INT Pin=C401-1
+Added Pin To Net: NetName=VBAT_INT Pin=C402-1
+Added Pin To Net: NetName=VBAT Pin=J200-3
+Added Pin To Net: NetName=NTC Pin=J200-4
+Added Pin To Net: NetName=GND Pin=J200-5
+Added Pin To Net: NetName=NetJP701_1 Pin=JP700-3
+Added Pin To Net: NetName=WIFI_TX Pin=JP700-4
+Added Pin To Net: NetName=NetR202_1 Pin=R201-2
+Added Pin To Net: NetName=VIN Pin=R202-1
+Added Pin To Net: NetName=NetD203_1 Pin=R202-2
+Added Pin To Net: NetName=VIN Pin=R204-1
+Added Pin To Net: NetName=NetD204_1 Pin=R204-2
+Added Pin To Net: NetName=NetR204_1 Pin=R205-1
+Added Pin To Net: NetName=NetR203_2 Pin=R205-2
+Added Pin To Net: NetName=NetC403_2 Pin=R406-2
+Added Pin To Net: NetName=HSPICS Pin=R704-1
+Added Pin To Net: NetName=HSPIMOSI Pin=R705-1
+Added Pin To Net: NetName=NetR704_1 Pin=R707-1
+Added Pin To Net: NetName=NetJ700_2 Pin=R707-2
+Added Pin To Net: NetName=NetR705_1 Pin=R709-1
+Added Pin To Net: NetName=NetJ700_3 Pin=R709-2
+Added Pin To Net: NetName=CAM_D0 Pin=RR600-1
+Added Pin To Net: NetName=CAM_D1 Pin=RR600-2
+Added Pin To Net: NetName=CAM_D2 Pin=RR600-3
+Added Pin To Net: NetName=CAM_D3 Pin=RR600-4
+Added Pin To Net: NetName=NetJ600_13 Pin=RR600-5
+Added Pin To Net: NetName=NetJ600_14 Pin=RR600-6
+Added Pin To Net: NetName=NetJ600_15 Pin=RR600-7
+Added Pin To Net: NetName=NetJ600_16 Pin=RR600-8
+Added Pin To Net: NetName=CAM_D4 Pin=RR601-1
+Added Pin To Net: NetName=CAM_D5 Pin=RR601-2
+Added Pin To Net: NetName=CAM_D6 Pin=RR601-3
+Added Pin To Net: NetName=CAM_D7 Pin=RR601-4
+Added Pin To Net: NetName=NetJ600_9 Pin=RR601-5
+Added Pin To Net: NetName=NetJ600_10 Pin=RR601-6
+Added Pin To Net: NetName=NetJ600_11 Pin=RR601-7
+Added Pin To Net: NetName=NetJ600_12 Pin=RR601-8
+Added Pin To Net: NetName=CAM_HREF Pin=RR602-1
+Added Pin To Net: NetName=CAM_VSYNC Pin=RR602-2
+Added Pin To Net: NetName=CAM_PCLK Pin=RR602-3
+Added Pin To Net: NetName=CAM_PCLK_U Pin=RR602-6
+Added Pin To Net: NetName=CAM_VSYNC_U Pin=RR602-7
+Added Pin To Net: NetName=CAM_HREF_U Pin=RR602-8
+Added Pin To Net: NetName=PH0-OSC_IN Pin=SJ102-1
+Added Pin To Net: NetName=NetC100_1 Pin=SJ102-2
+Added Pin To Net: NetName=VFB Pin=SJ201-1
+Added Pin To Net: NetName=NetR203_2 Pin=SJ201-2
+Added Pin To Net: NetName=3V3 Pin=SJ700-1
+Added Pin To Net: NetName=VCC_ESP Pin=SJ700-2
+Added Pin To Net: NetName=NetR203_2 Pin=TP205-1
+Added Pin To Net: NetName=HSPIMOSI Pin=TP700-1
+Added Pin To Net: NetName=HSPICS Pin=TP701-1
+Added Pin To Net: NetName=NetR203_2 Pin=U201-1
+Added Pin To Net: NetName=NetR204_1 Pin=U201-2
+Added Pin To Net: NetName=VBAT_INT Pin=U201-3
+Added Pin To Net: NetName=VBAT_INT Pin=U400-9
+Added Pin To Net: NetName=VBAT_INT Pin=U400-10
+Added Pin To Net: NetName=NetR202_1 Pin=VR200-1
+Added Pin To Net: NetName=GND Pin=VR200-2
+Added Pin To Net: NetName=VINFB Pin=VR200-3
+Change Net Name : Old Net Name=NetJ700_2 New Net Name=PROG_TXD
+Change Net Name : Old Net Name=NetJ700_3 New Net Name=PROG_RXD
+Change Net Name : Old Net Name=NetJP701_1 New Net Name=NetJP700_3
+Change Net Name : Old Net Name=NetR202_1 New Net Name=NetR201_2
+Change Net Name : Old Net Name=NetR204_1 New Net Name=NetR205_1
+Change Net Name : Old Net Name=NetR704_1 New Net Name=NetR707_1
+Change Net Name : Old Net Name=NetR705_1 New Net Name=NetR709_1
+Added Member To Class: ClassName=Z6 Member=Component RR600 RES_ARR_4
+Added Member To Class: ClassName=Z6 Member=Component RR601 RES_ARR_4
+Added Member To Class: ClassName=Z6 Member=Component RR602 RES_ARR_4
+Added Member To Class: ClassName=Z1 Member=Component SJ102 0805
+Added Member To Class: ClassName=Z2 Member=Component SJ201 SJ
+Added Member To Class: ClassName=Z7 Member=Component SJ700 0805
+Added Member To Class: ClassName=Z2 Member=Component VR200 Vin Set

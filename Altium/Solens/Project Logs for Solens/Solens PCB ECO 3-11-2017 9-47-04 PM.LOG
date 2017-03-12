@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetD201_1 Pin=J200-1
+Removed Pin From Net: NetName=GND Pin=J200-2
+Removed Pin From Net: NetName=VBAT Pin=J200-3
+Removed Pin From Net: NetName=NTC Pin=J200-4
+Removed Pin From Net: NetName=HSPICLK Pin=J701-1
+Removed Pin From Net: NetName=HSPIMISO Pin=J701-3
+Added Pin To Net: NetName=VBAT Pin=J200-1
+Added Pin To Net: NetName=NTC Pin=J200-2
+Added Pin To Net: NetName=GND Pin=J200-3
+Added Pin To Net: NetName=NetD201_1 Pin=J200-4
+Added Pin To Net: NetName=HSPIMISO Pin=J701-1
+Added Pin To Net: NetName=HSPICLK Pin=J701-3
+Change Net Name : Old Net Name=HSPICLK New Net Name=GPIO14
+Change Net Name : Old Net Name=HSPICS New Net Name=TXD2
+Change Net Name : Old Net Name=HSPIMISO New Net Name=GPIO12
+Change Net Name : Old Net Name=HSPIMOSI New Net Name=RXD2
