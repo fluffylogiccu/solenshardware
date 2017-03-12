@@ -44,7 +44,7 @@
 * Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO (done)
 * Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
-    * Change output voltage circuit to tracking-optional
+    * Change output voltage circuit to tracking-optional (done)
     * Change input voltage to non-temperature compensated, adjustable MPP voltage (done)
     * See Sparkfun Sunny Buddy for more flexible circuit
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz) (done)
@@ -72,3 +72,4 @@
 * Updated LT8608 inductor selection to Taiyo Yuden NR6028T2R2N
 * Changed WiFi MCU-ESP UART to UART2 (programming on UART0)
 * WiFi is now powered by default
+* Added optional LT3652 tempco charging circuit

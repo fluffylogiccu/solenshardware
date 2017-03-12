@@ -1,0 +1,5 @@
+Removed Parameter DigikeyPN:311-2.40KCRCT-ND from Part R205
+Removed Parameter partNo:691322110005 from Part J200
+Change Value of Parameter Value in Part R205 Old=511k New=DNP
+Added Parameter DigikeyPN=732-2772-ND to Part J200
+Added Parameter PartNumber=691322110005 to Part J200
