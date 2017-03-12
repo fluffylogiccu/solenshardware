@@ -47,9 +47,10 @@
     * Change output voltage circuit to tracking-optional
     * Change input voltage to non-temperature compensated, adjustable MPP voltage (done)
     * See Sparkfun Sunny Buddy for more flexible circuit
-* Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz)
-* Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2
+* Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz) (done)
+* Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2 (done)
 * Move SJ200 (LT3652 TIMER solder jumper) to bottom
+* Move WiFi GPIO headers to bottom, make DNP
 
 ## SOLENS rev. A -> B changelog
 
@@ -68,3 +69,5 @@
 * Combined PV input and battery connector into a single 5-pin Euroblock
 * Updated LT3652 inductor selection to Taiyo Yuden NRS8040T150MJGJ
 * Updated LT8608 inductor selection to Taiyo Yuden NR6028T2R2N
+* Changed WiFi MCU-ESP UART to UART2 (programming on UART0)
+* WiFi is now powered by default
