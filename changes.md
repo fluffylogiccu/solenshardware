@@ -39,9 +39,9 @@
 * Shrink inductor sizes (done)
 * Move components to back, particularly current sources
 * Switch 2- and 3-pos Pheonix to single 5-pos Pheonix (done)
-* Replace WiFi UART jumpers to 2x2 header
+* Replace WiFi UART jumpers to 2x2 header (done)
 * Reduce wasted board space
-* Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO
+* Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO (done)
 * Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
     * Change output voltage circuit to tracking-optional
@@ -50,7 +50,8 @@
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz) (done)
 * Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2 (done)
 * Move SJ200 (LT3652 TIMER solder jumper) to bottom
-* Move WiFi GPIO headers to bottom, make DNP
+* Move WiFi GPIO header to bottom, make DNP
+* Move MCU GPIO header to bottom, make DNP
 
 ## SOLENS rev. A -> B changelog
 
