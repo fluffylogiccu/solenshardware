@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=WIFI_RX Pin=JP700-1
+Added Pin To Net: NetName=WIFI_TX Pin=JP700-3
+Added Pin To Net: NetName=NetJP700_2 Pin=JP700-2
+Added Pin To Net: NetName=NetJP700_2 Pin=R704-2
+Added Net: Name=NetJP700_2
+Added Pin To Net: NetName=NetJP700_4 Pin=JP700-4
+Added Pin To Net: NetName=NetJP700_4 Pin=R705-2
+Added Net: Name=NetJP700_4
