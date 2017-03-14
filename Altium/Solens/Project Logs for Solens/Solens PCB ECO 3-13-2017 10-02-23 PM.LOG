@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CAM_PCLK Pin=RR602-1
+Added Pin To Net: NetName=CAM_HREF Pin=RR602-2
+Added Pin To Net: NetName=CAM_VSYNC Pin=RR602-3
+Added Pin To Net: NetName=CAM_VSYNC_U Pin=RR602-6
+Added Pin To Net: NetName=CAM_HREF_U Pin=RR602-7
+Added Pin To Net: NetName=CAM_PCLK_U Pin=RR602-8

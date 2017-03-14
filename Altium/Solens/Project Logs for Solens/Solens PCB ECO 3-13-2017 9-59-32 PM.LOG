@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CAM_HREF Pin=RR602-1
+Removed Pin From Net: NetName=CAM_VSYNC Pin=RR602-2
+Removed Pin From Net: NetName=CAM_PCLK Pin=RR602-3
+Removed Pin From Net: NetName=CAM_PCLK_U Pin=RR602-6
+Removed Pin From Net: NetName=CAM_VSYNC_U Pin=RR602-7
+Removed Pin From Net: NetName=CAM_HREF_U Pin=RR602-8
