@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TXD2 Pin=R704-1
+Removed Pin From Net: NetName=RXD2 Pin=R705-1
+Removed Pin From Net: NetName=RXD2 Pin=TP700-1
+Removed Pin From Net: NetName=TXD2 Pin=TP701-1
+Added Pin To Net: NetName=NetR704_1 Pin=R704-1
+Added Pin To Net: NetName=NetR704_1 Pin=TP701-1
+Added Net: Name=NetR704_1
+Added Pin To Net: NetName=NetR705_1 Pin=R705-1
+Added Pin To Net: NetName=NetR705_1 Pin=TP700-1
+Added Net: Name=NetR705_1
