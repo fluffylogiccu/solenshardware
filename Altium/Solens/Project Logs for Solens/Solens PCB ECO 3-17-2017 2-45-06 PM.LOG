@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=SJ110-1
+Removed Pin From Net: NetName=NetC105_1 Pin=SJ110-2
+Removed Pin From Net: NetName=3V3 Pin=SJ111-1
+Removed Pin From Net: NetName=NetC104_1 Pin=SJ111-2
+Removed Member From Class: ClassName=Z1 Member=SJ110
+Removed Member From Class: ClassName=Z1 Member=SJ111
