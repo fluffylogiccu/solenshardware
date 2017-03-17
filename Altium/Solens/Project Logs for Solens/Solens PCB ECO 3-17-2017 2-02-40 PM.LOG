@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=D302-2
+Removed Pin From Net: NetName=GND Pin=D303-2
+Removed Pin From Net: NetName=GND Pin=D304-2
+Removed Pin From Net: NetName=LED1 Pin=R305-1
+Removed Pin From Net: NetName=LED2 Pin=R306-1
+Removed Pin From Net: NetName=LED3 Pin=R307-1
+Removed Pin From Net: NetName=NetD301_1 Pin=TP306-1
+Removed Member From Class: ClassName=Z3 Member=D302
+Removed Member From Class: ClassName=Z3 Member=D303
+Removed Member From Class: ClassName=Z3 Member=D304
+Removed Member From Class: ClassName=Z3 Member=R305
+Removed Member From Class: ClassName=Z3 Member=R306
+Removed Member From Class: ClassName=Z3 Member=R307
+Removed Member From Class: ClassName=Z3 Member=TP307
+Removed Member From Class: ClassName=Z3 Member=TP308
+Removed Member From Class: ClassName=Z3 Member=TP309
+Added Pin To Net: NetName=LED0 Pin=TP306-1
