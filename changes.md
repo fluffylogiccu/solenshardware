@@ -37,10 +37,10 @@
 
 * Use stainless steel stencil instead of polyimide
 * Shrink inductor sizes (done)
-* Move components to back, particularly current sources
+* Move components to back, particularly current sources (in-progress)
 * Switch 2- and 3-pos Pheonix to single 5-pos Pheonix (done)
 * Replace WiFi UART jumpers to 2x2 header (done)
-* Reduce wasted board space
+* Reduce wasted board space (in-progress)
 * Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO (done)
 * Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
@@ -49,10 +49,13 @@
     * See Sparkfun Sunny Buddy for more flexible circuit
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz) (done)
 * ~~Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2 (done)~~
-* (Keep WiFi UART to MCU UART on RXD0/TXD0, for esp-link firmware)
+* (Keep WiFi UART to MCU UART on RXD0/TXD0, for esp-link firmware) (done)
 * Move SJ200 (LT3652 TIMER solder jumper) to bottom (done)
-* Move WiFi GPIO header to bottom, make DNP
+* Move WiFi GPIO header to bottom, make DNP (done)
 * Move MCU GPIO header to bottom, make DNP
+* Add board dimensions and screw hole sizes/coordinates to bottom overlay
+* Remove extraneous testpoints, solder jumpers, and debug circuitry where possible
+* Add chamfered corners, adjusting screw hole footprints as necessary
 
 ## SOLENS rev. A -> B changelog
 
@@ -74,3 +77,6 @@
 * Changed WiFi MCU-ESP UART to UART2 (programming on UART0)
 * WiFi is now powered by default
 * Added optional LT3652 tempco charging circuit
+* Shrunk both power sections
+* Shrunk WiFi section, changed WiFi GPIO header to bottom/DNP
+* Rotated camera footprint placement by 180 deg, connector is now near board edge.
