@@ -6,17 +6,17 @@
 
 
 * Power LED on wrong side of R400/R403, power LED should illuminate when 3V3 buck is on, regardless of rest of board. (done)
-* TP\_TINY footprint has paste mask and shouldn't (fixed, but footprint wouldn't update)
+* TP\_TINY footprint has paste mask and shouldn't (fixed)
     * TP202 got paste
     * TP500 got paste
     * TP501 got paste
-* 0402 footprints need a slight change of shape, pads should be slightly closer together and enlarged slightly (fixed, but footprint wouldn't update)
+* 0402 footprints need a slight change of shape, pads should be slightly closer together and enlarged slightly (fixed)
     * This should fix the few tombstoned capacitors
     * Pad size was: 0.8 mm (X) x 0.6 mil (Y)
-* Fuel gauge footprint (DFN) needs larger pads (more paste volume) for better reflow (fixed, but footprint wouldn't update)
+* Fuel gauge footprint (DFN) needs larger pads (more paste volume) for better reflow (fixed)
     * Pad size was: 0.25 mm (X) x 0.7 mm (Y)
 * Fuel gauge is mis-wired, only senses current _into_ battery. (fixed)
-* SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims (done)
+* SDRAM data (DQ*) termination is listed as 49R9, should be 33R per Hyperlynx sims (fixed)
 * Slight undershoot issue on camera parallel interface (need scope captures to document)
     * Add termination arrays on all camera interface lines, value unknown (need to rework SJ* on bus before value decision)
     * SJ replaced by termination, 33R determined as suitable termination value (done)
@@ -48,8 +48,9 @@
     * Change input voltage to non-temperature compensated, adjustable MPP voltage (done)
     * See Sparkfun Sunny Buddy for more flexible circuit
 * Change LT8608 switching frequency (move out of AM broadcast band, > 1.7 MHz) (done)
-* Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2 (done)
-* Move SJ200 (LT3652 TIMER solder jumper) to bottom
+* ~~Change WiFi UART connection between MCU-ESP from RXD0/TXD0 to RXD2/TXD2 (done)~~
+* (Keep WiFi UART to MCU UART on RXD0/TXD0, for esp-link firmware)
+* Move SJ200 (LT3652 TIMER solder jumper) to bottom (done)
 * Move WiFi GPIO header to bottom, make DNP
 * Move MCU GPIO header to bottom, make DNP
 
