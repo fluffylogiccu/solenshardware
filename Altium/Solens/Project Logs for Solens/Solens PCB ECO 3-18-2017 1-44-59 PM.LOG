@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=J101-6
+Removed Pin From Net: NetName=PB13 Pin=SJ103-1
+Removed Pin From Net: NetName=PB14 Pin=SJ104-1
+Removed Pin From Net: NetName=PB15 Pin=SJ105-1
+Removed Pin From Net: NetName=EXTRA_TX Pin=TP102-1
+Removed Pin From Net: NetName=EXTRA_RX Pin=TP103-1
+Removed Member From Class: ClassName=Z1 Member=SJ103
+Removed Member From Class: ClassName=Z1 Member=SJ104
+Removed Member From Class: ClassName=Z1 Member=SJ105
+Removed Member From Class: ClassName=Z1 Member=TP102
+Removed Member From Class: ClassName=Z1 Member=TP103
+Change Component DesignItemId : Designator=J101 Old DesignItemId=HDR_FTDI New DesignItemId=Header 2X2
+Change Component Footprint: Designator=J101 Old Footprint=HDR_100TH_1X6 New Footprint=HDR_100TH_2X2_SMT
+Change Component Comment : Designator=J101 Old Comment=HDR_FTDI New Comment=2x2 100 mil SMT
+Change Net Name : Old Net Name=DEBUG_TX_T New Net Name=NetJ100_2
+Added Pin To Net: NetName=NetJ101_2 Pin=J101-2
+Added Pin To Net: NetName=NetJ101_2 Pin=J101-4
+Added Net: Name=NetJ101_2
