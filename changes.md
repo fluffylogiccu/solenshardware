@@ -21,7 +21,7 @@
     * Add termination arrays on all camera interface lines, value unknown (need to rework SJ* on bus before value decision)
     * SJ replaced by termination, 33R determined as suitable termination value (done)
 * LT3652 charging circuit had regulation issues (bad/damaged chip?)
-* XCLK termination (R602) is on the wrong end of the line (needs to be MCU)
+* XCLK termination (R602) is on the wrong end of the line, need to be near MCU (fixed)
 
 #### Rev. A assembly issues
 
@@ -52,10 +52,12 @@
 * (Keep WiFi UART to MCU UART on RXD0/TXD0, for esp-link firmware) (done)
 * Move SJ200 (LT3652 TIMER solder jumper) to bottom (done)
 * Move WiFi GPIO header to bottom, make DNP (done)
-* Move MCU GPIO header to bottom, make DNP
-* Add board dimensions and screw hole sizes/coordinates to bottom overlay
-* Remove extraneous testpoints, solder jumpers, and debug circuitry where possible
-* Add chamfered corners, adjusting screw hole footprints as necessary
+* Move MCU GPIO header to bottom, make DNP (done)
+* Add board dimensions to top overlay (done)
+* Add screw hole sizes/coordinates to bottom overlay
+* Remove extraneous testpoints, solder jumpers, and debug circuitry where possible (done)
+* Add chamfered corners, adjusting screw hole footprints as necessary (done)
+* Connect PV voltage through voltage divider to MCU ADC input for monitoring
 
 ## SOLENS rev. A -> B changelog
 
@@ -79,4 +81,5 @@
 * Added optional LT3652 tempco charging circuit
 * Shrunk both power sections
 * Shrunk WiFi section, changed WiFi GPIO header to bottom/DNP
-* Rotated camera footprint placement by 180 deg, connector is now near board edge.
+* Rotated camera footprint placement by 180 deg, connector is now near board edge
+* Shrank board dimensions, both vertically and horizontally
