@@ -1,0 +1,14 @@
+Added Component: Designator=C207(CAP_0805)
+Added Component: Designator=R206(RES_0805)
+Added Component: Designator=R208(RES_0805)
+Added Pin To Net: NetName=GND Pin=C207-2
+Added Pin To Net: NetName=VIN Pin=R206-1
+Added Pin To Net: NetName=GND Pin=R208-2
+Added Pin To Net: NetName=PV_VIN_SENS Pin=C207-1
+Added Pin To Net: NetName=PV_VIN_SENS Pin=R206-2
+Added Pin To Net: NetName=PV_VIN_SENS Pin=R208-1
+Added Pin To Net: NetName=PV_VIN_SENS Pin=U100-27
+Added Net: Name=PV_VIN_SENS
+Added Member To Class: ClassName=Z2 Member=Component C207 0805
+Added Member To Class: ClassName=Z2 Member=Component R206 0805
+Added Member To Class: ClassName=Z2 Member=Component R208 0805
