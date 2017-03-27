@@ -1,0 +1,16 @@
+Added Component: Designator=R710(RES_0805)
+Added Component: Designator=R712(RES_0805)
+Added Pin To Net: NetName=GPIO4 Pin=R710-1
+Added Pin To Net: NetName=GPIO4 Pin=U700-19
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO16 Pin=R712-1
+Added Pin To Net: NetName=GPIO16 Pin=U700-4
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=WIFI_GPIO4 Pin=R710-2
+Added Pin To Net: NetName=WIFI_GPIO4 Pin=U100-118
+Added Net: Name=WIFI_GPIO4
+Added Pin To Net: NetName=WIFI_GPIO16 Pin=R712-2
+Added Pin To Net: NetName=WIFI_GPIO16 Pin=U100-119
+Added Net: Name=WIFI_GPIO16
+Added Member To Class: ClassName=Z7 Member=Component R710 0805
+Added Member To Class: ClassName=Z7 Member=Component R712 0805
