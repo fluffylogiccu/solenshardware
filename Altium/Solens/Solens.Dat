@@ -1,4 +1,4 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~80|Field=Value~String~Value~52|Field=Footprint~String~Footprint~183|Field=LibRef~String~LibRef~132|Field=Quantity~Integer~Quantity~67|Field=PackageName~String~PackageName~94|Field=PartNumber~String~PartNumber~110|Field=Component Kind~String~Component Kind~110|Field=PartType~String~PartType~116|Field=Pins~Integer~Pins~44|Field=ScrewSize~String~ScrewSize~73|Field=Comment~String~Comment~116|Field=Model:Footprint~String~Model:Footprint~508|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~206|ReportField=ReportTime~10:21:34 PM|ReportField=ReportDate~3/23/2017|ReportField=ReportDateTime~3/23/2017 10:21:34 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~3/23/2017|ReportField=CurrentTime~10:13:09 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~3/21/2017|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~80|Field=Value~String~Value~52|Field=Footprint~String~Footprint~183|Field=LibRef~String~LibRef~132|Field=Quantity~Integer~Quantity~67|Field=PackageName~String~PackageName~94|Field=PartNumber~String~PartNumber~110|Field=Component Kind~String~Component Kind~110|Field=PartType~String~PartType~116|Field=Pins~Integer~Pins~44|Field=ScrewSize~String~ScrewSize~73|Field=Comment~String~Comment~116|Field=Model:Footprint~String~Model:Footprint~508|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~208|ReportField=ReportTime~11:30:00 PM|ReportField=ReportDate~3/26/2017|ReportField=ReportDateTime~3/26/2017 11:30:00 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~3/26/2017|ReportField=CurrentTime~11:16:52 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~3/26/2017|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
 1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
 3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
@@ -136,72 +136,74 @@
 135|R707|100|RES_0805|Res1|1|||Standard|0805|2||0805|
 136|R708|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
 137|R709|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-138|R711|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-139|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-140|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-141|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-142|RR503|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-143|RR504|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-144|RR505|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-145|RR506|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-146|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-147|RR508|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-148|RR600|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-149|RR601|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-150|RR602|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-151|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
-152|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
-153|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
-154|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
-155|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
-156|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
-157|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
-158|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
-159|SJ200||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
-160|SJ201||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
-161|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
-162|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
-163|SJ700||SJ_1206|SJ|1|||Standard|1206|2||1206|A big fat solder jumper for high-current
-164|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-165|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-166|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-167|TP100||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-168|TP101||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-169|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-170|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-171|TP106||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-172|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-173|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-174|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-175|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-176|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-177|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-178|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-179|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-180|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-181|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-182|TP303||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-183|TP304||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-184|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-185|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-186|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-187|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-188|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-189|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-190|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-191|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-192|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-193|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
-194|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
-195|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard|LM234SM|3||LM234SM|SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-196|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
-197|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-198|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-199|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
-200|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
-201|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
-202|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
-203|VR200|10k|RES_3361P|TrimPot|1|||Standard|Vin Set|3||Vin Set|POT
-204|Y100|8M000|HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
-205|Y101|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
-206|Y300|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+138|R710|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+139|R711|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
+140|R712|100|RES_0805|Res1|1|||Standard|0805|2||0805|
+141|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+142|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+143|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+144|RR503|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+145|RR504|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+146|RR505|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+147|RR506|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+148|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+149|RR508|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+150|RR600|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+151|RR601|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+152|RR602|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
+153|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
+154|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
+155|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
+156|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
+157|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
+158|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
+159|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
+160|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
+161|SJ200||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
+162|SJ201||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
+163|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
+164|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
+165|SJ700||SJ_1206|SJ|1|||Standard|1206|2||1206|A big fat solder jumper for high-current
+166|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+167|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+168|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
+169|TP100||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+170|TP101||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+171|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+172|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+173|TP106||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+174|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+175|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+176|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+177|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+178|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+179|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+180|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+181|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+182|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+183|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+184|TP303||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+185|TP304||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+186|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+187|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+188|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+189|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
+190|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+191|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+192|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+193|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
+194|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
+195|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
+196|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
+197|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard|LM234SM|3||LM234SM|SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
+198|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
+199|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+200|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
+201|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
+202|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
+203|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
+204|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
+205|VR200|10k|RES_3361P|TrimPot|1|||Standard|Vin Set|3||Vin Set|POT
+206|Y100|8M000|HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
+207|Y101|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+208|Y300|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
