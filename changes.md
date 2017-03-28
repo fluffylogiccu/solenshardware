@@ -37,10 +37,10 @@
 
 * Use stainless steel stencil instead of polyimide
 * Shrink inductor sizes (done)
-* Move components to back, particularly current sources (in-progress)
+* Move components to back, particularly current sources (done)
 * Switch 2- and 3-pos Pheonix to single 5-pos Pheonix (done)
 * Replace WiFi UART jumpers to 2x2 header (done)
-* Reduce wasted board space (in-progress)
+* Reduce wasted board space (done enough)
 * Change selected power jumpers to solder jumpers i.e. they should be NC instead of NO (done)
 * Clean up SDRAM schematic sheet (done)
 * LT3652 charging circuit:
@@ -54,10 +54,10 @@
 * Move WiFi GPIO header to bottom, make DNP (done)
 * Move MCU GPIO header to bottom, make DNP (done)
 * Add board dimensions to top overlay (done)
-* Add screw hole sizes/coordinates to bottom overlay
+* Add screw hole sizes/coordinates to bottom overlay (done)
 * Remove extraneous testpoints, solder jumpers, and debug circuitry where possible (done)
 * Add chamfered corners, adjusting screw hole footprints as necessary (done)
-* Connect PV voltage through voltage divider to MCU ADC input for monitoring
+* Connect PV voltage through voltage divider to MCU ADC input for monitoring (done)
 
 ## SOLENS rev. A -> B changelog
 
@@ -83,3 +83,5 @@
 * Shrunk WiFi section, changed WiFi GPIO header to bottom/DNP
 * Rotated camera footprint placement by 180 deg, connector is now near board edge
 * Shrank board dimensions, both vertically and horizontally
+* Connected PV panel input voltage through voltage divider to MCU ADC input for monitoring
+* Added two (optionally-bridged) GPIO between MCU and WiFi per BH suggestion
