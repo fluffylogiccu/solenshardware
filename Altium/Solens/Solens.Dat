@@ -1,209 +1,209 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~80|Field=Value~String~Value~52|Field=Footprint~String~Footprint~183|Field=LibRef~String~LibRef~132|Field=Quantity~Integer~Quantity~67|Field=PackageName~String~PackageName~94|Field=PartNumber~String~PartNumber~110|Field=Component Kind~String~Component Kind~110|Field=PartType~String~PartType~116|Field=Pins~Integer~Pins~44|Field=ScrewSize~String~ScrewSize~73|Field=Comment~String~Comment~116|Field=Model:Footprint~String~Model:Footprint~508|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~208|ReportField=ReportTime~11:30:00 PM|ReportField=ReportDate~3/26/2017|ReportField=ReportDateTime~3/26/2017 11:30:00 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~3/26/2017|ReportField=CurrentTime~11:16:52 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~3/26/2017|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
-1|C100|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-2|C101|27p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-3|C102|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-4|C103|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-5|C104|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-6|C105|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-7|C106|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-8|C107|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-9|C108|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-10|C109|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-11|C110|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-12|C111|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-13|C112|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-14|C113|2.2u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-15|C114|2.2u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-16|C115|2.2u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-17|C116|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-18|C117|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-19|C118|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-20|C119|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-21|C120|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-22|C121|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-23|C122|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-24|C124|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-25|C200|1u|CAP_0805|Cap|1|||Standard|0805,50V|2||0805,50V|
-26|C201|4.7u|CAP_1210|Cap|1|||Standard|1210,50V|2||1210,50V|
-27|C202|4.7u|CAP_1210|Cap|1|||Standard|1210,50V|2||1210,50V|
-28|C203|4.7u|CAP_1210|Cap|1|||Standard|1210,50V|2||1210,50V|
-29|C204|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-30|C205|10u|CAP_1206|Cap|1|||Standard|1206,16V|2||1206,16V|
-31|C206|10u|CAP_1206|Cap|1|||Standard|1206,16V|2||1206,16V|
-32|C207|1u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-33|C300|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-34|C301|18p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-35|C302|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-36|C303|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-37|C304|220p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-38|C305|220p|CAP_0402|Cap|1|||Standard|0402|2||0402|
-39|C400|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-40|C401|10u|CAP_1206|Cap|1|||Standard|1206,16V|2||1206,16V|
-41|C402|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-42|C403|10p|CAP_0805|Cap|1|||Standard|0805|2||0805|
-43|C404|10u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-44|C405|47u|CAP_1206|Cap|1|||Standard|1206,10V|2||1206,10V|
-45|C406|10u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-46|C407|2.2u|CAP_0805|Cap|1|||Standard|0805|2||0805|
-47|C408|10n|CAP_0805|Cap|1|||Standard|0805|2||0805|
-48|C500|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-49|C501|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-50|C502|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-51|C503|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-52|C504|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-53|C505|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-54|C506|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-55|C507|100n|CAP_0402|Cap|1|||Standard|0402|2||0402|
-56|C600|47u|CAP_1206|Cap|1|||Standard|1206,10V|2||1206,10V|
-57|C601|10u|CAP_1206|Cap|1|||Standard|1206,16V|2||1206,16V|
-58|C700|1n|CAP_0805|Cap|1|||Standard|0805|2||0805|
-59|C701|47u|CAP_1206|Cap|1|||Standard|1206,10V|2||1206,10V|
-60|C702|10u|CAP_1206|Cap|1|||Standard|1206|2||1206|
-61|D200||SODFL519X262-2N (CMSH3-40MA)|D Schottky|1|DO-214AC (SMA)|CMSH3-40MA|Standard||2|||SODFL, 2-Leads, Body 2.60x5.19mm,
-62|D201||SODFL519X262-2N (CMSH3-40MA)|D Schottky|1|DO-214AC (SMA)|CMSH3-40MA|Standard||2|||SODFL, 2-Leads, Body 2.60x5.19mm,
-63|D202||SOT95P240X100-3N (CMPSH1-4 TR)|D Schottky|1|SOT-23F|CMPSH1-4|Standard||2|||SOT23, 3-Leads, Body 2.90x2.40mm,
-64|D203||LED_0603|LED0|1|||Standard|CHRG|2||CHRG|
-65|D204||LED_0603|LED0|1|||Standard|FAULT|2||FAULT|
-66|D300||LED_0603|LED0|1|||Standard|0603|2||0603|
-67|D301||LED_0603|LED0|1|||Standard|0603|2||0603|
-68|D305||LED_0603|LED0|1|||Standard|0603|2||0603|
-69|D400||LED_0603|LED0|1|||Standard|3V3|2||3V3|
-70|J100||HDR_100TH_1x6|HDR_FTDI|1|||Standard|HDR_FTDI|6||HDR_FTDI|100TH pin header 1x6 vertical
-71|J101||HDR_100TH_2X2_SMT|Header 2X2|1|||Standard|2x2 100 mil SMT|4||2x2 100 mil SMT|100TH pin header, 2x2, SMT
-72|J102||HDR_100TH_2X8_SMT|Header 8X2|1|||Standard|GPIO|16||GPIO|100TH pin header, 2x8, SMT
-73|J103||HDR_100TH_2X6_SMT|HDR_SWD_2x6|1|||Standard|HDR_SWD_2x6|12||HDR_SWD_2x6|100TH pin header, 2x6, SMT
-74|J200||691322110005|691322110005|1||691322110005|Standard|691322110005|5||691322110005|3,50mm - PCB Horizontal - 05p
-75|J400||HDR1X4|Header 4|1|||Standard|EXT 3V3|4||EXT 3V3|Connector; Header; 4 Position
-76|J600||OV5642_HDR_2x10|CAMERA_2x10|1|||Standard|CAMERA_2x10|20||CAMERA_2x10|OV5642 camera 100TH pin header 2x10 vertical
-77|J700||HDR1X8|HDR_FTDI_EXTENDED|1|||Standard|HDR_FTDI_EXTENDED|8||HDR_FTDI_EXTENDED|Connector; Header; 8 Position
-78|J701||HDR_100TH_2X6_SMT|Header 6X2|1|||Standard|ESP_GPIO|12||ESP_GPIO|100TH pin header, 2x6, SMT
-79|JP200||HDR_100TH_1x3|JP-3|1|||Standard|SHDN_EN|3||SHDN_EN|100TH pin header 1x3 vertical
-80|JP700||HDR2X2|Header 2X2|1|||Standard|2x2 100 mil|4||2x2 100 mil|Connector; Header; 2x2 Position
-81|L200|15u|IND_TAIYO_NRS804|Inductor|1||NRS8040T150MJGJ|Standard||2|||
-82|L400|2.2u|IND_TAIYO_NR6028|Inductor|1||NR6028T2R2N|Standard||2|||
-83|MTGH1||MTGH-M3x0.5-ClipSW|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole, SW corner clipped
-84|MTGH2||MTGH-M3x0.5-ClipNW|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole, NW corner clipped
-85|MTGH3||MTGH-M3x0.5-ClipNE|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole, NE corner clipped
-86|MTGH4||MTGH-M3x0.5|MTGH|1|||Standard|MTGH|1|M3x0.5|MTGH|M3 x 0.5 pan head mounting hole
-87|Q300||SOT90P240X110-3N|2N3904|1|SOT-23|MMBT3904|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904
-88|Q700||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
-89|Q701||SOT95P240X100-3N (CMPSH1-4 TR)|MOSFET-N|1|SOT23|2N7002|Standard||3|||SOT23, 3-Leads, Body 2.90x2.40mm,
-90|R101|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-91|R102|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-92|R103|220|RES_0805|Res1|1|||Standard|0805|2||0805|
-93|R104|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-94|R105|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-95|R106|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-96|R107|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-97|R108|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-98|R109|510|RES_0805|Res1|1|||Standard|0805|2||0805|
-99|R110|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-100|R200|80m|RES_1206|Res1|1|||Standard|1206|2||1206|
-101|R201|22k|RES_0805|Res1|1|||Standard|0805|2||0805|
-102|R202|22k|RES_0805|Res1|1|||Standard|0805|2||0805|
-103|R203|511k|RES_0805|Res1|1|||Standard|0805|2||0805|
-104|R204|22k|RES_0805|Res1|1|||Standard|0805|2||0805|
-105|R205|DNP|RES_0805|Res1|1|||Standard|0805|2||0805|
-106|R206|22k|RES_0805|Res1|1|||Standard|0805|2||0805|
-107|R207|487k|RES_0805|Res1|1|||Standard|0805|2||0805|
-108|R208|1k|RES_0805|Res1|1|||Standard|0805|2||0805|
-109|R210|25m|RES_1206|Res1|1|||Standard|1206|2||1206|
-110|R300|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-111|R301|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-112|R302|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-113|R303|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
-114|R304|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-115|R308|1M|RES_0402|Res1|1|||Standard|0402|2||0402|
-116|R400|0|RES_1206|Res1|1|||Standard|1206|2||1206|
-117|R401|1M|RES_0805|Res1|1|||Standard|0805|2||0805|
-118|R402|100k|RES_0805|Res1|1|||Standard|0805|2||0805|
-119|R404|309k|RES_0805|Res1|1|||Standard|0805|2||0805|
-120|R405|20.5k|RES_0805|Res1|1|||Standard|0805|2||0805|
-121|R406|330|RES_0805|Res1|1|||Standard|0805|2||0805|
-122|R500|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-123|R501|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-124|R502|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-125|R600|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-126|R601|3.3k|RES_0805|Res1|1|||Standard|0805|2||0805|
-127|R602|49.9|RES_0805|Res1|1|||Standard|0805|2||0805|
-128|R700|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-129|R701|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-130|R702|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-131|R703|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-132|R704|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-133|R705|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-134|R706|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-135|R707|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-136|R708|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-137|R709|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-138|R710|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-139|R711|10k|RES_0805|Res1|1|||Standard|0805|2||0805|
-140|R712|100|RES_0805|Res1|1|||Standard|0805|2||0805|
-141|RR500|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-142|RR501|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-143|RR502|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-144|RR503|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-145|RR504|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-146|RR505|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-147|RR506|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-148|RR507|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-149|RR508|49.9|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-150|RR600|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-151|RR601|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-152|RR602|33|CAC-80P319X150-8M|RES_ARR_4|1|||Standard|RES_ARR_4|8||RES_ARR_4|Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S
-153|SJ100||SJ_0805|SJ|1|||Standard|0805|2||0805|
-154|SJ101||SJ_0805|SJ|1|||Standard|0805|2||0805|
-155|SJ102||SJ_0805|SJ|1|||Standard|0805|2||0805|
-156|SJ106||SJ_0805|SJ|1|||Standard|0805|2||0805|
-157|SJ107||SJ_0805|SJ|1|||Standard|0805|2||0805|
-158|SJ108||SJ_0805|SJ|1|||Standard|0805|2||0805|
-159|SJ109||SJ_0805|SJ|1|||Standard|0805|2||0805|
-160|SJ112||SJ_0805|SJ|1|||Standard|0805|2||0805|
-161|SJ200||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
-162|SJ201||SJ_0805|SJ|1|||Standard|SJ|2||SJ|
-163|SJ300||SJ_0805|SJ|1|||Standard|0805|2||0805|
-164|SJ301||SJ_0805|SJ|1|||Standard|0805|2||0805|
-165|SJ700||SJ_1206|SJ|1|||Standard|1206|2||1206|A big fat solder jumper for high-current
-166|SW100||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|BTN0|2||BTN0|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-167|SW101||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-168|SW700||4341x10438x6|WS-TASV, 434121043816|1||434121043816|Standard|RESET|2||RESET|6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R
-169|TP100||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-170|TP101||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-171|TP104||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-172|TP105||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-173|TP106||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-174|TP200||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-175|TP203||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-176|TP204||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-177|TP205||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-178|TP207||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-179|TP208||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-180|TP209||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-181|TP300||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-182|TP301||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-183|TP302||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-184|TP303||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-185|TP304||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-186|TP305||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-187|TP306||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-188|TP500||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-189|TP501||TP_TINY|TP_TINY|1|||Standard|TP_TINY|1||TP_TINY|1mm round tiny testpoint
-190|TP600||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-191|TP601||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-192|TP700||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-193|TP701||TP_SMALL|TP_SMALL|1|||Standard||1|||5015
-194|TP702||TP_LARGE|TP_LARGE|1|||Standard|TP_LARGE|1||TP_LARGE|5016
-195|U100||TSQFP50P2200X2200X160-144M|STM32F429|1|LQFP-144|STM32F429|Standard|STM32F429|144||STM32F429|TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429
-196|U200||TSOP65P490X110_HS-13N (LT3652)|LT3652|1|MSOP-12|LT3652|Standard||13|||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,
-197|U201||SOIC127P600X175-8N (LM234)|LM234|1|SOIC-8|LM234SM|Standard|LM234SM|3||LM234SM|SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,
-198|U203||DFN8-3x3|LTC2943A|1|DFN-8|LTC2943|Standard||9|||LTC2943
-199|U300||TSOP65P490X110-8N|MCP7941x|1|MSOP-8|MCP79412|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-200|U301||TSOP65P490X110-8N|EMC1412|1|MSOP-8|EMC1412-1-ACZL-TR|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)
-201|U302||TSOP65P490X110-8N|LTC2054/LTC2055|1|MSOP-8|LTC2055|Standard||8|||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)
-202|U400||TSSOP50P490X110_HS-11N|LT8608|1|MSOP-10|LT8608|Standard||11|||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density
-203|U500||TSOP80P1170X120-54N|IS42S16400J|1|TSOP-54|IS42S16400J|Standard||54|||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)
-204|U700||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1||ESP8266-12E|Standard||22|||ESP8266 ESP-12-E
-205|VR200|10k|RES_3361P|TrimPot|1|||Standard|Vin Set|3||Vin Set|POT
-206|Y100|8M000|HC-49S|XTAL|1|HC-49S|9C-8.000MEEJ-T|Standard||2|||Crystal
-207|Y101|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
-208|Y300|32K768|XTAL-SOJ-4|XTAL-SOJ-4|1|SOJ-4|ABS25-32.768KHZ-T|Standard||4|||
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Value~String~Value~100|Field=Comment~String~Comment~100|Field=Footprint~String~Footprint~100|Field=Description~String~Description~100|Field=Quantity~Integer~Quantity~100|Field=LibRef~String~LibRef~100|Field=DigikeyPN~String~DigikeyPN~100|Field=Library Reference~String~Library Reference~100|Field=LoadCapacitance~String~LoadCapacitance~100|Field=Model:Footprint~String~Model:Footprint~100|Field=PartNumber~String~PartNumber~100|Field=Pins~Integer~Pins~100|Field=ScrewSize~String~ScrewSize~100|Field=VisibleNetName~String~VisibleNetName~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Solens.PrjPCB|ReportField=ProjectFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB|ReportField=Title~Bill of Materials (XLSX) For Project [Solens.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~208|ReportField=ReportTime~8:45:00 PM|ReportField=ReportDate~3/27/2017|ReportField=ReportDateTime~3/27/2017 8:45:00 PM|ReportField=OutputName~Bill of Materials (XLSX)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~3/27/2017|ReportField=CurrentTime~8:44:56 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.SchDoc|ReportField=DocumentName~Solens.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~3/26/2017|ReportField=Organization~|ReportField=ProjectName~Solens.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~8|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Solens.PrjPCB|ReportField=DataSourceFullPath~C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PrjPCB
+1|D200|||SODFL519X262-2N (CMSH3-40MA)|Schottky Diode|1|D Schottky|CMSH3-40MA TR13CT-ND|D Schottky||SODFL, 2-Leads, Body 2.60x5.19mm,|CMSH3-40MA|2||
+2|D201|||SODFL519X262-2N (CMSH3-40MA)|Schottky Diode|1|D Schottky|CMSH3-40MA TR13CT-ND|D Schottky||SODFL, 2-Leads, Body 2.60x5.19mm,|CMSH3-40MA|2||
+3|D202|||SOT95P240X100-3N (CMPSH1-4 TR)|Schottky Diode|1|D Schottky|CMPSH1-4 CT-ND|D Schottky||SOT23, 3-Leads, Body 2.90x2.40mm,|CMPSH1-4|2||
+4|D203||CHRG|LED_0603||1|LED0|732-4971-1-ND|LED0||||2||
+5|D204||FAULT|LED_0603||1|LED0|732-4971-1-ND|LED0||||2||
+6|D300||0603|LED_0603|Typical INFRARED GaAs LED|1|LED0|732-4971-1-ND|LED0||||2||
+7|D301||0603|LED_0603|Typical INFRARED GaAs LED|1|LED0|732-4978-1-ND|LED0||||2||
+8|D305||0603|LED_0603|Typical INFRARED GaAs LED|1|LED0|732-4978-1-ND|LED0||||2||
+9|D400||3V3|LED_0603||1|LED0|732-4978-1-ND|LED0||||2||
+10|J100||HDR_FTDI|HDR_100TH_1x6|Sparkfun FTDI pinout connector|1|HDR_FTDI|609-3263-ND|HDR_FTDI||100TH pin header 1x6 vertical||6||
+11|J101||2x2 100 mil SMT|HDR_100TH_2X2_SMT|Header, 2-Pin, Dual row|1|Header 2X2||Header 2X2||100TH pin header, 2x2, SMT||4||
+12|J102||GPIO|HDR_100TH_2X8_SMT|Header, 8-Pin, Dual row|1|Header 8X2|WM17454-ND|Header 8X2||100TH pin header, 2x8, SMT||16||
+13|J103||HDR_SWD_2x6|HDR_100TH_2X6_SMT|6 pin SWD connector with +6 GND pins|1|HDR_SWD_2x6|WM17452-ND|HDR_SWD_2x6||100TH pin header, 2x6, SMT||12||
+14|J200||691322110005|691322110005|WR-TBL Terminal block - serie 3221 - 3.50 mm|1|691322110005|732-2772-ND|691322110005||3,50mm - PCB Horizontal - 05p|691322110005|5||
+15|J400||EXT 3V3|HDR1X4|Header, 4-Pin|1|Header 4|732-5317-ND|Header 4||Connector; Header; 4 Position||4||
+16|J600||CAMERA_2x10|OV5642_HDR_2x10|20-pin parallel camera connector for OV5642|1|CAMERA_2x10|609-3221-ND|CAMERA_2x10||OV5642 camera 100TH pin header 2x10 vertical||20||
+17|J700||HDR_FTDI_EXTENDED|HDR1X8||1|HDR_FTDI_EXTENDED|609-3264-ND|HDR_FTDI_EXTENDED||Connector; Header; 8 Position||8||
+18|J701||ESP_GPIO|HDR_100TH_2X6_SMT|Header, 6-Pin, Dual row|1|Header 6X2|WM17452-ND|Header 6X2||100TH pin header, 2x6, SMT||12||
+19|JP200||SHDN_EN|HDR_100TH_1x3|3-pos Jumper|1|JP-3|732-5316-ND|JP-3||100TH pin header 1x3 vertical||3||
+20|JP700||2x2 100 mil|HDR2X2|Header, 2-Pin, Dual row|1|Header 2X2|609-3201-ND|Header 2X2||Connector; Header; 2x2 Position||4||
+21|MTGH1||MTGH|MTGH-M3x0.5-ClipSW|Mounting hole|1|MTGH|36-9923-ND|MTGH||M3 x 0.5 pan head mounting hole, SW corner clipped||1|M3x0.5|
+22|MTGH2||MTGH|MTGH-M3x0.5-ClipNW|Mounting hole|1|MTGH|36-9923-ND|MTGH||M3 x 0.5 pan head mounting hole, NW corner clipped||1|M3x0.5|
+23|MTGH3||MTGH|MTGH-M3x0.5-ClipNE|Mounting hole|1|MTGH|36-9923-ND|MTGH||M3 x 0.5 pan head mounting hole, NE corner clipped||1|M3x0.5|
+24|MTGH4||MTGH|MTGH-M3x0.5|Mounting hole|1|MTGH|36-9923-ND|MTGH||M3 x 0.5 pan head mounting hole||1|M3x0.5|
+25|Q300|||SOT90P240X110-3N|NPN General Purpose Amplifier|1|2N3904|MMBT3904LT1GOSCT-ND|2N3904||SOT23, 3-Leads, Body 2.90x2.40mm, Pitch 0.90mm, MMBT3904|MMBT3904|3||
+26|Q700|||SOT95P240X100-3N (CMPSH1-4 TR)|N-Channel MOSFET|1|MOSFET-N|568-5818-1-ND|MOSFET-N||SOT23, 3-Leads, Body 2.90x2.40mm,|2N7002|3||
+27|Q701|||SOT95P240X100-3N (CMPSH1-4 TR)|N-Channel MOSFET|1|MOSFET-N|568-5818-1-ND|MOSFET-N||SOT23, 3-Leads, Body 2.90x2.40mm,|2N7002|3||
+28|SJ100||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+29|SJ101||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+30|SJ102||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+31|SJ106||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+32|SJ107||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+33|SJ108||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+34|SJ109||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+35|SJ112||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+36|SJ200||SJ|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+37|SJ201||SJ|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+38|SJ300||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+39|SJ301||0805|SJ_0805|Solder jumper|1|SJ||SJ||||2||
+40|SJ700||1206|SJ_1206|Solder jumper|1|SJ||SJ||A big fat solder jumper for high-current||2||
+41|SW100||BTN0|4341x10438x6|WS-TASV 6.0x3.5 mm SMD|1|WS-TASV, 434121043816|732-7046-1-ND|WS-TASV, 434121043816||6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R|434121043816|2||
+42|SW101||RESET|4341x10438x6|WS-TASV 6.0x3.5 mm SMD|1|WS-TASV, 434121043816|732-7046-1-ND|WS-TASV, 434121043816||6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R|434121043816|2||
+43|SW700||RESET|4341x10438x6|WS-TASV 6.0x3.5 mm SMD|1|WS-TASV, 434121043816|732-7046-1-ND|WS-TASV, 434121043816||6.0*3.5mm vertical type, SMD, height 4.3mm, white actuator, 260gf, T&R|434121043816|2||
+44|TP100|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||TX
+45|TP101|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||RX
+46|TP104|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||3V3
+47|TP105||TP_LARGE|TP_LARGE||1|TP_LARGE|36-5016CT-ND|TP_LARGE||5016||1||GND
+48|TP106||TP_LARGE|TP_LARGE||1|TP_LARGE|36-5016CT-ND|TP_LARGE||5016||1||GND
+49|TP200||TP_LARGE|TP_LARGE||1|TP_LARGE|36-5016CT-ND|TP_LARGE||5016||1||GND
+50|TP203|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||VBAT_INT
+51|TP204|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||VINFB
+52|TP205|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||VFB
+53|TP207|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||VBAT
+54|TP208|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||CHRG
+55|TP209|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||FAULT
+56|TP300|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SDA
+57|TP301|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SCL
+58|TP302|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||ALERT
+59|TP303||TP_LARGE|TP_LARGE||1|TP_LARGE|36-5016CT-ND|TP_LARGE||5016||1||GND
+60|TP304|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SPECT0
+61|TP305|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SPECT1
+62|TP306|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||LED0
+63|TP500||TP_TINY|TP_TINY||1|TP_TINY||TP_TINY||1mm round tiny testpoint||1||GND
+64|TP501||TP_TINY|TP_TINY||1|TP_TINY||TP_TINY||1mm round tiny testpoint||1||CLK
+65|TP600|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SDA
+66|TP601|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||SCL
+67|TP700|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||TX
+68|TP701|||TP_SMALL||1|TP_SMALL|36-5015CT-ND|TP_SMALL||5015||1||RX
+69|TP702||TP_LARGE|TP_LARGE||1|TP_LARGE|36-5016CT-ND|TP_LARGE||5016||1||GND
+70|U100||STM32F429|TSQFP50P2200X2200X160-144M|Cortex-M4 microcontroller|1|STM32F429|497-14053-ND|STM32F429||TSQFP, 144-Leads, Body 20.00x20.00mm, Pitch 0.50mm, STM32F429|STM32F429|144||
+71|U200|||TSOP65P490X110_HS-13N (LT3652)|MPPC and battery charger|1|LT3652|LT3652HVIMSE#PBF-ND|LT3652||TSOP, 12-Leads, Body 4.04x3.00mm, Pitch 0.65mm, Thermal Pad 2.95x1.76mm,|LT3652|13||
+72|U201||LM234SM|SOIC127P600X175-8N (LM234)|Adjustable current source|1|LM234|497-1549-1-ND|LM234||SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm,|LM234SM|3||
+73|U203|||DFN8-3x3|Multi-cell I2C fuel gauge|1|LTC2943A|LTC2943IDD#PBF-ND|LTC2943A||LTC2943|LTC2943|9||
+74|U300|||TSOP65P490X110-8N|I2C RTC w/ SRAM and EEPROM|1|MCP7941x|MCP79412-I/MS-ND|MCP7941x||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)|MCP79412|8||
+75|U301|||TSOP65P490X110-8N|Dual channel I2C temperature sensor|1|EMC1412|638-1120-1-ND|EMC1412||TSOP, 8-Leads, Body 3.00x3.00mm, Pitch 0.65mm (MSOP-8, MCP79412)|EMC1412-1-ACZL-TR|8||
+76|U302|||TSOP65P490X110-8N|Dual zero-drift op amp|1|LTC2054/LTC2055|LTC2055HMS8#PBF-ND|LTC2054/LTC2055||TSOP, 8-Leads, Body 3.00x3.00mm (LTC2054/LTC2055)|LTC2055|8||
+77|U400|||TSSOP50P490X110_HS-11N|42V 1.5A step-down, low Iq|1|LT8608|LT8608IMSE#PBF-ND|LT8608||TSSOP, 10-Leads, Body 3.00x3.00mm, Pitch 0.50mm, Thermal Pad 1.88x1.68mm, IPC Medium Density|LT8608|11||
+78|U500|||TSOP80P1170X120-54N|1Mb x 16 x 4 bank (64 Mbit) SDRAM|1|IS42S16400J|706-1132-ND|IS42S16400J||TSOP, 54-Leads, Body 22.22x10.16mm,  (IS42S16400J)|IS42S16400J|54||
+79|U700|||ESP8266 ESP-12-E|ESP8266 ESP-12-E|1|ESP8266 ESP-12-E||ESP8266 ESP-12-E||ESP8266 ESP-12-E|ESP8266-12E|22||
+80|R400|0|1206|RES_1206|Resistor|1|Res1|36-5106CT-ND|Res1||||2||
+81|R303|1M|0402|RES_0402|Resistor|1|Res1|311-1.00MLRCT-ND|Res1||||2||
+82|R308|1M|0402|RES_0402|Resistor|1|Res1|311-1.00MLRCT-ND|Res1||||2||
+83|R401|1M|0805|RES_0805|Resistor|1|Res1|311-1.00MCRCT-ND|Res1||||2||
+84|R208|1k|0805|RES_0805|Resistor|1|Res1|311-1.00KCRCT-ND|Res1||||2||
+85|C700|1n|0805|CAP_0805|Capacitor|1|Cap|1276-1020-1-ND|Cap||||2||
+86|C200|1u|0805,50V|CAP_0805|Capacitor|1|Cap|1276-6470-1-ND|Cap||||2||
+87|C207|1u|0805|CAP_0805|Capacitor|1|Cap|1276-6470-1-ND|Cap||||2||
+88|C113|2.2u|0805|CAP_0805|Capacitor|1|Cap|1276-6458-1-ND|Cap||||2||
+89|C114|2.2u|0805|CAP_0805|Capacitor|1|Cap|1276-6458-1-ND|Cap||||2||
+90|C115|2.2u|0805|CAP_0805|Capacitor|1|Cap|1276-6458-1-ND|Cap||||2||
+91|C407|2.2u|0805|CAP_0805|Capacitor|1|Cap|1276-6458-1-ND|Cap||||2||
+92|L400|2.2u||IND_TAIYO_NR6028|Inductor|1|Inductor|587-2098-1-ND|Inductor|||NR6028T2R2N|2||
+93|R300|3.3k|0805|RES_0805|Resistor|1|Res1|311-3.30KCRCT-ND|Res1||||2||
+94|R301|3.3k|0805|RES_0805|Resistor|1|Res1|311-3.30KCRCT-ND|Res1||||2||
+95|R302|3.3k|0805|RES_0805|Resistor|1|Res1|311-3.30KCRCT-ND|Res1||||2||
+96|R600|3.3k|0805|RES_0805|Resistor|1|Res1|311-3.30KCRCT-ND|Res1||||2||
+97|R601|3.3k|0805|RES_0805|Resistor|1|Res1|311-3.30KCRCT-ND|Res1||||2||
+98|C201|4.7u|1210,50V|CAP_1210|Capacitor|1|Cap|1276-3343-1-ND|Cap||||2||
+99|C202|4.7u|1210,50V|CAP_1210|Capacitor|1|Cap|1276-3343-1-ND|Cap||||2||
+100|C203|4.7u|1210,50V|CAP_1210|Capacitor|1|Cap|1276-3343-1-ND|Cap||||2||
+101|Y100|8M000||HC-49S|Crystal Oscillator|1|XTAL|887-1263-1-ND|XTAL|18p|Crystal|9C-8.000MEEJ-T|2||
+102|R700|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+103|R701|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+104|R702|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+105|R703|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+106|R706|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+107|R708|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+108|R711|10k|0805|RES_0805|Resistor|1|Res1|311-10.0KCRCT-ND|Res1||||2||
+109|VR200|10k|Vin Set|RES_3361P||1|TrimPot|3361P-103GLFCT-ND|TrimPot||POT||3||
+110|C408|10n|0805|CAP_0805|Capacitor|1|Cap|1276-1015-1-ND|Cap||||2||
+111|C403|10p|0805|CAP_0805|Capacitor|1|Cap|1276-1109-1-ND|Cap||||2||
+112|C205|10u|1206,16V|CAP_1206|Capacitor|1|Cap|1276-1312-1-ND|Cap||||2||
+113|C206|10u|1206,16V|CAP_1206|Capacitor|1|Cap|1276-1312-1-ND|Cap||||2||
+114|C401|10u|1206,16V|CAP_1206|Capacitor|1|Cap|1276-1312-1-ND|Cap||||2||
+115|C404|10u|0805|CAP_0805|Capacitor|1|Cap|1276-6455-1-ND|Cap||||2||
+116|C406|10u|0805|CAP_0805|Capacitor|1|Cap|1276-6455-1-ND|Cap||||2||
+117|C601|10u|1206,16V|CAP_1206|Capacitor|1|Cap|1276-1312-1-ND|Cap||||2||
+118|C702|10u|1206|CAP_1206|Capacitor|1|Cap|1276-1312-1-ND|Cap||||2||
+119|L200|15u||IND_TAIYO_NRS804|Inductor|1|Inductor|587-2973-1-ND|Inductor|||NRS8040T150MJGJ|2||
+120|C102|18p|0402|CAP_0402|Capacitor|1|Cap|490-6203-1-ND|Cap||||2||
+121|C103|18p|0402|CAP_0402|Capacitor|1|Cap|490-6203-1-ND|Cap||||2||
+122|C300|18p|0402|CAP_0402|Capacitor|1|Cap|490-6203-1-ND|Cap||||2||
+123|C301|18p|0402|CAP_0402|Capacitor|1|Cap|490-6203-1-ND|Cap||||2||
+124|R405|20.5k|0805|RES_0805|Resistor|1|Res1|311-20.5KCRCT-ND|Res1||||2||
+125|R201|22k|0805|RES_0805|Resistor|1|Res1|311-22.0KCRCT-ND|Res1||||2||
+126|R202|22k|0805|RES_0805|Resistor|1|Res1|311-22.0KCRCT-ND|Res1||||2||
+127|R204|22k|0805|RES_0805|Resistor|1|Res1|311-22.0KCRCT-ND|Res1||||2||
+128|R206|22k|0805|RES_0805|Resistor|1|Res1|311-22.0KCRCT-ND|Res1||||2||
+129|R210|25m|1206|RES_1206|Resistor|1|Res1|CSR1206FK25L0CT-ND|Res1||||2||
+130|C100|27p|0402|CAP_0402|Capacitor|1|Cap|1276-1153-1-ND|Cap||||2||
+131|C101|27p|0402|CAP_0402|Capacitor|1|Cap|1276-1153-1-ND|Cap||||2||
+132|Y101|32K768||XTAL-SOJ-4||1|XTAL-SOJ-4|535-9166-1-ND|XTAL-SOJ-4|12.5p||ABS25-32.768KHZ-T|4||
+133|Y300|32K768||XTAL-SOJ-4||1|XTAL-SOJ-4|535-9166-1-ND|XTAL-SOJ-4|12.5p||ABS25-32.768KHZ-T|4||
+134|RR503|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+135|RR504|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+136|RR505|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+137|RR506|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+138|RR600|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+139|RR601|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+140|RR602|33|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S833CT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+141|C405|47u|1206,10V|CAP_1206|Capacitor|1|Cap|1276-3063-1-ND|Cap||||2||
+142|C600|47u|1206,10V|CAP_1206|Capacitor|1|Cap|1276-3063-1-ND|Cap||||2||
+143|C701|47u|1206,10V|CAP_1206|Capacitor|1|Cap|1276-3063-1-ND|Cap||||2||
+144|R110|49.9|0805|RES_0805|Resistor|1|Res1|311-49.9CRCT-ND|Res1||||2||
+145|R500|49.9|0805|RES_0805|Resistor|1|Res1|311-49.9CRCT-ND|Res1||||2||
+146|R501|49.9|0805|RES_0805|Resistor|1|Res1|311-49.9CRCT-ND|Res1||||2||
+147|R502|49.9|0805|RES_0805|Resistor|1|Res1|311-49.9CRCT-ND|Res1||||2||
+148|R602|49.9|0805|RES_0805|Resistor|1|Res1|311-49.9CRCT-ND|Res1||||2||
+149|RR500|49.9|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S849.9ACT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+150|RR501|49.9|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S849.9ACT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+151|RR502|49.9|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S849.9ACT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+152|RR507|49.9|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S849.9ACT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+153|RR508|49.9|RES_ARR_4|CAC-80P319X150-8M|4 element resistor array|1|RES_ARR_4|CRA6S849.9ACT-ND|RES_ARR_4||Chip Array, ConvexS, 8-Leads, Pitch 0.80mm,  Body 3.20x1.50mm, for Vishay CRA06S||8||
+154|R200|80m|1206|RES_1206|Resistor|1|Res1|WSLC-.08CT-ND|Res1||||2||
+155|R101|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+156|R102|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+157|R104|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+158|R105|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+159|R704|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+160|R705|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+161|R707|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+162|R709|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+163|R710|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+164|R712|100|0805|RES_0805|Resistor|1|Res1|311-100CRCT-ND|Res1||||2||
+165|R402|100k|0805|RES_0805|Resistor|1|Res1|311-100KCRCT-ND|Res1||||2||
+166|C104|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+167|C105|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+168|C106|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+169|C107|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+170|C108|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+171|C109|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+172|C110|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+173|C111|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+174|C112|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+175|C116|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+176|C117|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+177|C118|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+178|C119|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+179|C120|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+180|C121|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+181|C122|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+182|C124|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+183|C204|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+184|C302|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+185|C303|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+186|C400|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+187|C402|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+188|C500|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+189|C501|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+190|C502|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+191|C503|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+192|C504|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+193|C505|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+194|C506|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+195|C507|100n|0402|CAP_0402|Capacitor|1|Cap|587-3498-1-ND|Cap||||2||
+196|R103|220|0805|RES_0805|Resistor|1|Res1|311-0.0ARCT-ND|Res1||||2||
+197|C304|220p|0402|CAP_0402|Capacitor|1|Cap|490-1293-1-ND|Cap||||2||
+198|C305|220p|0402|CAP_0402|Capacitor|1|Cap|490-1293-1-ND|Cap||||2||
+199|R404|309k|0805|RES_0805|Resistor|1|Res1|311-309KCRCT-ND|Res1||||2||
+200|R304|330|0805|RES_0805|Resistor|1|Res1|311-330CRCT-ND|Res1||||2||
+201|R406|330|0805|RES_0805|Resistor|1|Res1|311-330CRCT-ND|Res1||||2||
+202|R207|487k|0805|RES_0805|Resistor|1|Res1|311-487KCRCT-ND|Res1||||2||
+203|R109|510|0805|RES_0805|Resistor|1|Res1|311-510CRCT-ND|Res1||||2||
+204|R203|511k|0805|RES_0805|Resistor|1|Res1|311-511KCRCT-ND|Res1||||2||
+205|R106|DNP|0805|RES_0805|Resistor|1|Res1||Res1||||2||
+206|R107|DNP|0805|RES_0805|Resistor|1|Res1||Res1||||2||
+207|R108|DNP|0805|RES_0805|Resistor|1|Res1||Res1||||2||
+208|R205|DNP|0805|RES_0805|Resistor|1|Res1||Res1||||2||
