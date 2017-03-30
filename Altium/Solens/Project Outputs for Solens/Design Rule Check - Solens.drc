@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
-Date     : 3/29/2017
-Time     : 9:27:48 PM
+Date     : 3/30/2017
+Time     : 9:25:27 AM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer on Net GND
@@ -60,8 +60,8 @@ Rule Violations :0
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Unplated Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MTGH2-1(196.85mil,2559.055mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MTGH3-1(5314.961mil,2559.055mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer 
 Rule Violations :4
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -90,4 +90,4 @@ Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:11
+Time Elapsed        : 00:00:22
