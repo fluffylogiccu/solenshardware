@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
-Date     : 3/26/2017
-Time     : 11:16:55 PM
+Date     : 3/29/2017
+Time     : 9:27:48 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer on Net GND
@@ -90,4 +90,4 @@ Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:08
+Time Elapsed        : 00:00:11
