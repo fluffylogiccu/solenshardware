@@ -1,5 +1,5 @@
 # solenshardware
-Most definitely not hardware
+_Most definitely not hardware_
 
 ----
 
@@ -9,7 +9,17 @@ For the current state of the board (board layers, overview, schematic, etc), see
 
 For schematics and board files matching a particular spin, see [Releases](https://github.com/fluffylogiccu/solenshardware/releases). Each release has up-to-date Gerbers corresponding to the board files, as well as the matching BOM.
 
-A wiki (still under development) can be found [here](https://github.com/fluffylogiccu/solenshardware/wiki). The wiki is _not_ full documentation, due to the nature of Senior Design Lab, our team's design documents are not public.
+A wiki (still under development) can be found [here](https://github.com/fluffylogiccu/solenshardware/wiki). The wiki is _not_ full documentation, due to the nature of Senior Design Lab, our team's design documents are not yet public. Eventually, we hope to open-source this project.
+
+----
+
+## Rev. B PCB
+
+![Rev. B top](https://raw.githubusercontent.com/wiki/fluffylogiccu/solenshardware/images/Solens.Rev.B.PCB.3D.top.png)
+
+![Rev. B bottom](https://raw.githubusercontent.com/wiki/fluffylogiccu/solenshardware/images/Solens.Rev.B.PCB.3D.bot.png)
+
+----
 
 ## Rev. A PCB
 
