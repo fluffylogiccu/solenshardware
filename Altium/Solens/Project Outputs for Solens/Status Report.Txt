@@ -1,0 +1,45 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:38:13 PM On 4/18/2017
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [Solens.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[Solens.REP]
+
+
+Files Generated   : 32
+Documents Printed : 0
+
+Finished Output Generation At 9:38:18 PM On 4/18/2017
