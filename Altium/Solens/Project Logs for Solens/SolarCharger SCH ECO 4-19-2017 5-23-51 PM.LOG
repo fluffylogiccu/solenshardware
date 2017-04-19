@@ -1,0 +1,17 @@
+Change Value of Parameter Value in Part C200 Old=1u New=1u, 35V
+Change Value of Parameter Value in Part C201 Old=4.7u New=4u7, 50V
+Change Value of Parameter Value in Part C202 Old=4.7u New=4u7, 50V
+Change Value of Parameter Value in Part C203 Old=4.7u New=4u7, 50V
+Change Value of Parameter Value in Part C204 Old=100n New=100n, 16V
+Change Value of Parameter Value in Part C205 Old=10u New=10u, 16V
+Change Value of Parameter Value in Part C206 Old=10u New=10u, 16V
+Change Value of Parameter Value in Part C207 Old=1u New=1u, 35V
+Added Parameter DNP=True to Part D203
+Added Parameter DNP=True to Part D204
+Added Parameter Value=691322110005 to Part J200
+Added Parameter Value=CMPSH1-4 to Part D202
+Added Parameter Value=CMSH3-40MA to Part D200
+Added Parameter Value=CMSH3-40MA to Part D201
+Added Parameter Value=HDR_1x3_100TH_THT to Part JP200
+Added Parameter Value=LED, GRN (DNP) to Part D203
+Added Parameter Value=LED, GRN (DNP) to Part D204

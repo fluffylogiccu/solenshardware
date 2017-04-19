@@ -1,0 +1,8 @@
+Change Value of Parameter Value in Part C113 Old=2.2u, 10V New=2u2, 10V
+Change Value of Parameter Value in Part C114 Old=2.2u, 10V New=2u2, 10V
+Change Value of Parameter Value in Part C115 Old=2.2u, 10V New=2u2, 10V
+Added Parameter DigikeyPN=WM9514-ND to Part J101
+Added Parameter Value=HDR_1x6_100TH_THT to Part J100
+Added Parameter Value=HDR_2x2_100TH_SMT (DNP) to Part J101
+Added Parameter Value=HDR_2x8_100TH_SMT (DNP) to Part J102
+Added Parameter Value=HDR_2x8_100TH_SMT to Part J103

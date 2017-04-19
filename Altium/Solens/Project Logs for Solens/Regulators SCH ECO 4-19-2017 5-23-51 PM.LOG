@@ -1,0 +1,13 @@
+Change Value of Parameter Value in Part C400 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C401 Old=10u New=10u, 16V
+Change Value of Parameter Value in Part C402 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C403 Old=10p New=10p, 10V
+Change Value of Parameter Value in Part C404 Old=10u New=10u, 10V
+Change Value of Parameter Value in Part C405 Old=47u New=47u, 10V
+Change Value of Parameter Value in Part C406 Old=10u New=10u, 10V
+Change Value of Parameter Value in Part C407 Old=2.2u New=2u2, 10V
+Change Value of Parameter Value in Part C408 Old=10n New=10n, 10V
+Added Parameter DNP=True to Part D400
+Added Parameter DNP=True to Part J400
+Added Parameter Value=HDR_1x4_100TH_THT (DNP) to Part J400
+Added Parameter Value=LED, RED (DNP) to Part D400

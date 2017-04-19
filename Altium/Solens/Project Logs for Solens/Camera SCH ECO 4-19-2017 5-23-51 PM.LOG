@@ -1,0 +1,4 @@
+Change Value of Parameter Value in Part C600 Old=47u New=47u, 10V
+Change Value of Parameter Value in Part C601 Old=10u New=10u, 10V
+Change Value of Parameter DigikeyPN in Part J600 Old=609-3221-ND New=S6106-ND
+Added Parameter Value=SOK_2x10_100TH_THT to Part J600

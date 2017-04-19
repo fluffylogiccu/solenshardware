@@ -1,0 +1,6 @@
+Change Value of Parameter Value in Part C700 Old=1n New=1n, 10V
+Change Value of Parameter Value in Part C701 Old=47u New=47u, 10V
+Change Value of Parameter Value in Part C702 Old=10u New=10u, 10V
+Added Parameter Value=HDR_1x8_100TH_THT to Part J700
+Added Parameter Value=HDR_2x2_100TH_THT to Part JP700
+Added Parameter Value=HDR_2x6_100TH_SMT (DNP) to Part J701

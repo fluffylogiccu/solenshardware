@@ -1,0 +1,66 @@
+Change Value of Parameter Value in Part C100 Old=27p New=27p, 10V
+Change Value of Parameter Value in Part C101 Old=27p New=27p, 10V
+Change Value of Parameter Value in Part C102 Old=18p New=18p, 10V
+Change Value of Parameter Value in Part C103 Old=18p New=18p, 10V
+Change Value of Parameter Value in Part C104 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C105 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C106 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C107 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C108 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C109 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C110 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C111 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C112 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C113 Old=2.2u New=2.2u, 10V
+Change Value of Parameter Value in Part C114 Old=2.2u New=2.2u, 10V
+Change Value of Parameter Value in Part C115 Old=2.2u New=2.2u, 10V
+Change Value of Parameter Value in Part C116 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C117 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C118 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C119 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C120 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C121 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C122 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part C124 Old=100n New=100n, 10V
+Change Value of Parameter Value in Part R101 Old=100 New=100R
+Change Value of Parameter Value in Part R102 Old=100 New=100R
+Change Value of Parameter DigikeyPN in Part R103 Old=311-0.0ARCT-ND New=311-220CRCT-ND
+Change Value of Parameter Value in Part R103 Old=220 New=220R
+Change Value of Parameter Value in Part R104 Old=100 New=100R (DNP)
+Change Value of Parameter Value in Part R105 Old=100 New=100R (DNP)
+Change Value of Parameter Value in Part R106 Old=DNP New=0R (DNP)
+Change Value of Parameter Value in Part R107 Old=DNP New=0R (DNP)
+Change Value of Parameter Value in Part R109 Old=510 New=510R
+Change Value of Parameter Value in Part R110 Old=49.9 New=49R9 (DNP)
+Change Value of Parameter Value in Part Y100 Old=8M000 New=9C-8.000MEEJ-T
+Change Value of Parameter Value in Part Y101 Old=32K768 New=ABS25-32.768KHZ-T
+Added Parameter DigikeyPN=311-0.0CRCT-ND to Part R106
+Added Parameter DigikeyPN=311-0.0CRCT-ND to Part R107
+Added Parameter DNP=True to Part R110
+Added Parameter DNP=True to Part SJ100
+Added Parameter DNP=True to Part SJ101
+Added Parameter DNP=True to Part SJ102
+Added Parameter DNP=True to Part SJ106
+Added Parameter DNP=True to Part SJ107
+Added Parameter DNP=True to Part SJ108
+Added Parameter DNP=True to Part SJ109
+Added Parameter DNP=True to Part SJ112
+Added Parameter DNP=True to Part TP100
+Added Parameter DNP=True to Part TP101
+Added Parameter DNP=True to Part TP104
+Added Parameter DNP=True to Part TP105
+Added Parameter DNP=True to Part TP106
+Added Parameter Value=SJ_0805 (DNP) to Part SJ100
+Added Parameter Value=SJ_0805 (DNP) to Part SJ101
+Added Parameter Value=SJ_0805 (DNP) to Part SJ102
+Added Parameter Value=SJ_0805 (DNP) to Part SJ106
+Added Parameter Value=SJ_0805 (DNP) to Part SJ107
+Added Parameter Value=SJ_0805 (DNP) to Part SJ108
+Added Parameter Value=SJ_0805 (DNP) to Part SJ109
+Added Parameter Value=SJ_0805 (DNP) to Part SJ112
+Added Parameter Value=STM32F429ZIT6 to Part U100
+Added Parameter Value=TP_LARGE (DNP) to Part TP105
+Added Parameter Value=TP_LARGE (DNP) to Part TP106
+Added Parameter Value=TP_SMALL (DNP) to Part TP100
+Added Parameter Value=TP_SMALL (DNP) to Part TP101
+Added Parameter Value=TP_SMALL (DNP) to Part TP104
