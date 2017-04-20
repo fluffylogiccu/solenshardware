@@ -1,0 +1,17 @@
+Removed Parameter ComponentLink1Description:Manufacturer from Part SW700
+Removed Parameter ComponentLink2Description:Datasheet from Part SW700
+Change Value of Parameter Value in Part R710 Old=100 New=100 (DNP)
+Change Value of Parameter Value in Part R712 Old=100 New=100 (DNP)
+Added Parameter DNP=True to Part SJ700
+Added Parameter DNP=True to Part TP700
+Added Parameter DNP=True to Part TP701
+Added Parameter DNP=True to Part TP702
+Added Parameter DNP=True to Part U700
+Added Parameter Value=2N7002 to Part Q700
+Added Parameter Value=2N7002 to Part Q701
+Added Parameter Value=732-7046-1-ND to Part SW700
+Added Parameter Value=ESP8266-12E (DNP) to Part U700
+Added Parameter Value=SJ_1206 (DNP) to Part SJ700
+Added Parameter Value=TP_LARGE (DNP) to Part TP702
+Added Parameter Value=TP_SMALL (DNP) to Part TP700
+Added Parameter Value=TP_SMALL (DNP) to Part TP701

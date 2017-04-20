@@ -1,0 +1,7 @@
+Change Value of Parameter Value in Part R600 Old=3.3k New=3k3
+Change Value of Parameter Value in Part R601 Old=3.3k New=3k3
+Change Value of Parameter Value in Part R602 Old=49.9 New=49R9
+Added Parameter DNP=True to Part TP600
+Added Parameter DNP=True to Part TP601
+Added Parameter Value=TP_SMALL (DNP) to Part TP600
+Added Parameter Value=TP_SMALL (DNP) to Part TP601

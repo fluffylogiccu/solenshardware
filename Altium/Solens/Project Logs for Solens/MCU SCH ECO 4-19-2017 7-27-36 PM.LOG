@@ -1,0 +1,6 @@
+Removed Parameter ComponentLink1Description:Manufacturer from Part SW100
+Removed Parameter ComponentLink1Description:Manufacturer from Part SW101
+Removed Parameter ComponentLink2Description:Datasheet from Part SW100
+Removed Parameter ComponentLink2Description:Datasheet from Part SW101
+Added Parameter Value=732-7046-1-ND to Part SW100
+Added Parameter Value=732-7046-1-ND to Part SW101

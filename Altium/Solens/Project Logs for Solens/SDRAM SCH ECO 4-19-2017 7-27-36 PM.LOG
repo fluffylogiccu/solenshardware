@@ -1,0 +1,13 @@
+Change Value of Parameter Value in Part R500 Old=49.9 New=49R9
+Change Value of Parameter Value in Part R501 Old=49.9 New=49R9
+Change Value of Parameter Value in Part R502 Old=49.9 New=49R9
+Change Value of Parameter Value in Part RR500 Old=49.9 New=49R9
+Change Value of Parameter Value in Part RR501 Old=49.9 New=49R9
+Change Value of Parameter Value in Part RR502 Old=49.9 New=49R9
+Change Value of Parameter Value in Part RR507 Old=49.9 New=49R9
+Change Value of Parameter Value in Part RR508 Old=49.9 New=49R9
+Added Parameter DNP=True to Part TP500
+Added Parameter DNP=True to Part TP501
+Added Parameter Value=IS42S16400J to Part U500
+Added Parameter Value=TP_TINY (DNP) to Part TP500
+Added Parameter Value=TP_TINY (DNP) to Part TP501

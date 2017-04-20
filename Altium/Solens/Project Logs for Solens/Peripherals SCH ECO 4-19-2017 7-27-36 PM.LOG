@@ -1,0 +1,42 @@
+Change Value of Parameter Value in Part C302 Old=100n, 10V New=100n, 10V (DNP)
+Change Value of Parameter Value in Part C303 Old=100n, 10V New=100n, 10V (DNP)
+Change Value of Parameter Value in Part C304 Old=220p, 10V New=220p, 10V (DNP)
+Change Value of Parameter Value in Part C305 Old=220p, 10V New=220p, 10V (DNP)
+Change Value of Parameter Value in Part R300 Old=3.3k New=3k3 (DNP)
+Change Value of Parameter Value in Part R301 Old=3.3k New=3k3 (DNP)
+Change Value of Parameter Value in Part R302 Old=3.3k New=3k3 (DNP)
+Change Value of Parameter Value in Part R303 Old=1M New=1M (DNP)
+Change Value of Parameter Value in Part R304 Old=330 New=330 (DNP)
+Change Value of Parameter Value in Part R308 Old=1M New=1M (DNP)
+Added Parameter DNP=True to Part Q300
+Added Parameter DNP=True to Part R300
+Added Parameter DNP=True to Part R301
+Added Parameter DNP=True to Part R302
+Added Parameter DNP=True to Part R303
+Added Parameter DNP=True to Part R304
+Added Parameter DNP=True to Part R308
+Added Parameter DNP=True to Part SJ300
+Added Parameter DNP=True to Part SJ301
+Added Parameter DNP=True to Part TP300
+Added Parameter DNP=True to Part TP301
+Added Parameter DNP=True to Part TP302
+Added Parameter DNP=True to Part TP303
+Added Parameter DNP=True to Part TP304
+Added Parameter DNP=True to Part TP305
+Added Parameter DNP=True to Part TP306
+Added Parameter DNP=True to Part U300
+Added Parameter DNP=True to Part U301
+Added Parameter DNP=True to Part U302
+Added Parameter Value=EMC1412 (DNP) to Part U301
+Added Parameter Value=LTC2055 (DNP) to Part U302
+Added Parameter Value=MCP79412 (DNP) to Part U300
+Added Parameter Value=MMBT3904 (DNP) to Part Q300
+Added Parameter Value=SJ_0805 (DNP) to Part SJ300
+Added Parameter Value=SJ_0805 (DNP) to Part SJ301
+Added Parameter Value=TP_LARGE (DNP) to Part TP303
+Added Parameter Value=TP_SMALL (DNP) to Part TP300
+Added Parameter Value=TP_SMALL (DNP) to Part TP301
+Added Parameter Value=TP_SMALL (DNP) to Part TP302
+Added Parameter Value=TP_SMALL (DNP) to Part TP304
+Added Parameter Value=TP_SMALL (DNP) to Part TP305
+Added Parameter Value=TP_SMALL (DNP) to Part TP306
