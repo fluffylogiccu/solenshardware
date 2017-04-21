@@ -1,0 +1,88 @@
+Change Component Parameter Comment in C100 Old= New=27p, 16V, 0402
+Change Value of Parameter Value in Part C100 Old=27p, 10V New=27p, 16V
+Change Component Parameter Comment in C101 Old= New=27p, 16V, 0402
+Change Value of Parameter Value in Part C101 Old=27p, 10V New=27p, 16V
+Change Component Parameter Comment in C102 Old= New=18p, 16V, 0402
+Change Value of Parameter Value in Part C102 Old=18p, 10V New=18p, 16V
+Change Component Parameter Comment in C103 Old= New=18p, 16V, 0402
+Change Value of Parameter Value in Part C103 Old=18p, 10V New=18p, 16V
+Change Component Parameter Comment in C104 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C104 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C105 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C105 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C106 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C106 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C107 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C107 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C108 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C108 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C109 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C109 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C110 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C110 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C111 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C111 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C112 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C112 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C113 Old= New=2u2, 10V, 0805
+Change Component Parameter Comment in C114 Old= New=2u2, 10V, 0805
+Change Component Parameter Comment in C115 Old= New=2u2, 10V, 0805
+Change Component Parameter Comment in C116 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C116 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C117 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C117 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C118 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C118 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C119 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C119 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C120 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C120 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C121 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C121 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C122 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C122 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C124 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C124 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in J100 Old= New=HDR_1x6_100TH_THT
+Change Component Parameter Comment in J101 Old= New=HDR_2x2_100TH_SMT (DNP)
+Change Component Parameter Comment in J102 Old= New=HDR_2x8_100TH_SMT (DNP)
+Change Component Parameter Comment in J103 Old= New=HDR_2x8_100TH_SMT
+Change Component Parameter Comment in R101 Old= New=100R, 1/8W, 0805
+Change Component Parameter Comment in R102 Old= New=100R, 1/8W, 0805
+Change Component Parameter Comment in R103 Old= New=220R, 1/8W, 0805
+Change Component Parameter Comment in R104 Old= New=100R, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R105 Old= New=100R, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R106 Old= New=0R, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R107 Old= New=0R, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R108 Old= New=(DNP)
+Change Component Parameter Comment in R109 Old= New=510R, 1/8W, 0805
+Change Component Parameter Comment in R110 Old= New=49R9, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in SJ100 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ101 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ102 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ106 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ107 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ108 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ109 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ112 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SW100 Old= New=434121043816, TACT SPST NO
+Change Value of Parameter Value in Part SW100 Old=732-7046-1-ND New=434121043816
+Change Component Parameter Comment in SW101 Old= New=434121043816, TACT SPST NO
+Change Value of Parameter Value in Part SW101 Old=732-7046-1-ND New=434121043816
+Change Component Parameter Comment in TP100 Old= New=TP (DNP)
+Change Component Parameter Comment in TP101 Old= New=TP (DNP)
+Change Component Parameter Comment in TP104 Old= New=TP (DNP)
+Change Component Parameter Comment in TP105 Old= New=TP (DNP)
+Change Component Parameter Comment in TP106 Old= New=TP (DNP)
+Change Component Parameter Comment in U100 Old= New=
+Change Component Parameter Comment in U100 Old= New=STM32F429ZIT6
+Change Component Parameter Comment in Y100 Old= New=9C-8.000MEEJ-T
+Change Value of Parameter Value in Part Y100 Old=9C-8.000MEEJ-T New=8M000
+Change Component Parameter Comment in Y101 Old= New=ABS25-32.768KHZ-T
+Change Value of Parameter Value in Part Y101 Old=ABS25-32.768KHZ-T New=32k768
+Added Parameter Function=MCU BTN0 to Part SW100
+Added Parameter Function=MCU GPIO to Part J102
+Added Parameter Function=MCU RESET to Part SW101
+Added Parameter Function=SWD to Part J103
+Added Parameter Function=UART_DEBUG to Part J100
+Added Parameter Function=UART_EXTRA to Part J101

@@ -1,0 +1,45 @@
+Change Component Parameter Comment in C200 Old= New=1u, 35V, 0805
+Change Component Parameter Comment in C201 Old= New=4u7, 50V, 1210
+Change Component Parameter Comment in C202 Old= New=4u7, 50V, 1210
+Change Component Parameter Comment in C203 Old= New=4u7, 50V, 1210
+Change Component Parameter Comment in C204 Old= New=100n, 16V, 0402
+Change Component Parameter Comment in C205 Old= New=10u, 16V, 1206
+Change Component Parameter Comment in C206 Old= New=10u, 16V, 1206
+Change Component Parameter Comment in C207 Old= New=1u, 35V, 0805 (DNP)
+Change Component Parameter Comment in D200 Old= New=CMSH3-40MA, DO-214AC
+Change Component Parameter Comment in D201 Old= New=CMSH3-40MA, DO-214AC
+Change Component Parameter Comment in D202 Old= New=CMPSH1-4, SOT-23F
+Change Component Parameter Comment in D203 Old= New=LED, GRN, 0603 (DNP)
+Change Component Parameter Comment in D204 Old= New=LED, GRN, 0603 (DNP)
+Change Component Parameter Comment in J200 Old= New=691322110005, 5p 3.5mm Euro
+Change Component Parameter Comment in JP200 Old= New=HDR_1x3_100TH_THT
+Change Component Parameter Comment in L200 Old= New=NRS8040T150MJGJ
+Change Component Parameter Comment in R200 Old= New=80m, 1/4W, 1%, 1206
+Change Component Parameter Comment in R201 Old= New=22k, 1/8W, 0805
+Change Component Parameter Comment in R202 Old= New=22k, 1/8W, 0805
+Change Component Parameter Comment in R203 Old= New=511k, 1/8W, 0805
+Change Component Parameter Comment in R204 Old= New=22k, 1/8W, 0805
+Change Component Parameter Comment in R205 Old= New=2k4, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R206 Old= New=22k, 1/8W, 0805
+Change Component Parameter Comment in R207 Old= New=487k, 1/8W, 0805
+Change Component Parameter Comment in R208 Old= New=1k, 1/8W, 0805
+Change Component Parameter Comment in R210 Old= New=25m, 1/2W, 1%, 1206
+Change Component Parameter Comment in SJ200 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ201 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in TP200 Old= New=TP (DNP)
+Change Component Parameter Comment in TP203 Old= New=TP (DNP)
+Change Component Parameter Comment in TP204 Old= New=TP (DNP)
+Change Component Parameter Comment in TP205 Old= New=TP (DNP)
+Change Component Parameter Comment in TP207 Old= New=TP (DNP)
+Change Component Parameter Comment in TP208 Old= New=TP (DNP)
+Change Component Parameter Comment in TP209 Old= New=TP (DNP)
+Change Component Parameter Comment in U200 Old= New=LT3652
+Change Component Parameter Comment in U201 Old= New=LM234SM (DNP)
+Change Component Parameter Comment in U203 Old= New=LTC2943
+Change Component Parameter Comment in VR200 Old= New=3361P-1-103GLF
+Change Value of Parameter Value in Part VR200 Old=10k New=10k LIN
+Added Parameter Function=CHRG to Part D203
+Added Parameter Function=FAULT to Part D204
+Added Parameter Function=PV_BAT_IO to Part J200
+Added Parameter Function=SHDN_EN to Part JP200
+Added Parameter Function=VIN SET to Part VR200

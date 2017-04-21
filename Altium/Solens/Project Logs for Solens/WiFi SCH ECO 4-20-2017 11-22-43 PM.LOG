@@ -1,0 +1,36 @@
+Change Component Parameter Comment in C700 Old= New=1n, 16V, 0805
+Change Component Parameter Comment in C701 Old= New=47u, 10V, 1206
+Change Component Parameter Comment in C702 Old= New=10u, 10V, 1206
+Change Component Parameter Comment in J700 Old= New=HDR_1x8_100TH_THT
+Change Component Parameter Comment in J701 Old= New=HDR_2x6_100TH_SMT (DNP)
+Change Component Parameter Comment in JP700 Old= New=HDR_2x2_100TH_THT
+Change Component Parameter Comment in Q700 Old= New=2N7002, SOT-23
+Change Component Parameter Comment in Q701 Old= New=2N7002, SOT-23
+Change Component Parameter Comment in R700 Old= New=10k, 1/8W, 0805
+Change Component Parameter Comment in R701 Old= New=10k, 1/8W, 0805
+Change Component Parameter Comment in R702 Old= New=10k, 1/8W, 0805
+Change Component Parameter Comment in R703 Old= New=10k, 1/8W, 0805
+Change Component Parameter Comment in R704 Old= New=100R, 1/8W, 0805
+Change Value of Parameter Value in Part R704 Old=100 New=100R
+Change Component Parameter Comment in R705 Old= New=100R, 1/8W, 0805
+Change Value of Parameter Value in Part R705 Old=100 New=100R
+Change Component Parameter Comment in R707 Old= New=100R, 1/8W, 0805
+Change Value of Parameter Value in Part R707 Old=100 New=100R
+Change Component Parameter Comment in R709 Old= New=100R, 1/8W, 0805
+Change Value of Parameter Value in Part R709 Old=100 New=100R
+Change Component Parameter Comment in R710 Old= New=100R, 1/8W, 0805 (DNP)
+Change Value of Parameter Value in Part R710 Old=100 (DNP) New=100R (DNP)
+Change Component Parameter Comment in R711 Old= New=10k, 1/8W, 0805
+Change Component Parameter Comment in R712 Old= New=100R, 1/8W, 0805 (DNP)
+Change Value of Parameter Value in Part R712 Old=100 (DNP) New=100R (DNP)
+Change Component Parameter Comment in SJ700 Old= New=SJ, 1206 (DNP)
+Change Component Parameter Comment in SW700 Old= New=434121043816, TACT SPST NO
+Change Value of Parameter Value in Part SW700 Old=732-7046-1-ND New=434121043816
+Change Component Parameter Comment in TP700 Old= New=TP (DNP)
+Change Component Parameter Comment in TP701 Old= New=TP (DNP)
+Change Component Parameter Comment in TP702 Old= New=TP (DNP)
+Change Component Parameter Comment in U700 Old= New=ESP8266-12E (DNP)
+Added Parameter Function=ESP GPIO to Part J701
+Added Parameter Function=WIFI BRIDGE to Part JP700
+Added Parameter Function=WIFI PROG to Part J700
+Added Parameter Function=WIFI RESET to Part SW700

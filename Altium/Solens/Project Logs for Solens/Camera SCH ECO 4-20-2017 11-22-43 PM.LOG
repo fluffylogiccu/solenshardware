@@ -1,0 +1,15 @@
+Change Component Parameter Comment in C600 Old= New=47u, 10V, 1206
+Change Component Parameter Comment in C601 Old= New=10u, 10V, 1206
+Change Component Parameter Comment in J600 Old= New=SOK_2x10_100TH_THT
+Change Component Parameter Comment in R600 Old= New=3k3, 1/8W, 0805
+Change Component Parameter Comment in R601 Old= New=3k3, 1/8W, 0805
+Change Component Parameter Comment in R602 Old= New=49R9, 1/8W, 0805
+Change Component Parameter Comment in RR600 Old= New=CRA6S833CT-ND
+Change Value of Parameter Value in Part RR600 Old=33 New=33R
+Change Component Parameter Comment in RR601 Old= New=CRA6S833CT-ND
+Change Value of Parameter Value in Part RR601 Old=33 New=33R
+Change Component Parameter Comment in RR602 Old= New=CRA6S833CT-ND
+Change Value of Parameter Value in Part RR602 Old=33 New=33R
+Change Component Parameter Comment in TP600 Old= New=TP (DNP)
+Change Component Parameter Comment in TP601 Old= New=TP (DNP)
+Added Parameter Function=OV5642 to Part J600

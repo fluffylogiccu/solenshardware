@@ -1,0 +1,26 @@
+Change Component Parameter Comment in C400 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C400 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C401 Old= New=10u, 16V, 1206
+Change Component Parameter Comment in C402 Old= New=100n, 16V, 0402
+Change Value of Parameter Value in Part C402 Old=100n, 10V New=100n, 16V
+Change Component Parameter Comment in C403 Old= New=10p, 16V, 0805
+Change Value of Parameter Value in Part C403 Old=10p, 10V New=10p, 16V
+Change Component Parameter Comment in C404 Old= New=10u, 10V, 0805
+Change Component Parameter Comment in C405 Old= New=47u, 10V, 1206
+Change Component Parameter Comment in C406 Old= New=10u, 10V, 0805
+Change Component Parameter Comment in C407 Old= New=2u2, 10V, 0805
+Change Component Parameter Comment in C408 Old= New=10n, 16V, 0805
+Change Value of Parameter Value in Part C408 Old=10n, 10V New=10n, 16V
+Change Component Parameter Comment in D400 Old= New=LED, RED, 0603 (DNP)
+Change Component Parameter Comment in J400 Old= New=HDR_1x4_100TH_THT (DNP)
+Change Component Parameter Comment in L400 Old= New=NR6028T2R2N
+Change Component Parameter Comment in R400 Old= New=0R, 1/2W, 1206
+Change Component Parameter Comment in R401 Old= New=1M, 1/8W, 0805
+Change Component Parameter Comment in R402 Old= New=100k, 1/8W, 0805
+Change Component Parameter Comment in R404 Old= New=309k, 1/8W, 0805
+Change Component Parameter Comment in R405 Old= New=20k5, 1/8W, 0805
+Change Component Parameter Comment in R406 Old= New=330, 1/8W, 0805
+Change Value of Parameter Value in Part R406 Old=330 New=330R
+Change Component Parameter Comment in U400 Old= New=LT8608
+Added Parameter Function=3V3 to Part D400
+Added Parameter Function=EXT 3V3 to Part J400

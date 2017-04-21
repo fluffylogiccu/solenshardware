@@ -1,0 +1,39 @@
+Change Component Parameter Comment in C300 Old= New=18p, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C300 Old=18p, 10V (DNP) New=18p, 16V
+Change Component Parameter Comment in C301 Old= New=18p, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C301 Old=18p, 10V (DNP) New=18p, 16V
+Change Component Parameter Comment in C302 Old= New=100n, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C302 Old=100n, 10V (DNP) New=100n, 16V
+Change Component Parameter Comment in C303 Old= New=100n, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C303 Old=100n, 10V (DNP) New=100n, 16V
+Change Component Parameter Comment in C304 Old= New=220p, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C304 Old=220p, 10V (DNP) New=220p, 10V
+Change Component Parameter Comment in C305 Old= New=220p, 16V, 0402 (DNP)
+Change Value of Parameter Value in Part C305 Old=220p, 10V (DNP) New=220p, 10V
+Change Component Parameter Comment in D300 Old= New=LED, GRN, 0603 (DNP)
+Change Component Parameter Comment in D301 Old= New=LED, RED, 0603 (DNP)
+Change Component Parameter Comment in D305 Old= New=LED, RED, 0603 (DNP)
+Change Component Parameter Comment in Q300 Old= New=MMBT3904, SOT-23 (DNP)
+Change Component Parameter Comment in R300 Old= New=3k3, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R301 Old= New=3k3, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R302 Old= New=3k3, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R303 Old= New=1M, 1/16W, 0402 (DNP)
+Change Component Parameter Comment in R304 Old= New=330, 1/8W, 0805 (DNP)
+Change Component Parameter Comment in R308 Old= New=1M, 1/16W, 0402 (DNP)
+Change Component Parameter Comment in SJ300 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in SJ301 Old= New=SJ, 0805 (DNP)
+Change Component Parameter Comment in TP300 Old= New=TP (DNP)
+Change Component Parameter Comment in TP301 Old= New=TP (DNP)
+Change Component Parameter Comment in TP302 Old= New=TP (DNP)
+Change Component Parameter Comment in TP303 Old= New=TP (DNP)
+Change Component Parameter Comment in TP304 Old= New=TP (DNP)
+Change Component Parameter Comment in TP305 Old= New=TP (DNP)
+Change Component Parameter Comment in TP306 Old= New=TP (DNP)
+Change Component Parameter Comment in U300 Old= New=MCP79412 (DNP)
+Change Component Parameter Comment in U301 Old= New=EMC1412 (DNP)
+Change Component Parameter Comment in U302 Old= New=LTC2055 (DNP)
+Change Component Parameter Comment in Y300 Old= New=ABS25-32.768KHZ-T (DNP)
+Change Value of Parameter Value in Part Y300 Old=ABS25-32.768KHZ-T (DNP) New=32k768
+Added Parameter Function=LED0 to Part D301
+Added Parameter Function=SPECT0, RED to Part D305
+Added Parameter Function=SPECT1, GRN to Part D300
