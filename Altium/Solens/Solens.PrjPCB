@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Solens
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -496,7 +496,7 @@ PageDef.mmMarginTop=6350
 PageDef.mmMarginBottom=6350
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Solens
 
 [OutputGroup1]
 Name=Netlist Outputs
