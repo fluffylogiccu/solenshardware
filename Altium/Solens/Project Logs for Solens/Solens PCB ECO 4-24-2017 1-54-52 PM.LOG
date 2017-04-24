@@ -1,0 +1,209 @@
+Change Component Comment : Designator=Q700 Old Comment= New Comment=2N7002, SOT-23
+Change Component Comment : Designator=Q701 Old Comment= New Comment=2N7002, SOT-23
+Change Component Comment : Designator=Y100 Old Comment= New Comment=9C-8.000MEEJ-T
+Change Component Comment : Designator=Y300 Old Comment= New Comment=ABS25-32.768KHZ-T (DNP)
+Change Component Comment : Designator=Y101 Old Comment= New Comment=ABS25-32.768KHZ-T
+Change Component Comment : Designator=D202 Old Comment= New Comment=CMPSH1-4, SOT-23F
+Change Component Comment : Designator=D200 Old Comment= New Comment=CMSH3-40MA, DO-214AC
+Change Component Comment : Designator=D201 Old Comment= New Comment=CMSH3-40MA, DO-214AC
+Change Component Comment : Designator=U301 Old Comment= New Comment=EMC1412, MSOP-8 (DNP)
+Change Component Comment : Designator=U700 Old Comment= New Comment=ESP8266-12E (DNP)
+Change Component Comment : Designator=U500 Old Comment= New Comment=IS42S16400J, TSOP-54
+Change Component Comment : Designator=U200 Old Comment= New Comment=LT3652, MSOP-12
+Change Component Comment : Designator=U400 Old Comment= New Comment=LT8608, MSOP-10
+Change Component Comment : Designator=U302 Old Comment= New Comment=LTC2055, MSOP-8 (DNP)
+Change Component Comment : Designator=U203 Old Comment= New Comment=LTC2943, DFN-8
+Change Component Comment : Designator=U300 Old Comment= New Comment=MCP79412, MSOP-8 (DNP)
+Change Component Comment : Designator=Q300 Old Comment= New Comment=MMBT3904, SOT-23 (DNP)
+Change Component Comment : Designator=L400 Old Comment= New Comment=NR6028T2R2N
+Change Component Comment : Designator=L200 Old Comment= New Comment=NRS8040T150MJGJ
+Change Component Comment : Designator=TP100 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP101 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP104 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP203 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP204 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP205 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP207 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP208 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP209 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP300 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP301 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP302 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP304 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP305 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP306 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP600 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP601 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP700 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=TP701 Old Comment= New Comment=TP (DNP)
+Change Component Comment : Designator=JP700 Old Comment=2x2 100 mil New Comment=HDR_2x2_100TH_THT
+Change Component Comment : Designator=J101 Old Comment=2x2 100 mil SMT New Comment=HDR_2x2_100TH_SMT (DNP)
+Change Component Comment : Designator=D400 Old Comment=3V3 New Comment=LED, RED, 0603 (DNP)
+Change Component Comment : Designator=R303 Old Comment=0402 New Comment=1M, 1/16W, 0402 (DNP)
+Change Component Comment : Designator=R308 Old Comment=0402 New Comment=1M, 1/16W, 0402 (DNP)
+Change Component Comment : Designator=C300 Old Comment=0402 New Comment=18p, 16V, 0402 (DNP)
+Change Component Comment : Designator=C301 Old Comment=0402 New Comment=18p, 16V, 0402 (DNP)
+Change Component Comment : Designator=C102 Old Comment=0402 New Comment=18p, 16V, 0402
+Change Component Comment : Designator=C103 Old Comment=0402 New Comment=18p, 16V, 0402
+Change Component Comment : Designator=C100 Old Comment=0402 New Comment=27p, 16V, 0402
+Change Component Comment : Designator=C101 Old Comment=0402 New Comment=27p, 16V, 0402
+Change Component Comment : Designator=C302 Old Comment=0402 New Comment=100n, 16V, 0402 (DNP)
+Change Component Comment : Designator=C303 Old Comment=0402 New Comment=100n, 16V, 0402 (DNP)
+Change Component Comment : Designator=C104 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C105 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C106 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C107 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C108 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C109 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C110 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C111 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C112 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C116 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C117 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C118 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C119 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C120 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C121 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C122 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C124 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C204 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C400 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C402 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C500 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C501 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C502 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C503 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C504 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C505 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C506 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C507 Old Comment=0402 New Comment=100n, 16V, 0402
+Change Component Comment : Designator=C304 Old Comment=0402 New Comment=220p, 16V, 0402 (DNP)
+Change Component Comment : Designator=C305 Old Comment=0402 New Comment=220p, 16V, 0402 (DNP)
+Change Component Comment : Designator=D300 Old Comment=0603 New Comment=LED, GRN, 0603 (DNP)
+Change Component Comment : Designator=D301 Old Comment=0603 New Comment=LED, RED, 0603 (DNP)
+Change Component Comment : Designator=D305 Old Comment=0603 New Comment=LED, RED, 0603 (DNP)
+Change Component Comment : Designator=C200 Old Comment=0805,50V New Comment=1u, 35V, 0805
+Change Component Comment : Designator=R106 Old Comment=0805 New Comment=0R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R107 Old Comment=0805 New Comment=0R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R208 Old Comment=0805 New Comment=1k, 1/8W, 0805
+Change Component Comment : Designator=R401 Old Comment=0805 New Comment=1M, 1/8W, 0805
+Change Component Comment : Designator=C700 Old Comment=0805 New Comment=1n, 16V, 0805
+Change Component Comment : Designator=C207 Old Comment=0805 New Comment=1u, 35V, 0805 (DNP)
+Change Component Comment : Designator=R205 Old Comment=0805 New Comment=2k4, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=C113 Old Comment=0805 New Comment=2u2, 10V, 0805
+Change Component Comment : Designator=C114 Old Comment=0805 New Comment=2u2, 10V, 0805
+Change Component Comment : Designator=C115 Old Comment=0805 New Comment=2u2, 10V, 0805
+Change Component Comment : Designator=C407 Old Comment=0805 New Comment=2u2, 10V, 0805
+Change Component Comment : Designator=R300 Old Comment=0805 New Comment=3k3, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R301 Old Comment=0805 New Comment=3k3, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R302 Old Comment=0805 New Comment=3k3, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R600 Old Comment=0805 New Comment=3k3, 1/8W, 0805
+Change Component Comment : Designator=R601 Old Comment=0805 New Comment=3k3, 1/8W, 0805
+Change Component Comment : Designator=R700 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R701 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R702 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R703 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R706 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R708 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=R711 Old Comment=0805 New Comment=10k, 1/8W, 0805
+Change Component Comment : Designator=C408 Old Comment=0805 New Comment=10n, 16V, 0805
+Change Component Comment : Designator=C403 Old Comment=0805 New Comment=10p, 16V, 0805
+Change Component Comment : Designator=C404 Old Comment=0805 New Comment=10u, 10V, 0805
+Change Component Comment : Designator=C406 Old Comment=0805 New Comment=10u, 10V, 0805
+Change Component Comment : Designator=R405 Old Comment=0805 New Comment=20k5, 1/8W, 0805
+Change Component Comment : Designator=R201 Old Comment=0805 New Comment=22k, 1/8W, 0805
+Change Component Comment : Designator=R202 Old Comment=0805 New Comment=22k, 1/8W, 0805
+Change Component Comment : Designator=R204 Old Comment=0805 New Comment=22k, 1/8W, 0805
+Change Component Comment : Designator=R206 Old Comment=0805 New Comment=22k, 1/8W, 0805
+Change Component Comment : Designator=R110 Old Comment=0805 New Comment=49R9, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R500 Old Comment=0805 New Comment=49R9, 1/8W, 0805
+Change Component Comment : Designator=R501 Old Comment=0805 New Comment=49R9, 1/8W, 0805
+Change Component Comment : Designator=R502 Old Comment=0805 New Comment=49R9, 1/8W, 0805
+Change Component Comment : Designator=R602 Old Comment=0805 New Comment=49R9, 1/8W, 0805
+Change Component Comment : Designator=R402 Old Comment=0805 New Comment=100k, 1/8W, 0805
+Change Component Comment : Designator=R104 Old Comment=0805 New Comment=100R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R105 Old Comment=0805 New Comment=100R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R710 Old Comment=0805 New Comment=100R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R712 Old Comment=0805 New Comment=100R, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R101 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R102 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R704 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R705 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R707 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R709 Old Comment=0805 New Comment=100R, 1/8W, 0805
+Change Component Comment : Designator=R103 Old Comment=0805 New Comment=220R, 1/8W, 0805
+Change Component Comment : Designator=R404 Old Comment=0805 New Comment=309k, 1/8W, 0805
+Change Component Comment : Designator=R304 Old Comment=0805 New Comment=330, 1/8W, 0805 (DNP)
+Change Component Comment : Designator=R406 Old Comment=0805 New Comment=330, 1/8W, 0805
+Change Component Comment : Designator=R207 Old Comment=0805 New Comment=487k, 1/8W, 0805
+Change Component Comment : Designator=R109 Old Comment=0805 New Comment=510R, 1/8W, 0805
+Change Component Comment : Designator=R203 Old Comment=0805 New Comment=511k, 1/8W, 0805
+Change Component Comment : Designator=R108 Old Comment=0805 New Comment=0805 (DNP)
+Change Component Comment : Designator=SJ100 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ101 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ102 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ106 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ107 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ108 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ109 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ112 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ300 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ301 Old Comment=0805 New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=C405 Old Comment=1206,10V New Comment=47u, 10V, 1206
+Change Component Comment : Designator=C600 Old Comment=1206,10V New Comment=47u, 10V, 1206
+Change Component Comment : Designator=C701 Old Comment=1206,10V New Comment=47u, 10V, 1206
+Change Component Comment : Designator=C601 Old Comment=1206,16V New Comment=10u, 10V, 1206
+Change Component Comment : Designator=C205 Old Comment=1206,16V New Comment=10u, 16V, 1206
+Change Component Comment : Designator=C206 Old Comment=1206,16V New Comment=10u, 16V, 1206
+Change Component Comment : Designator=C401 Old Comment=1206,16V New Comment=10u, 16V, 1206
+Change Component Comment : Designator=R400 Old Comment=1206 New Comment=0R, 1/2W, 1206
+Change Component Comment : Designator=C702 Old Comment=1206 New Comment=10u, 10V, 1206
+Change Component Comment : Designator=R210 Old Comment=1206 New Comment=25m, 1/2W, 1%, 1206
+Change Component Comment : Designator=R200 Old Comment=1206 New Comment=80m, 1/4W, 1%, 1206
+Change Component Comment : Designator=SJ700 Old Comment=1206 New Comment=SJ, 1206 (DNP)
+Change Component Comment : Designator=C201 Old Comment=1210,50V New Comment=4u7, 50V, 1210
+Change Component Comment : Designator=C202 Old Comment=1210,50V New Comment=4u7, 50V, 1210
+Change Component Comment : Designator=C203 Old Comment=1210,50V New Comment=4u7, 50V, 1210
+Change Component Comment : Designator=J200 Old Comment=691322110005 New Comment=691322110005, 5p 3.5mm Euro
+Change Component Comment : Designator=SW100 Old Comment=BTN0 New Comment=434121043816, TACT SPST NO
+Change Component Comment : Designator=J600 Old Comment=CAMERA_2x10 New Comment=SOK_2x10_100TH_THT
+Change Component Comment : Designator=D203 Old Comment=CHRG New Comment=LED, GRN, 0603 (DNP)
+Change Component Comment : Designator=J701 Old Comment=ESP_GPIO New Comment=HDR_2x6_100TH_SMT (DNP)
+Change Component Comment : Designator=J400 Old Comment=EXT 3V3 New Comment=HDR_1x4_100TH_THT (DNP)
+Change Component Comment : Designator=D204 Old Comment=FAULT New Comment=LED, GRN, 0603 (DNP)
+Change Component Comment : Designator=J102 Old Comment=GPIO New Comment=HDR_2x8_100TH_SMT (DNP)
+Change Component Comment : Designator=J100 Old Comment=HDR_FTDI New Comment=HDR_1x6_100TH_THT
+Change Component Comment : Designator=J700 Old Comment=HDR_FTDI_EXTENDED New Comment=HDR_1x8_100TH_THT
+Change Component Comment : Designator=J103 Old Comment=HDR_SWD_2x6 New Comment=HDR_2x8_100TH_SMT
+Change Component Comment : Designator=U201 Old Comment=LM234SM New Comment=LM234SM, SOIC-8 (DNP)
+Change Component Comment : Designator=MTGH1 Old Comment=MTGH New Comment=M3x0.5 (DNP)
+Change Component Comment : Designator=MTGH2 Old Comment=MTGH New Comment=M3x0.5 (DNP)
+Change Component Comment : Designator=MTGH3 Old Comment=MTGH New Comment=M3x0.5 (DNP)
+Change Component Comment : Designator=MTGH4 Old Comment=MTGH New Comment=M3x0.5 (DNP)
+Change Component Comment : Designator=RR503 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR504 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR505 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR506 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR600 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR601 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR602 Old Comment=RES_ARR_4 New Comment=CRA6S833CT-ND
+Change Component Comment : Designator=RR500 Old Comment=RES_ARR_4 New Comment=CRA6S849.9ACT-ND
+Change Component Comment : Designator=RR501 Old Comment=RES_ARR_4 New Comment=CRA6S849.9ACT-ND
+Change Component Comment : Designator=RR502 Old Comment=RES_ARR_4 New Comment=CRA6S849.9ACT-ND
+Change Component Comment : Designator=RR507 Old Comment=RES_ARR_4 New Comment=CRA6S849.9ACT-ND
+Change Component Comment : Designator=RR508 Old Comment=RES_ARR_4 New Comment=CRA6S849.9ACT-ND
+Change Component Comment : Designator=SW101 Old Comment=RESET New Comment=434121043816, TACT SPST NO
+Change Component Comment : Designator=SW700 Old Comment=RESET New Comment=434121043816, TACT SPST NO
+Change Component Comment : Designator=JP200 Old Comment=SHDN_EN New Comment=HDR_1x3_100TH_THT
+Change Component Comment : Designator=SJ200 Old Comment=SJ New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=SJ201 Old Comment=SJ New Comment=SJ, 0805 (DNP)
+Change Component Comment : Designator=U100 Old Comment=STM32F429 New Comment=STM32F429ZIT6, LQFP-144
+Change Component Comment : Designator=TP105 Old Comment=TP_LARGE New Comment=TP (DNP)
+Change Component Comment : Designator=TP106 Old Comment=TP_LARGE New Comment=TP (DNP)
+Change Component Comment : Designator=TP200 Old Comment=TP_LARGE New Comment=TP (DNP)
+Change Component Comment : Designator=TP303 Old Comment=TP_LARGE New Comment=TP (DNP)
+Change Component Comment : Designator=TP702 Old Comment=TP_LARGE New Comment=TP (DNP)
+Change Component Comment : Designator=TP500 Old Comment=TP_TINY New Comment=TP (DNP)
+Change Component Comment : Designator=TP501 Old Comment=TP_TINY New Comment=TP (DNP)
+Change Component Comment : Designator=VR200 Old Comment=Vin Set New Comment=3361P-1-103GLF
+Added Member To Class: ClassName=Z6 Member=Component J600 SOK_2x10_100TH_THT

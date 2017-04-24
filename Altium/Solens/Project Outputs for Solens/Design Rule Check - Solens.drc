@@ -1,93 +1,93 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\qux\projects\solenshardware\Altium\Solens\Solens.PcbDoc
-Date     : 3/30/2017
-Time     : 9:25:27 AM
+PCB File : C:\Users\akyo9778\Documents\solenshardware\Altium\Solens\Solens.PcbDoc
+Date     : 4/24/2017
+Time     : 1:55:23 PM
 
 WARNING: Unplated multi-layer pad(s) detected
-   Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer on Net GND
-   Pad MTGH3-1(5314.961mil,2559.055mil) on Multi-Layer on Net GND
-   Pad MTGH2-1(196.85mil,2559.055mil) on Multi-Layer on Net GND
    Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer on Net GND
+   Pad MTGH2-1(196.85mil,2559.055mil) on Multi-Layer on Net GND
+   Pad MTGH3-1(5314.961mil,2559.055mil) on Multi-Layer on Net GND
+   Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer on Net GND
 
-Processing Rule : Room Z6 (Bounding Region = (6533.072mil, 6040.945mil, 7911.024mil, 7306.299mil) (Disabled)(InComponentClass('Z6'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=120mil) (Preferred=8mil) (InComponent('MTGH*'))
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InComponent('MTGH*') And (IsFill Or IsPad Or IsTrack)),(InComponent('MTG*') And (IsFill Or IsPad Or IsTrack))
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InComponent('SJ*') And (IsFill Or IsPad Or IsTrack)),(InComponent('SJ*') And (IsFill Or IsPad Or IsTrack Or IsRegion))
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0mil) (InComponent('SJ*') And (IsFill Or IsPad Or IsTrack)),(InComponent('SJ*') And (IsFill Or IsPad Or IsTrack))
-Rule Violations :0
-
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=8mil) (Max=250mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 1mil, Vertical Gap = 10mil ) (All),(All) 
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=7mil) (Max=12mil) (Preferred=8mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Unplated Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad MTGH2-1(196.85mil,2559.055mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad MTGH3-1(5314.961mil,2559.055mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Unplated Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer 
-Rule Violations :4
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('PWR'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('HVY'))
-Rule Violations :0
-
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('J600')),(InComponent('RR6*') Or InComponent('R6*') Or InComponent('C6*')) 
-Rule Violations :0
-
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('JP700')),(InComponent('JP701')) 
-Rule Violations :0
-
-Processing Rule : Room Z7 (Bounding Region = (5794.882mil, 7369.685mil, 7911.024mil, 8698.424mil) (Disabled)(InComponentClass('Z7'))
+Processing Rule : Room Z2 (Bounding Region = (4416.929mil, 8058.661mil, 5794.882mil, 8698.424mil) (Disabled)(InComponentClass('Z2'))
 Rule Violations :0
 
 Processing Rule : Room Z1 (Bounding Region = (2300.787mil, 7664.961mil, 4416.929mil, 8698.425mil) (Disabled)(InComponentClass('Z1'))
 Rule Violations :0
 
-Processing Rule : Room Z2 (Bounding Region = (4416.929mil, 8058.661mil, 5794.882mil, 8698.424mil) (Disabled)(InComponentClass('Z2'))
+Processing Rule : Room Z7 (Bounding Region = (5794.882mil, 7369.685mil, 7911.024mil, 8698.424mil) (Disabled)(InComponentClass('Z7'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('JP700')),(InComponent('JP701')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (InComponent('J600')),(InComponent('RR6*') Or InComponent('R6*') Or InComponent('C6*')) 
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('HVY'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=64mil) (Preferred=8mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Unplated Pad MTGH1-1(196.85mil,196.85mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MTGH2-1(196.85mil,2559.055mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MTGH4-1(3937.008mil,196.85mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MTGH3-1(5314.961mil,2559.055mil) on Multi-Layer 
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=12mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 1mil, Vertical Gap = 10mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=8mil) (Max=250mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (InComponent('SJ*') And (IsFill Or IsPad Or IsTrack)),(InComponent('SJ*') And (IsFill Or IsPad Or IsTrack))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InComponent('SJ*') And (IsFill Or IsPad Or IsTrack)),(InComponent('SJ*') And (IsFill Or IsPad Or IsTrack Or IsRegion))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InComponent('MTGH*') And (IsFill Or IsPad Or IsTrack)),(InComponent('MTG*') And (IsFill Or IsPad Or IsTrack))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=120mil) (Preferred=8mil) (InComponent('MTGH*'))
+Rule Violations :0
+
+Processing Rule : Room Z6 (Bounding Region = (6533.072mil, 6040.945mil, 7911.024mil, 7306.299mil) (Disabled)(InComponentClass('Z6'))
 Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:22
+Time Elapsed        : 00:00:06
